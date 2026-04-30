@@ -3,7 +3,10 @@ import { HomeScreen } from './components/HomeScreen.tsx';
 import { LearnedScreen } from './components/LearnedScreen.tsx';
 import { StudyScreen } from './components/StudyScreen.tsx';
 
-type Screen = { name: 'home' } | { name: 'study'; topicSlug: string } | { name: 'learned' };
+type Screen =
+  | { name: 'home' }
+  | { name: 'study'; topicSlug: string | null }
+  | { name: 'learned' };
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>({ name: 'home' });
@@ -24,6 +27,7 @@ export default function App() {
   return (
     <HomeScreen
       onSelectTopic={(slug) => setScreen({ name: 'study', topicSlug: slug })}
+      onStartPractice={() => setScreen({ name: 'study', topicSlug: null })}
       onViewLearned={() => setScreen({ name: 'learned' })}
     />
   );

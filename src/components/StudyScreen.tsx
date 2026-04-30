@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { ALL_TOPICS } from '../data/index.ts';
+import { ALL_CARDS, ALL_TOPICS } from '../data/index.ts';
 import { getAllCardStates, logReview, saveCardState } from '../lib/storage.ts';
 import { calculateNextReview, createNewCard, isDue } from '../lib/srs.ts';
 import { Rating } from '../types/index.ts';
@@ -9,14 +9,14 @@ import { RatingBar } from './RatingBar.tsx';
 import './StudyScreen.css';
 
 interface Props {
-  topicSlug: string;
+  topicSlug: string | null; // null = daily review (all topics, due cards only)
   onExit: () => void;
 }
 
 type Phase = 'loading' | 'studying' | 'done';
 
 export function StudyScreen({ topicSlug, onExit }: Props) {
-  const topic = ALL_TOPICS.find((t) => t.slug === topicSlug)!;
+  const topic = topicSlug ? ALL_TOPICS.find((t) => t.slug === topicSlug)! : null;
 
   const [phase, setPhase] = useState<Phase>('loading');
   const [queue, setQueue] = useState<Card[]>([]);
@@ -32,14 +32,27 @@ export function StudyScreen({ topicSlug, onExit }: Props) {
   useEffect(() => {
     getAllCardStates().then((states) => {
       statesRef.current = states;
-      const dueCards = topic.cards.filter((card) => {
-        const s = states[card.id];
-        return !s || isDue(s);
-      });
-      const initial = dueCards.length > 0 ? dueCards : [...topic.cards];
+
+      let initial: Card[];
+      if (topic) {
+        const dueCards = topic.cards.filter((card) => {
+          const s = states[card.id];
+          return !s || isDue(s);
+        });
+        initial = dueCards.length > 0 ? dueCards : [...topic.cards];
+      } else {
+        // Daily review: only cards already seen (stage >= 1) and due now
+        initial = ALL_CARDS.filter((card) => {
+          const s = states[card.id];
+          return s && s.stage >= 1 && isDue(s);
+        });
+        // Shuffle so topics are mixed
+        initial = initial.sort(() => Math.random() - 0.5);
+      }
+
       setQueue(initial);
       setIndex(0);
-      setPhase('studying');
+      setPhase(initial.length > 0 ? 'studying' : 'done');
     });
   }, [topic]);
 
@@ -141,8 +154,11 @@ export function StudyScreen({ topicSlug, onExit }: Props) {
       <header className="study__header">
         <button className="study__back" onClick={onExit} aria-label="Back">← Back</button>
         <div className="study__topic">
-          <span>{topic.emoji}</span>
-          <span>{topic.name}</span>
+          {topic ? (
+            <><span>{topic.emoji}</span><span>{topic.name}</span></>
+          ) : (
+            <><span>📅</span><span>Daily Review</span></>
+          )}
         </div>
         <span className="study__count">{index + 1} / {total}</span>
       </header>

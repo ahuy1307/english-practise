@@ -8,6 +8,7 @@ import './HomeScreen.css';
 
 interface Props {
   onSelectTopic: (slug: string) => void;
+  onStartPractice: () => void;
   onViewLearned: () => void;
 }
 
@@ -47,9 +48,10 @@ function heatIntensity(count: number): string {
   return 'heat-4';
 }
 
-export function HomeScreen({ onSelectTopic, onViewLearned }: Props) {
+export function HomeScreen({ onSelectTopic, onStartPractice, onViewLearned }: Props) {
   const [progress, setProgress] = useState<Record<string, TopicProgress>>({});
   const [reviewLog, setReviewLog] = useState<ReviewDay[]>([]);
+  const [dueReview, setDueReview] = useState(0);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -72,6 +74,15 @@ export function HomeScreen({ onSelectTopic, onViewLearned }: Props) {
         }
         map[topic.slug] = { total: topic.cards.length, due, newCount, learningCount, masteredCount };
       }
+      // Also compute global due-review count (previously-seen cards scheduled for today)
+      let dueReviewGlobal = 0;
+      for (const topic of ALL_TOPICS) {
+        for (const card of topic.cards) {
+          const s = states[card.id];
+          if (s && s.stage >= 1 && isDue(s)) dueReviewGlobal++;
+        }
+      }
+      setDueReview(dueReviewGlobal);
       setProgress(map);
       setReviewLog(log);
       setLoading(false);
@@ -153,6 +164,30 @@ export function HomeScreen({ onSelectTopic, onViewLearned }: Props) {
                 </span>
               </div>
             </section>
+
+            {/* SRS practice section */}
+            {(totalMastered + totalLearning) > 0 && (
+              <section className="home__srs">
+                <div className="home__srs-label">
+                  <span>Spaced Repetition</span>
+                  <span className="home__srs-sub">cards scheduled for review</span>
+                </div>
+                {dueReview > 0 ? (
+                  <button className="home__srs-btn" onClick={onStartPractice}>
+                    <div className="home__srs-count">
+                      <span className="home__srs-num">{dueReview}</span>
+                      <span className="home__srs-unit">cards due today</span>
+                    </div>
+                    <span className="home__srs-arrow">Start review →</span>
+                  </button>
+                ) : (
+                  <div className="home__srs-done">
+                    <span className="home__srs-done-icon">✓</span>
+                    <span>All caught up — nothing due right now</span>
+                  </div>
+                )}
+              </section>
+            )}
 
             {/* Per-topic grid */}
             <section className="home__topics">
