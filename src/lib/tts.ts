@@ -92,7 +92,7 @@ export async function speak(text: string): Promise<void> {
   const isConfigured = supabaseUrl.length > 0 && !supabaseUrl.startsWith('https://your-');
 
   if (isConfigured) {
-    return fetchViaEdge(text).then(playBuffer);
+    return fetchViaEdge(text).then(playBuffer).catch(() => webSpeak(text));
   }
   return webSpeak(text);
 }
