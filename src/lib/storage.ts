@@ -7,6 +7,7 @@ interface DbCardRow {
   ease_factor: number;
   repetitions: number; // used as stage
   due_date: string;
+  learned_at: string | null;
 }
 
 interface DbReviewRow {
@@ -19,6 +20,7 @@ function rowToState(row: DbCardRow): CardState {
     stage: row.repetitions,
     interval: row.interval,
     dueDate: row.due_date,
+    learnedAt: row.learned_at ?? undefined,
   };
 }
 

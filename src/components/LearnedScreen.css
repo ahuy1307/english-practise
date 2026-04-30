@@ -1,0 +1,360 @@
+.learned {
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+}
+
+/* ── Header ── */
+.learned__header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 10;
+}
+
+.learned__back {
+  font-size: 14px;
+  color: var(--text-muted);
+  padding: 6px 0;
+  transition: color 0.15s;
+  flex-shrink: 0;
+}
+
+.learned__back:hover { color: var(--text); }
+
+.learned__title {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 400;
+  flex: 1;
+}
+
+.learned__total {
+  font-size: 12px;
+  color: var(--text-faint);
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
+}
+
+/* ── Daily chart ── */
+.lc-chart {
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lc-chart__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.lc-chart__title {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.lc-chart__total {
+  font-size: 12px;
+  color: var(--accent);
+}
+
+.lc-chart__bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 72px;
+}
+
+.lc-chart__col {
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  height: 100%;
+  cursor: default;
+}
+
+.lc-chart__bar {
+  width: 100%;
+  border-radius: 2px 2px 0 0;
+  background: var(--surface-3);
+  transition: background 0.15s, height 0.4s ease;
+}
+
+.lc-chart__bar--filled {
+  background: var(--accent-dim);
+}
+
+.lc-chart__col:hover .lc-chart__bar--filled {
+  background: var(--accent);
+}
+
+.lc-chart__axis {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: var(--text-faint);
+  letter-spacing: 0.02em;
+}
+
+/* ── Filters ── */
+.learned__filters {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.learned__search {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-family: var(--font-ui);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.learned__search::placeholder { color: var(--text-faint); }
+.learned__search:focus { border-color: var(--border-hover); }
+
+.learned__tabs {
+  display: flex;
+  gap: 4px;
+}
+
+.learned__tab {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+
+.learned__tab:hover { color: var(--text); border-color: var(--border-hover); }
+
+.learned__tab--active {
+  color: var(--accent);
+  background: var(--accent-glow);
+  border-color: var(--accent-dim);
+}
+
+.learned__tab-count {
+  font-size: 11px;
+  color: var(--text-faint);
+  background: var(--surface-3);
+  border-radius: 10px;
+  padding: 1px 6px;
+  min-width: 20px;
+  text-align: center;
+}
+
+.learned__tab--active .learned__tab-count {
+  background: rgba(201, 169, 110, 0.2);
+  color: var(--accent);
+}
+
+.learned__topic-select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-family: var(--font-ui);
+  color: var(--text-muted);
+  outline: none;
+  cursor: pointer;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+
+.learned__topic-select:focus { border-color: var(--border-hover); }
+
+/* ── List ── */
+.learned__list {
+  flex: 1;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 8px 24px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.learned__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+
+.learned__item:last-child { border-bottom: none; }
+
+.learned__item-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.learned__phrase {
+  font-size: 17px;
+  color: var(--text);
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.learned__pronunciation {
+  font-size: 12px;
+  color: var(--text-faint);
+  font-style: italic;
+  letter-spacing: 0.01em;
+}
+
+.learned__example {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-top: 2px;
+}
+
+.learned__topic-tag {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--text-faint);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 2px 8px;
+}
+
+.learned__item-aside {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+/* ── Badge ── */
+.learned__badge {
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: var(--surface-2);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.learned__badge--mastered {
+  background: var(--accent-glow);
+  color: var(--accent);
+  border-color: var(--accent-dim);
+}
+
+/* ── Speak button ── */
+.learned__speak {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text-faint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, border-color 0.15s;
+  flex-shrink: 0;
+}
+
+.learned__speak:hover {
+  color: var(--accent);
+  border-color: var(--border-hover);
+}
+
+.learned__speak--playing {
+  color: var(--accent);
+  border-color: var(--accent-dim);
+  animation: learned-pulse 1s ease-in-out infinite;
+}
+
+@keyframes learned-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(201, 169, 110, 0.4); }
+  50%       { box-shadow: 0 0 0 5px rgba(201, 169, 110, 0); }
+}
+
+/* ── Empty / Loading ── */
+.learned__empty {
+  padding: 64px 0;
+  text-align: center;
+  color: var(--text-faint);
+  font-size: 14px;
+}
+
+.learned__loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 80px 0;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.learned__spinner {
+  display: block;
+  width: 28px;
+  height: 28px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .learned__filters { padding: 12px 16px; }
+  .learned__list { padding: 4px 16px 48px; }
+  .learned__header { padding: 16px; }
+
+  .learned__phrase { font-size: 15px; }
+  .learned__tab { font-size: 12px; padding: 7px 8px; }
+}

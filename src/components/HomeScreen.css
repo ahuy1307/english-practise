@@ -163,6 +163,12 @@
   gap: 16px;
 }
 
+.home__section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .home__section-title {
   font-family: var(--font-ui);
   font-size: 11px;
@@ -171,6 +177,14 @@
   text-transform: uppercase;
   color: var(--text-faint);
 }
+
+.home__learned-link {
+  font-size: 12px;
+  color: var(--accent-dim);
+  transition: color 0.15s;
+}
+
+.home__learned-link:hover { color: var(--accent); }
 
 .home__grid {
   display: grid;

@@ -1,8 +1,9 @@
 import { useState } from 'react';
 import { HomeScreen } from './components/HomeScreen.tsx';
+import { LearnedScreen } from './components/LearnedScreen.tsx';
 import { StudyScreen } from './components/StudyScreen.tsx';
 
-type Screen = { name: 'home' } | { name: 'study'; topicSlug: string };
+type Screen = { name: 'home' } | { name: 'study'; topicSlug: string } | { name: 'learned' };
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>({ name: 'home' });
@@ -16,7 +17,14 @@ export default function App() {
     );
   }
 
+  if (screen.name === 'learned') {
+    return <LearnedScreen onBack={() => setScreen({ name: 'home' })} />;
+  }
+
   return (
-    <HomeScreen onSelectTopic={(slug) => setScreen({ name: 'study', topicSlug: slug })} />
+    <HomeScreen
+      onSelectTopic={(slug) => setScreen({ name: 'study', topicSlug: slug })}
+      onViewLearned={() => setScreen({ name: 'learned' })}
+    />
   );
 }

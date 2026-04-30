@@ -1,12 +1,6 @@
-// Audio is fetched via a Supabase Edge Function — the ElevenLabs key never
-// leaves the server. Falls back to the free Web Speech API if Supabase is
-// not configured (e.g. during local dev without credentials).
-
 const audioCache = new Map<string, ArrayBuffer>();
 let currentAudio: HTMLAudioElement | null = null;
 let currentController: AbortController | null = null;
-
-// ── Supabase Edge Function proxy ─────────────────────────────────────────────
 
 async function fetchViaEdge(text: string): Promise<ArrayBuffer> {
   const cached = audioCache.get(text);
@@ -49,52 +43,9 @@ function playBuffer(buffer: ArrayBuffer): Promise<void> {
   });
 }
 
-// ── Web Speech API fallback ──────────────────────────────────────────────────
-
-let voicesReady = false;
-
-function ensureVoices(): Promise<void> {
-  if (voicesReady || window.speechSynthesis.getVoices().length > 0) {
-    voicesReady = true;
-    return Promise.resolve();
-  }
-  return new Promise((resolve) => {
-    window.speechSynthesis.onvoiceschanged = () => { voicesReady = true; resolve(); };
-    setTimeout(resolve, 500);
-  });
-}
-
-async function webSpeak(text: string): Promise<void> {
-  await ensureVoices();
-  window.speechSynthesis.cancel();
-  return new Promise((resolve, reject) => {
-    const utt = new SpeechSynthesisUtterance(text);
-    utt.lang = 'en-US';
-    utt.rate = 0.88;
-    const voices = window.speechSynthesis.getVoices();
-    const voice =
-      voices.find((v) => v.lang === 'en-US' && v.localService) ??
-      voices.find((v) => v.lang === 'en-US') ??
-      voices[0] ?? null;
-    if (voice) utt.voice = voice;
-    utt.onend = () => resolve();
-    utt.onerror = (e) => { if (e.error === 'interrupted') resolve(); else reject(e); };
-    window.speechSynthesis.speak(utt);
-  });
-}
-
-// ── Public API ───────────────────────────────────────────────────────────────
-
 export async function speak(text: string): Promise<void> {
   cancelSpeech();
-
-  const supabaseUrl = (import.meta.env.VITE_SUPABASE_URL as string | undefined) ?? '';
-  const isConfigured = supabaseUrl.length > 0 && !supabaseUrl.startsWith('https://your-');
-
-  if (isConfigured) {
-    return fetchViaEdge(text).then(playBuffer).catch(() => webSpeak(text));
-  }
-  return webSpeak(text);
+  return fetchViaEdge(text).then(playBuffer);
 }
 
 export function cancelSpeech(): void {
@@ -106,6 +57,4 @@ export function cancelSpeech(): void {
     currentAudio.src = '';
     currentAudio = null;
   }
-
-  window.speechSynthesis.cancel();
 }

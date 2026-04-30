@@ -8,6 +8,7 @@ import './HomeScreen.css';
 
 interface Props {
   onSelectTopic: (slug: string) => void;
+  onViewLearned: () => void;
 }
 
 function calcStreak(log: ReviewDay[]): number {
@@ -46,7 +47,7 @@ function heatIntensity(count: number): string {
   return 'heat-4';
 }
 
-export function HomeScreen({ onSelectTopic }: Props) {
+export function HomeScreen({ onSelectTopic, onViewLearned }: Props) {
   const [progress, setProgress] = useState<Record<string, TopicProgress>>({});
   const [reviewLog, setReviewLog] = useState<ReviewDay[]>([]);
   const [loading, setLoading] = useState(true);
@@ -155,7 +156,14 @@ export function HomeScreen({ onSelectTopic }: Props) {
 
             {/* Per-topic grid */}
             <section className="home__topics">
-              <h2 className="home__section-title">Topics</h2>
+              <div className="home__section-header">
+                <h2 className="home__section-title">Topics</h2>
+                {(totalMastered + totalLearning) > 0 && (
+                  <button className="home__learned-link" onClick={onViewLearned}>
+                    View learned words →
+                  </button>
+                )}
+              </div>
               <div className="home__grid">
                 {ALL_TOPICS.map((topic) => (
                   <TopicCard

@@ -14,6 +14,7 @@ export interface CardState {
   stage: number;    // 0 = new/reset, 1–4 = learning, 5 = mastered
   interval: number;
   dueDate: string;
+  learnedAt?: string; // ISO timestamp, set once when card first reaches stage >= 1
 }
 
 export const Rating = { DontKnow: 0, Know: 1 } as const;
