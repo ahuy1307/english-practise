@@ -1,0 +1,374 @@
+[
+  {
+    "topic": "Time & Routine",
+    "phrase": "What time do you usually wake up?",
+    "pronunciation": "/wʌt taɪm du ju ˈjuʒuəli weɪk ʌp/",
+    "example": "What time do you usually wake up? I'm trying to get on a better schedule."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I wake up at six every morning.",
+    "pronunciation": "/aɪ weɪk ʌp æt sɪks ˈɛvri ˈmɔrnɪŋ/",
+    "example": "I wake up at six every morning — it gives me time to work out before the day starts."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "My alarm goes off at seven.",
+    "pronunciation": "/maɪ əˈlɑrm ɡoʊz ɔf æt ˈsɛvən/",
+    "example": "My alarm goes off at seven but I usually hit snooze at least twice."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm a morning person.",
+    "pronunciation": "/aɪm ə ˈmɔrnɪŋ ˈpɜrsən/",
+    "example": "I'm a morning person — I get my best work done before ten AM."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm more of a night owl.",
+    "pronunciation": "/aɪm mɔr əv ə naɪt aʊl/",
+    "example": "I'm more of a night owl — I can't function before eight in the morning."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I have a set routine.",
+    "pronunciation": "/aɪ hæv ə sɛt ruˈtin/",
+    "example": "I have a set routine — same thing every morning, it helps me stay focused."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "First thing I do is make coffee.",
+    "pronunciation": "/fɜrst θɪŋ aɪ du ɪz meɪk ˈkɔfi/",
+    "example": "First thing I do is make coffee — nothing happens before that cup."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I skip breakfast sometimes.",
+    "pronunciation": "/aɪ skɪp ˈbrɛkfəst ˈsʌmˌtaɪmz/",
+    "example": "I skip breakfast sometimes when I'm running late — I know it's a bad habit."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm running a little late.",
+    "pronunciation": "/aɪm ˈrʌnɪŋ ə ˈlɪtəl leɪt/",
+    "example": "I'm running a little late — traffic on I-35 is a nightmare this morning."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll be there in about ten minutes.",
+    "pronunciation": "/aɪl bi ðɛr ɪn əˈbaʊt tɛn ˈmɪnɪts/",
+    "example": "I'll be there in about ten minutes — just pulling out of the parking lot now."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm on my way.",
+    "pronunciation": "/aɪm ɑn maɪ weɪ/",
+    "example": "I'm on my way — left the house about five minutes ago."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Can we push the meeting back?",
+    "pronunciation": "/kæn wi pʊʃ ðə ˈmitɪŋ bæk/",
+    "example": "Can we push the meeting back by thirty minutes? Something came up."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Does that time work for you?",
+    "pronunciation": "/dʌz ðæt taɪm wɜrk fər ju/",
+    "example": "Does that time work for you, or would you prefer later in the afternoon?"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm free after three.",
+    "pronunciation": "/aɪm fri ˈæftər θri/",
+    "example": "I'm free after three — want to grab coffee then?"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I have a full schedule today.",
+    "pronunciation": "/aɪ hæv ə fʊl ˈskɛdʒul təˈdeɪ/",
+    "example": "I have a full schedule today — back-to-back meetings from nine to five."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Let me check my calendar.",
+    "pronunciation": "/lɛt mi tʃɛk maɪ ˈkælɪndər/",
+    "example": "Let me check my calendar — I want to make sure I don't have a conflict."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll put it on the calendar.",
+    "pronunciation": "/aɪl pʊt ɪt ɑn ðə ˈkælɪndər/",
+    "example": "I'll put it on the calendar right now so I don't forget."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Don't forget to set a reminder.",
+    "pronunciation": "/doʊnt fərˈɡɛt tə sɛt ə rɪˈmaɪndər/",
+    "example": "Don't forget to set a reminder — you always forget about these things."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "What's your lunch break like?",
+    "pronunciation": "/wʌts jʊr lʌntʃ breɪk laɪk/",
+    "example": "What's your lunch break like? Do you get a full hour or just thirty minutes?"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I usually eat at my desk.",
+    "pronunciation": "/aɪ ˈjuʒuəli it æt maɪ dɛsk/",
+    "example": "I usually eat at my desk — the workload doesn't really allow for a break."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I get off work at five.",
+    "pronunciation": "/aɪ ɡɛt ɔf wɜrk æt faɪv/",
+    "example": "I get off work at five — want to meet up after that?"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I work from home on Fridays.",
+    "pronunciation": "/aɪ wɜrk frʌm hoʊm ɑn ˈfraɪdeɪz/",
+    "example": "I work from home on Fridays — it makes the weekend feel a little longer."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "My commute is about forty minutes.",
+    "pronunciation": "/maɪ kəˈmjut ɪz əˈbaʊt ˈfɔrti ˈmɪnɪts/",
+    "example": "My commute is about forty minutes each way — mostly highway, which isn't too bad."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I listen to podcasts on the drive.",
+    "pronunciation": "/aɪ ˈlɪsən tə ˈpɑdˌkæsts ɑn ðə draɪv/",
+    "example": "I listen to podcasts on the drive — makes the commute go by faster."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I try to wind down by nine.",
+    "pronunciation": "/aɪ traɪ tə waɪnd daʊn baɪ naɪn/",
+    "example": "I try to wind down by nine — no screens, just reading before bed."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I go to bed around ten thirty.",
+    "pronunciation": "/aɪ ɡoʊ tə bɛd əˈraʊnd tɛn ˈθɜrti/",
+    "example": "I go to bed around ten thirty — any later and I'm useless the next morning."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've been staying up too late.",
+    "pronunciation": "/aɪv bɪn ˈsteɪɪŋ ʌp tu leɪt/",
+    "example": "I've been staying up too late scrolling on my phone — it's a bad habit."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I need at least eight hours.",
+    "pronunciation": "/aɪ nid æt list eɪt ˈaʊərz/",
+    "example": "I need at least eight hours to feel human the next day."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "The week flew by.",
+    "pronunciation": "/ðə wik flu baɪ/",
+    "example": "The week flew by — I can't believe it's already Friday."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "The weekend is almost here.",
+    "pronunciation": "/ðə ˈwikˌɛnd ɪz ˈɔlmoʊst hɪr/",
+    "example": "The weekend is almost here — I've been counting down since Monday."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've got a lot on my plate.",
+    "pronunciation": "/aɪv ɡɑt ə lɑt ɑn maɪ pleɪt/",
+    "example": "I've got a lot on my plate this week — barely have time to breathe."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I need to prioritize better.",
+    "pronunciation": "/aɪ nid tə praɪˈɔrɪˌtaɪz ˈbɛtər/",
+    "example": "I need to prioritize better — I keep doing the easy stuff and avoiding the hard stuff."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm a procrastinator.",
+    "pronunciation": "/aɪm ə proʊˈkræstɪˌneɪtər/",
+    "example": "I'm a procrastinator — I always wait until the last minute and then regret it."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll get to it later.",
+    "pronunciation": "/aɪl ɡɛt tə ɪt ˈleɪtər/",
+    "example": "I'll get to it later — right now I'm focused on finishing this first."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I lost track of time.",
+    "pronunciation": "/aɪ lɔst træk əv taɪm/",
+    "example": "I lost track of time — I didn't realize it was already six o'clock."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Time got away from me.",
+    "pronunciation": "/taɪm ɡɑt əˈweɪ frʌm mi/",
+    "example": "Time got away from me today — I barely got anything on my list done."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm trying to build better habits.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə bɪld ˈbɛtər ˈhæbɪts/",
+    "example": "I'm trying to build better habits — waking up earlier and working out consistently."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've been in a rut lately.",
+    "pronunciation": "/aɪv bɪn ɪn ə rʌt ˈleɪtli/",
+    "example": "I've been in a rut lately — doing the same thing every day and feeling stuck."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I need a change of pace.",
+    "pronunciation": "/aɪ nid ə tʃeɪndʒ əv peɪs/",
+    "example": "I need a change of pace — same routine every day is starting to wear on me."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "ASAP — as soon as possible.",
+    "pronunciation": "/eɪ sæp æz sun æz ˈpɑsəbəl/",
+    "example": "The boss needs that report ASAP — try to have it done by noon."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "In the meantime...",
+    "pronunciation": "/ɪn ðə ˈminˌtaɪm/",
+    "example": "In the meantime, let's keep things running as normal while we wait."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Give me just a sec.",
+    "pronunciation": "/ɡɪv mi dʒʌst ə sɛk/",
+    "example": "Give me just a sec — I need to send this text real quick."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Hold on a moment.",
+    "pronunciation": "/hoʊld ɑn ə ˈmoʊmənt/",
+    "example": "Hold on a moment — let me finish up this email and I'll be right with you."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll be done in five minutes.",
+    "pronunciation": "/aɪl bi dʌn ɪn faɪv ˈmɪnɪts/",
+    "example": "I'll be done in five minutes — just wrapping something up."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've been up since five AM.",
+    "pronunciation": "/aɪv bɪn ʌp sɪns faɪv eɪ ɛm/",
+    "example": "I've been up since five AM — it's going to be a long day."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I need to get moving.",
+    "pronunciation": "/aɪ nid tə ɡɛt ˈmuvɪŋ/",
+    "example": "I need to get moving — I'm going to be late if I don't leave in the next five minutes."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've got errands to run.",
+    "pronunciation": "/aɪv ɡɑt ˈɛrəndz tə rʌn/",
+    "example": "I've got errands to run after work — the bank, the pharmacy, and the grocery store."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Same time next week?",
+    "pronunciation": "/seɪm taɪm nɛkst wik/",
+    "example": "Same time next week? — Works for me!"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll pencil you in.",
+    "pronunciation": "/aɪl ˈpɛnsəl ju ɪn/",
+    "example": "I'll pencil you in for Thursday at two — but confirm the day before, just in case."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I have a dentist appointment tomorrow.",
+    "pronunciation": "/aɪ hæv ə ˈdɛntɪst əˈpɔɪntmənt təˈmɑroʊ/",
+    "example": "I have a dentist appointment tomorrow — I need to leave work a little early."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "Can we reschedule for next week?",
+    "pronunciation": "/kæn wi riˈskɛdʒul fər nɛkst wik/",
+    "example": "Can we reschedule for next week? Something came up on my end."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm double-booked that day.",
+    "pronunciation": "/aɪm ˈdʌbəl bʊkt ðæt deɪ/",
+    "example": "I'm double-booked that day — can we find another time that works for both of us?"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "That works perfectly for me.",
+    "pronunciation": "/ðæt wɜrks ˈpɜrfɪktli fər mi/",
+    "example": "That works perfectly for me — see you then!"
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I try to plan my week on Sundays.",
+    "pronunciation": "/aɪ traɪ tə plæn maɪ wik ɑn ˈsʌndeɪz/",
+    "example": "I try to plan my week on Sundays — it makes the whole week run smoother."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'm behind on everything this week.",
+    "pronunciation": "/aɪm bɪˈhaɪnd ɑn ˈɛvriθɪŋ ðɪs wik/",
+    "example": "I'm behind on everything this week — I don't even know where to catch up first."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I finally got some free time.",
+    "pronunciation": "/aɪ ˈfaɪnəli ɡɑt sʌm fri taɪm/",
+    "example": "I finally got some free time this weekend — I plan on doing absolutely nothing."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "It'll only take a minute.",
+    "pronunciation": "/ɪtl ˈoʊnli teɪk ə ˈmɪnɪt/",
+    "example": "It'll only take a minute — I just need to run in and grab one thing."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "What day works best for you?",
+    "pronunciation": "/wʌt deɪ wɜrks bɛst fər ju/",
+    "example": "What day works best for you? I'm flexible any time after Wednesday."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I'll pencil it in for now.",
+    "pronunciation": "/aɪl ˈpɛnsəl ɪt ɪn fər naʊ/",
+    "example": "I'll pencil it in for now — we can confirm closer to the date."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I try not to check my phone first thing.",
+    "pronunciation": "/aɪ traɪ nɑt tə tʃɛk maɪ foʊn fɜrst θɪŋ/",
+    "example": "I try not to check my phone first thing in the morning — it sets a bad tone for the day."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I block out time for deep work.",
+    "pronunciation": "/aɪ blɑk aʊt taɪm fər dip wɜrk/",
+    "example": "I block out time for deep work in the morning when my brain is the sharpest."
+  },
+  {
+    "topic": "Time & Routine",
+    "phrase": "I've been trying to be more consistent.",
+    "pronunciation": "/aɪv bɪn ˈtraɪɪŋ tə bi mɔr kənˈsɪstənt/",
+    "example": "I've been trying to be more consistent — same schedule every day, no excuses."
+  }
+]

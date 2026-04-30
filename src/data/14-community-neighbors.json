@@ -1,0 +1,368 @@
+[
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Welcome to the neighborhood!",
+    "pronunciation": "/ˈwɛlkəm tə ðə ˈneɪbərˌhʊd/",
+    "example": "Welcome to the neighborhood! We're really glad to have you here."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I live right next door.",
+    "pronunciation": "/aɪ lɪv raɪt nɛkst dɔr/",
+    "example": "I live right next door — come knock if you ever need anything."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Have you settled in yet?",
+    "pronunciation": "/hæv ju ˈsɛtəld ɪn jɛt/",
+    "example": "Have you settled in yet? Moving is always a lot of work."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Let me know if you need anything.",
+    "pronunciation": "/lɛt mi noʊ ɪf ju nid ˈɛniθɪŋ/",
+    "example": "Let me know if you need anything — we're happy to help however we can."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We look out for each other around here.",
+    "pronunciation": "/wi lʊk aʊt fər itʃ ˈʌðər əˈraʊnd hɪr/",
+    "example": "We look out for each other around here — it's that kind of neighborhood."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "There's a neighborhood watch group.",
+    "pronunciation": "/ðɛrz ə ˈneɪbərˌhʊd wɑtʃ ɡrup/",
+    "example": "There's a neighborhood watch group — we have a group chat if you want to join."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Did you hear about what happened on our street?",
+    "pronunciation": "/dɪd ju hɪr əˈbaʊt wʌt ˈhæpənd ɑn aʊr strit/",
+    "example": "Did you hear about what happened on our street last night? Police were everywhere."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I wanted to give you a heads up.",
+    "pronunciation": "/aɪ ˈwɑntɪd tə ɡɪv ju ə hɛdz ʌp/",
+    "example": "I wanted to give you a heads up — we're having a party Saturday night."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Sorry for any noise.",
+    "pronunciation": "/ˈsɑri fər ˈɛni nɔɪz/",
+    "example": "Sorry for any noise from our place — we're doing some renovations this week."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Is the music too loud?",
+    "pronunciation": "/ɪz ðə ˈmjuzɪk tu laʊd/",
+    "example": "Is the music too loud? Just knock and we'll turn it down right away."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can you keep it down a little?",
+    "pronunciation": "/kæn ju kip ɪt daʊn ə ˈlɪtəl/",
+    "example": "Can you keep it down a little? My baby just fell asleep."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "No problem at all — sorry about that.",
+    "pronunciation": "/noʊ ˈprɑbləm æt ɔl ˈsɑri əˈbaʊt ðæt/",
+    "example": "No problem at all — sorry about that! We'll keep the volume down."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Your dog got out again.",
+    "pronunciation": "/jʊr dɑɡ ɡɑt aʊt əˈɡɛn/",
+    "example": "Your dog got out again — I saw him in my front yard about ten minutes ago."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Thanks for watching my place.",
+    "pronunciation": "/θæŋks fər ˈwɑtʃɪŋ maɪ pleɪs/",
+    "example": "Thanks for watching my place while I was away — I really appreciate it."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can I borrow a cup of sugar?",
+    "pronunciation": "/kæn aɪ ˈbɑroʊ ə kʌp əv ˈʃʊɡər/",
+    "example": "Can I borrow a cup of sugar? I'm making a cake and I just ran out."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Of course — anytime!",
+    "pronunciation": "/əv kɔrs ˈɛniˌtaɪm/",
+    "example": "Of course — anytime! I'll run and grab it for you right now."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "My package got delivered to your porch.",
+    "pronunciation": "/maɪ ˈpækɪdʒ ɡɑt dɪˈlɪvərd tə jʊr pɔrtʃ/",
+    "example": "My package got delivered to your porch by mistake — mind if I grab it?"
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Your mail ended up in my box.",
+    "pronunciation": "/jʊr meɪl ˈɛndɪd ʌp ɪn maɪ bɑks/",
+    "example": "Your mail ended up in my box again — I'll leave it on your doorstep."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I think they delivered this to the wrong address.",
+    "pronunciation": "/aɪ θɪŋk ðeɪ dɪˈlɪvərd ðɪs tə ðə rɔŋ ˈædrɛs/",
+    "example": "I think they delivered this to the wrong address — the name on it isn't mine."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Are you expecting a package?",
+    "pronunciation": "/ər ju ɪkˈspɛktɪŋ ə ˈpækɪdʒ/",
+    "example": "Are you expecting a package? There's a big box at your door."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Someone left this on your doorstep.",
+    "pronunciation": "/ˈsʌmˌwʌn lɛft ðɪs ɑn jʊr ˈdɔrˌstɛp/",
+    "example": "Someone left this on your doorstep — looked important so I wanted to let you know."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The HOA sent a notice.",
+    "pronunciation": "/ðə eɪtʃ oʊ eɪ sɛnt ə ˈnoʊtɪs/",
+    "example": "The HOA sent a notice about keeping trash bins out of sight — just a heads up."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The HOA meeting is next Tuesday.",
+    "pronunciation": "/ðə eɪtʃ oʊ eɪ ˈmitɪŋ ɪz nɛkst ˈtjuzdeɪ/",
+    "example": "The HOA meeting is next Tuesday — they're voting on the new parking rules."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Are you going to the block party?",
+    "pronunciation": "/ər ju ˈɡoʊɪŋ tə ðə blɑk ˈpɑrti/",
+    "example": "Are you going to the block party on Saturday? It's going to be a good time."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We're doing a neighborhood cleanup.",
+    "pronunciation": "/wɪr ˈduɪŋ ə ˈneɪbərˌhʊd ˈklinˌʌp/",
+    "example": "We're doing a neighborhood cleanup this Saturday morning — everyone's welcome."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The community pool is open all summer.",
+    "pronunciation": "/ðə kəˈmjunɪti pul ɪz ˈoʊpən ɔl ˈsʌmər/",
+    "example": "The community pool is open all summer — kids can use it until eight PM."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "There's a farmers market downtown.",
+    "pronunciation": "/ðɛrz ə ˈfɑrmərz ˈmɑrkɪt ˈdaʊnˌtaʊn/",
+    "example": "There's a farmers market downtown every Saturday morning — great local produce."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I shop local whenever I can.",
+    "pronunciation": "/aɪ ʃɑp ˈloʊkəl wɛˈnɛvər aɪ kæn/",
+    "example": "I shop local whenever I can — it really makes a difference for small businesses."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "They're opening a new restaurant downtown.",
+    "pronunciation": "/ðɛr ˈoʊpənɪŋ ə nu ˈrɛstərənt ˈdaʊnˌtaʊn/",
+    "example": "They're opening a new restaurant downtown — heard it's going to be a taco place."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Have you tried that new place on the square?",
+    "pronunciation": "/hæv ju traɪd ðæt nu pleɪs ɑn ðə skwɛr/",
+    "example": "Have you tried that new place on the square? The food looked amazing."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The city just repaved our street.",
+    "pronunciation": "/ðə ˈsɪti dʒʌst riˈpeɪvd aʊr strit/",
+    "example": "The city just repaved our street — about time, it was full of potholes."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "They're putting in a new stoplight.",
+    "pronunciation": "/ðɛr ˈpʊtɪŋ ɪn ə nu ˈstɑpˌlaɪt/",
+    "example": "They're putting in a new stoplight at that intersection — it's long overdue."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The park is a great place to walk.",
+    "pronunciation": "/ðə pɑrk ɪz ə ɡreɪt pleɪs tə wɔk/",
+    "example": "The park is a great place to walk in the evenings when it cools down."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Do you know a good handyman?",
+    "pronunciation": "/du ju noʊ ə ɡʊd ˈhændiˌmæn/",
+    "example": "Do you know a good handyman? I've got a few things around the house I need done."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can you recommend a plumber?",
+    "pronunciation": "/kæn ju ˌrɛkəˈmɛnd ə ˈplʌmər/",
+    "example": "Can you recommend a plumber? I need someone reliable and not too expensive."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I'll text you his number.",
+    "pronunciation": "/aɪl tɛkst ju hɪz ˈnʌmbər/",
+    "example": "I'll text you his number — I used him last month and he did a great job."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We're having a cookout — you're invited.",
+    "pronunciation": "/wɪr ˈhævɪŋ ə ˈkʊkˌaʊt jʊr ɪnˈvaɪtɪd/",
+    "example": "We're having a cookout Sunday afternoon — you're invited, bring the whole family."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Bring whatever you'd like to drink.",
+    "pronunciation": "/brɪŋ wʌˈtɛvər jud laɪk tə drɪŋk/",
+    "example": "Bring whatever you'd like to drink — we've got the food covered."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can I pet your dog?",
+    "pronunciation": "/kæn aɪ pɛt jʊr dɑɡ/",
+    "example": "Can I pet your dog? He's so cute — what's his name?"
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Is your dog friendly?",
+    "pronunciation": "/ɪz jʊr dɑɡ ˈfrɛndli/",
+    "example": "Is your dog friendly? I want to make sure before I reach out."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Make sure you leash your dog in this area.",
+    "pronunciation": "/meɪk ʃʊr ju liʃ jʊr dɑɡ ɪn ðɪs ˈɛriə/",
+    "example": "Make sure you leash your dog in this area — it's city ordinance."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "There's a lost cat in the neighborhood.",
+    "pronunciation": "/ðɛrz ə lɔst kæt ɪn ðə ˈneɪbərˌhʊd/",
+    "example": "There's a lost cat in the neighborhood — someone posted about it in the group."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I'll keep an eye out for it.",
+    "pronunciation": "/aɪl kip ən aɪ aʊt fər ɪt/",
+    "example": "I'll keep an eye out for it — I walk this block every morning."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Do you know who to call about that?",
+    "pronunciation": "/du ju noʊ hu tə kɔl əˈbaʊt ðæt/",
+    "example": "Do you know who to call about that pothole? The city has a complaint line."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "You can report it on the city app.",
+    "pronunciation": "/ju kæn rɪˈpɔrt ɪt ɑn ðə ˈsɪti æp/",
+    "example": "You can report it on the city app — they're usually pretty quick to respond."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "This is such a great community.",
+    "pronunciation": "/ðɪs ɪz sʌtʃ ə ɡreɪt kəˈmjunɪti/",
+    "example": "This is such a great community — everyone really looks out for each other."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I love living in a small town.",
+    "pronunciation": "/aɪ lʌv ˈlɪvɪŋ ɪn ə smɔl taʊn/",
+    "example": "I love living in a small town — everyone knows everyone, in the best way."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Texas State brings a lot of energy.",
+    "pronunciation": "/ˈtɛksəs steɪt brɪŋz ə lɑt əv ˈɛnərdʒi/",
+    "example": "Texas State brings a lot of energy to this town — especially on game days."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Game day traffic is crazy around here.",
+    "pronunciation": "/ɡeɪm deɪ ˈtræfɪk ɪz ˈkreɪzi əˈraʊnd hɪr/",
+    "example": "Game day traffic is crazy around here — plan to leave early or stay home."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I'll watch your place while you're away.",
+    "pronunciation": "/aɪl wɑtʃ jʊr pleɪs waɪl jʊr əˈweɪ/",
+    "example": "I'll watch your place while you're away — just leave your number in case something comes up."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can you grab my packages?",
+    "pronunciation": "/kæn ju ɡræb maɪ ˈpækɪdʒɪz/",
+    "example": "Can you grab my packages from the porch? I'm out of town until Sunday."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We share a fence.",
+    "pronunciation": "/wi ʃɛr ə fɛns/",
+    "example": "We share a fence — I wanted to ask if you'd be willing to split the repair cost."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The street light on our block is out.",
+    "pronunciation": "/ðə strit laɪt ɑn aʊr blɑk ɪz aʊt/",
+    "example": "The street light on our block is out — I'm going to report it to the city."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Somebody parked in my spot again.",
+    "pronunciation": "/ˈsʌmbɑdi pɑrkt ɪn maɪ spɑt əˈɡɛn/",
+    "example": "Somebody parked in my spot again — it's the third time this month."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The complex has a pool and gym.",
+    "pronunciation": "/ðə ˈkɑmplɛks hæz ə pul ænd dʒɪm/",
+    "example": "The complex has a pool and gym — it's included in the rent, which is a great deal."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We're organizing a food drive.",
+    "pronunciation": "/wɪr ˈɔrɡəˌnaɪzɪŋ ə fud draɪv/",
+    "example": "We're organizing a food drive for the local shelter — donations are welcome."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "Can you sign for this package?",
+    "pronunciation": "/kæn ju saɪn fər ðɪs ˈpækɪdʒ/",
+    "example": "Can you sign for this package? I'm not home but I'll be back by four."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "There's a new family on the block.",
+    "pronunciation": "/ðɛrz ə nu ˈfæməli ɑn ðə blɑk/",
+    "example": "There's a new family on the block — we should bring them something to welcome them."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "The recycling center is on the east side.",
+    "pronunciation": "/ðə rɪˈsaɪklɪŋ ˈsɛntər ɪz ɑn ðə ist saɪd/",
+    "example": "The recycling center is on the east side of town — open on weekends until two."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "We just had new people move in next door.",
+    "pronunciation": "/wi dʒʌst hæd nu ˈpipəl muv ɪn nɛkst dɔr/",
+    "example": "We just had new people move in next door — seems like a really nice family."
+  },
+  {
+    "topic": "Community & Neighbors",
+    "phrase": "I'm on the neighborhood Facebook group.",
+    "pronunciation": "/aɪm ɑn ðə ˈneɪbərˌhʊd ˈfeɪsˌbʊk ɡrup/",
+    "example": "I'm on the neighborhood Facebook group — they post about everything going on around here."
+  }
+]

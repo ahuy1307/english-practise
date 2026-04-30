@@ -1,0 +1,470 @@
+[
+  {
+    "topic": "Food & Dining",
+    "phrase": "Table for two, please.",
+    "pronunciation": "/ˈteɪbəl fər tu pliz/",
+    "example": "Hi there — table for two, please. Do you have anything outside?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I see the menu?",
+    "pronunciation": "/kæn aɪ si ðə ˈmɛnju/",
+    "example": "Can I see the menu? I've never been here before."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What do you recommend?",
+    "pronunciation": "/wʌt du ju ˌrɛkəˈmɛnd/",
+    "example": "What do you recommend? I'm not sure what to get."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What's the special today?",
+    "pronunciation": "/wʌts ðə ˈspɛʃəl təˈdeɪ/",
+    "example": "What's the special today? I heard y'all do a great lunch deal."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'll have the...",
+    "pronunciation": "/aɪl hæv ðə/",
+    "example": "I'll have the brisket plate with extra jalapeños on the side."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I get that to go?",
+    "pronunciation": "/kæn aɪ ɡɛt ðæt tə ɡoʊ/",
+    "example": "Can I get that to go? I'm running a little late."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "For here or to go?",
+    "pronunciation": "/fər hɪr ɔr tə ɡoʊ/",
+    "example": "For here or to go? — I'll eat here, thanks."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What comes with that?",
+    "pronunciation": "/wʌt kʌmz wɪð ðæt/",
+    "example": "What comes with that? Does it include a drink?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I substitute the...",
+    "pronunciation": "/kæn aɪ ˈsʌbstɪˌtut ðə/",
+    "example": "Can I substitute the fries for a salad instead?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'm allergic to...",
+    "pronunciation": "/aɪm əˈlɜrdʒɪk tə/",
+    "example": "I'm allergic to shellfish — is there anything in the sauce?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Does this have gluten in it?",
+    "pronunciation": "/dʌz ðɪs hæv ˈɡlutən ɪn ɪt/",
+    "example": "Does this have gluten in it? My wife has celiac disease."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can you make it less spicy?",
+    "pronunciation": "/kæn ju meɪk ɪt lɛs ˈspaɪsi/",
+    "example": "Can you make it less spicy? My stomach can't handle too much heat."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'd like that medium, please.",
+    "pronunciation": "/aɪd laɪk ðæt ˈmidiəm pliz/",
+    "example": "I'd like that medium, please — not too pink, not too done."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I get extra hot sauce?",
+    "pronunciation": "/kæn aɪ ɡɛt ˈɛkstrə hɑt sɔs/",
+    "example": "Can I get extra hot sauce? I like it spicy."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Could I get a refill?",
+    "pronunciation": "/kʊd aɪ ɡɛt ə ˈriˌfɪl/",
+    "example": "Could I get a refill on my sweet tea when you get a chance?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "We're ready to order.",
+    "pronunciation": "/wɪr ˈrɛdi tə ˈɔrdər/",
+    "example": "We're ready to order whenever you have a second."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can we have a few more minutes?",
+    "pronunciation": "/kæn wi hæv ə fju mɔr ˈmɪnɪts/",
+    "example": "Can we have a few more minutes? We haven't decided yet."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "This is delicious!",
+    "pronunciation": "/ðɪs ɪz dɪˈlɪʃəs/",
+    "example": "This is delicious! Best BBQ I've had since I moved to Texas."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Compliments to the chef!",
+    "pronunciation": "/ˈkɑmpləmɪnts tə ðə ʃɛf/",
+    "example": "Compliments to the chef — that brisket was absolutely perfect."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Could you box this up for me?",
+    "pronunciation": "/kʊd ju bɑks ðɪs ʌp fər mi/",
+    "example": "Could you box this up for me? I can't finish it all right now."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I get the check, please?",
+    "pronunciation": "/kæn aɪ ɡɛt ðə tʃɛk pliz/",
+    "example": "Can I get the check, please? We're in a little bit of a hurry."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "We'll split the bill.",
+    "pronunciation": "/wɪl splɪt ðə bɪl/",
+    "example": "We'll split the bill — just run two separate cards."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Keep the change.",
+    "pronunciation": "/kip ðə tʃeɪndʒ/",
+    "example": "Keep the change — the service was wonderful."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Do you take card?",
+    "pronunciation": "/du ju teɪk kɑrd/",
+    "example": "Do you take card or is it cash only?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Is the tip included?",
+    "pronunciation": "/ɪz ðə tɪp ɪnˈklудəd/",
+    "example": "Is the tip included for large parties, or do we add it separately?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Drive-thru is open.",
+    "pronunciation": "/ˈdraɪvˌθru ɪz ˈoʊpən/",
+    "example": "The drive-thru is open until midnight — perfect for late-night cravings."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'll take a number three.",
+    "pronunciation": "/aɪl teɪk ə ˈnʌmbər θri/",
+    "example": "I'll take a number three with a large sweet tea, please."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "No onions on mine, please.",
+    "pronunciation": "/noʊ ˈʌnjənz ɑn maɪn pliz/",
+    "example": "No onions on mine, please — everything else is fine."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Add bacon to that.",
+    "pronunciation": "/æd ˈbeɪkən tə ðæt/",
+    "example": "Go ahead and add bacon to that — why not?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I see your ID?",
+    "pronunciation": "/kæn aɪ si jʊr aɪ di/",
+    "example": "Can I see your ID? We card everyone under thirty for alcohol."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Happy hour runs until six.",
+    "pronunciation": "/ˈhæpi ˈaʊər rʌnz ənˈtɪl sɪks/",
+    "example": "Happy hour runs until six — half-price appetizers and drink specials."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Do you have outdoor seating?",
+    "pronunciation": "/du ju hæv ˈaʊtˌdɔr ˈsitɪŋ/",
+    "example": "Do you have outdoor seating? The weather's real nice today."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can we get a booth?",
+    "pronunciation": "/kæn wi ɡɛt ə buθ/",
+    "example": "Can we get a booth? We've got a stroller with us."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "The wait is about twenty minutes.",
+    "pronunciation": "/ðə weɪt ɪz əˈbaʊt ˈtwɛnti ˈmɪnɪts/",
+    "example": "The wait is about twenty minutes — want to leave your name?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I put my name on the list?",
+    "pronunciation": "/kæn aɪ pʊt maɪ neɪm ɑn ðə lɪst/",
+    "example": "Can I put my name on the list? We'll wait at the bar."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'm starving!",
+    "pronunciation": "/aɪm ˈstɑrvɪŋ/",
+    "example": "I'm starving! I skipped breakfast and it's already two o'clock."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'm saving room for dessert.",
+    "pronunciation": "/aɪm ˈseɪvɪŋ rum fər dɪˈzɜrt/",
+    "example": "I'm saving room for dessert — I heard the peach cobbler is amazing."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What's in this dish?",
+    "pronunciation": "/wʌts ɪn ðɪs dɪʃ/",
+    "example": "What's in this dish? I just want to make sure before I order it."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Is this made fresh?",
+    "pronunciation": "/ɪz ðɪs meɪd frɛʃ/",
+    "example": "Is this made fresh or do you use frozen ingredients?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "That's a big portion!",
+    "pronunciation": "/ðæts ə bɪɡ ˈpɔrʃən/",
+    "example": "That's a big portion! I might need a box before I'm even halfway through."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "We're sharing this.",
+    "pronunciation": "/wɪr ˈʃɛrɪŋ ðɪs/",
+    "example": "We're sharing this — can you bring an extra plate?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "No dressing on the salad.",
+    "pronunciation": "/noʊ ˈdrɛsɪŋ ɑn ðə ˈsæləd/",
+    "example": "No dressing on the salad, please — just bring it on the side."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Extra napkins, please.",
+    "pronunciation": "/ˈɛkstrə ˈnæpkɪnz pliz/",
+    "example": "Extra napkins, please — these ribs are going to be messy."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Do you have a kids' menu?",
+    "pronunciation": "/du ju hæv ə kɪdz ˈmɛnju/",
+    "example": "Do you have a kids' menu? My daughter's pretty picky."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I get water with lemon?",
+    "pronunciation": "/kæn aɪ ɡɛt ˈwɔtər wɪð ˈlɛmən/",
+    "example": "Can I get water with lemon? And no ice, please."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Something smells amazing!",
+    "pronunciation": "/ˈsʌmθɪŋ smɛlz əˈmeɪzɪŋ/",
+    "example": "Something smells amazing — what is that coming from the kitchen?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "This is not what I ordered.",
+    "pronunciation": "/ðɪs ɪz nɑt wʌt aɪ ˈɔrdərd/",
+    "example": "I'm sorry, but this is not what I ordered — I asked for the chicken."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Could you warm this up?",
+    "pronunciation": "/kʊd ju wɔrm ðɪs ʌp/",
+    "example": "Could you warm this up? It got a little cold while we were talking."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "We have a reservation.",
+    "pronunciation": "/wi hæv ə ˌrɛzərˈveɪʃən/",
+    "example": "We have a reservation under the name Johnson — party of four."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'd like to make a reservation.",
+    "pronunciation": "/aɪd laɪk tə meɪk ə ˌrɛzərˈveɪʃən/",
+    "example": "I'd like to make a reservation for Saturday evening around seven."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Do you close early on Sundays?",
+    "pronunciation": "/du ju kloʊz ˈɜrli ɑn ˈsʌndeɪz/",
+    "example": "Do you close early on Sundays? I want to make sure we get here in time."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "The food took forever.",
+    "pronunciation": "/ðə fud tʊk fərˈɛvər/",
+    "example": "The food took forever, but it was worth every minute of the wait."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Worth every penny!",
+    "pronunciation": "/wɜrθ ˈɛvri ˈpɛni/",
+    "example": "Worth every penny! I'll definitely be coming back here."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can we get more chips and salsa?",
+    "pronunciation": "/kæn wi ɡɛt mɔr tʃɪps ænd ˈsɑlsə/",
+    "example": "Can we get more chips and salsa? We finished the first basket already."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Everything was perfect, thank you.",
+    "pronunciation": "/ˈɛvriθɪŋ wəz ˈpɜrfɪkt θæŋk ju/",
+    "example": "Everything was perfect, thank you — we'll definitely be back."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "This place is always packed.",
+    "pronunciation": "/ðɪs pleɪs ɪz ˈɔlweɪz pækt/",
+    "example": "This place is always packed on weekends — we should come on a Tuesday."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Do you have a to-go menu?",
+    "pronunciation": "/du ju hæv ə tə ɡoʊ ˈmɛnju/",
+    "example": "Do you have a to-go menu I can take with me for next time?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What time do y'all open?",
+    "pronunciation": "/wʌt taɪm du jɔl ˈoʊpən/",
+    "example": "What time do y'all open on weekdays? I want to grab breakfast."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I order at the counter?",
+    "pronunciation": "/kæn aɪ ˈɔrdər æt ðə ˈkaʊntər/",
+    "example": "Can I order at the counter or do I wait for a server?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "They're running a lunch special.",
+    "pronunciation": "/ðɛr ˈrʌnɪŋ ə lʌntʃ ˈspɛʃəl/",
+    "example": "They're running a lunch special — two tacos and a drink for six bucks."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'll pass on the dessert.",
+    "pronunciation": "/aɪl pæs ɑn ðə dɪˈzɜrt/",
+    "example": "I'll pass on the dessert — I'm completely stuffed."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I taste that first?",
+    "pronunciation": "/kæn aɪ teɪst ðæt fɜrst/",
+    "example": "Can I taste that first before I commit to the whole thing?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "That hit the spot!",
+    "pronunciation": "/ðæt hɪt ðə spɑt/",
+    "example": "That hit the spot! Exactly what I needed after that long drive."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'm so full I can't move.",
+    "pronunciation": "/aɪm soʊ fʊl aɪ kænt muv/",
+    "example": "I'm so full I can't move — why did I order that second plate?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Let's grab a bite to eat.",
+    "pronunciation": "/lɛts ɡræb ə baɪt tə it/",
+    "example": "Let's grab a bite to eat before we head to the outlet mall."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can I get that without cheese?",
+    "pronunciation": "/kæn aɪ ɡɛt ðæt wɪˈðaʊt tʃiz/",
+    "example": "Can I get that without cheese? I'm lactose intolerant."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "What's your most popular dish?",
+    "pronunciation": "/wʌts jʊr moʊst ˈpɑpjələr dɪʃ/",
+    "example": "What's your most popular dish? I want to try what everyone else is getting."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Could we get more bread?",
+    "pronunciation": "/kʊd wi ɡɛt mɔr brɛd/",
+    "example": "Could we get more bread? We finished the first basket already."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'd like to order an appetizer.",
+    "pronunciation": "/aɪd laɪk tə ˈɔrdər ən ˈæpɪˌtaɪzər/",
+    "example": "I'd like to order an appetizer — the queso looks amazing."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Is the kitchen still open?",
+    "pronunciation": "/ɪz ðə ˈkɪtʃɪn stɪl ˈoʊpən/",
+    "example": "Is the kitchen still open? It's almost nine and I haven't eaten."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "We're celebrating tonight.",
+    "pronunciation": "/wɪr ˈsɛlɪˌbreɪtɪŋ təˈnaɪt/",
+    "example": "We're celebrating tonight — it's our anniversary. Any dessert recommendations?"
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Can we get a candle for the table?",
+    "pronunciation": "/kæn wi ɡɛt ə ˈkændəl fər ðə ˈteɪbəl/",
+    "example": "Can we get a candle for the table? We're doing a little birthday celebration."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Is everything cooked in the same oil?",
+    "pronunciation": "/ɪz ˈɛvriθɪŋ kʊkt ɪn ðə seɪm ɔɪl/",
+    "example": "Is everything cooked in the same oil? I have a tree nut allergy."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'll start with the soup.",
+    "pronunciation": "/aɪl stɑrt wɪð ðə sup/",
+    "example": "I'll start with the soup — then I'll do the chicken for the main course."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "No rush on the food.",
+    "pronunciation": "/noʊ rʌʃ ɑn ðə fud/",
+    "example": "No rush on the food — we're just catching up and enjoying the evening."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "The service here is always great.",
+    "pronunciation": "/ðə ˈsɜrvɪs hɪr ɪz ˈɔlweɪz ɡreɪt/",
+    "example": "The service here is always great — that's why we keep coming back."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "Could you split the check for us?",
+    "pronunciation": "/kʊd ju splɪt ðə tʃɛk fər ʌs/",
+    "example": "Could you split the check for us? Four ways, please."
+  },
+  {
+    "topic": "Food & Dining",
+    "phrase": "I'll just have water, thanks.",
+    "pronunciation": "/aɪl dʒʌst hæv ˈwɔtər θæŋks/",
+    "example": "I'll just have water, thanks — I'm trying to cut back on soda."
+  }
+]

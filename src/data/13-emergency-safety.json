@@ -1,0 +1,368 @@
+[
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Call 911 right now!",
+    "pronunciation": "/kɔl naɪn wʌn wʌn raɪt naʊ/",
+    "example": "Call 911 right now — someone just collapsed in the parking lot!"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need to report an emergency.",
+    "pronunciation": "/aɪ nid tə rɪˈpɔrt ən ɪˈmɜrdʒənsi/",
+    "example": "I need to report an emergency — there's been a bad accident on the highway."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "What is your emergency?",
+    "pronunciation": "/wʌt ɪz jʊr ɪˈmɜrdʒənsi/",
+    "example": "911, what is your emergency? — There's a fire in my apartment building."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "What is your location?",
+    "pronunciation": "/wʌt ɪz jʊr loʊˈkeɪʃən/",
+    "example": "What is your location? Stay on the line — help is on the way."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Stay calm and don't panic.",
+    "pronunciation": "/steɪ kɑm ænd doʊnt ˈpænɪk/",
+    "example": "Stay calm and don't panic — help is already on its way."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Is anyone hurt?",
+    "pronunciation": "/ɪz ˈɛniwʌn hɜrt/",
+    "example": "Is anyone hurt? I need to know before the paramedics get here."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Someone is not breathing.",
+    "pronunciation": "/ˈsʌmˌwʌn ɪz nɑt ˈbriðɪŋ/",
+    "example": "Someone is not breathing — I need help immediately!"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Do you know CPR?",
+    "pronunciation": "/du ju noʊ si pi ɑr/",
+    "example": "Do you know CPR? Please help — I don't know what to do."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Start chest compressions.",
+    "pronunciation": "/stɑrt tʃɛst kəmˈprɛʃənz/",
+    "example": "Start chest compressions — keep going until the paramedics arrive."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "There's a fire!",
+    "pronunciation": "/ðɛrz ə ˈfaɪər/",
+    "example": "There's a fire! Everyone needs to get out of the building right now."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Pull the fire alarm.",
+    "pronunciation": "/pʊl ðə ˈfaɪər əˈlɑrm/",
+    "example": "Pull the fire alarm and get everyone out as fast as possible."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Use the fire extinguisher.",
+    "pronunciation": "/juz ðə ˈfaɪər ɪkˈstɪŋɡwɪʃər/",
+    "example": "Use the fire extinguisher before it spreads — aim at the base of the flames."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Don't use the elevator during a fire.",
+    "pronunciation": "/doʊnt juz ðə ˈɛlɪˌveɪtər ˈdʊrɪŋ ə ˈfaɪər/",
+    "example": "Don't use the elevator during a fire — always take the stairs."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Get low if there's smoke.",
+    "pronunciation": "/ɡɛt loʊ ɪf ðɛrz smoʊk/",
+    "example": "Get low if there's smoke — the air is cleaner near the floor."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I've been in a car accident.",
+    "pronunciation": "/aɪv bɪn ɪn ə kɑr ˈæksɪdənt/",
+    "example": "I've been in a car accident on I-35 near the Aquarena exit."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Pull over to the side of the road.",
+    "pronunciation": "/pʊl ˈoʊvər tə ðə saɪd əv ðə roʊd/",
+    "example": "Pull over to the side of the road and put on your hazard lights."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Turn on your hazard lights.",
+    "pronunciation": "/tɜrn ɑn jʊr ˈhæzərd laɪts/",
+    "example": "Turn on your hazard lights so other drivers can see you've stopped."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Exchange insurance information.",
+    "pronunciation": "/ɪksˈtʃeɪndʒ ɪnˈʃʊrəns ˌɪnfərˈmeɪʃən/",
+    "example": "Exchange insurance information with the other driver before anyone leaves."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Don't admit fault at the scene.",
+    "pronunciation": "/doʊnt ədˈmɪt fɔlt æt ðə sin/",
+    "example": "Don't admit fault at the scene — just exchange info and let the insurance handle it."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Take photos of the damage.",
+    "pronunciation": "/teɪk ˈfoʊtoʊz əv ðə ˈdæmɪdʒ/",
+    "example": "Take photos of the damage before anyone moves the vehicles."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I think I'm having a heart attack.",
+    "pronunciation": "/aɪ θɪŋk aɪm ˈhævɪŋ ə hɑrt əˈtæk/",
+    "example": "I think I'm having a heart attack — chest pain and I can't breathe."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I'm having trouble breathing.",
+    "pronunciation": "/aɪm ˈhævɪŋ ˈtrʌbəl ˈbriðɪŋ/",
+    "example": "I'm having trouble breathing — it came on suddenly and it's getting worse."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need an ambulance.",
+    "pronunciation": "/aɪ nid ən ˈæmbjələns/",
+    "example": "I need an ambulance at this address right away — it's a medical emergency."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Keep pressure on the wound.",
+    "pronunciation": "/kip ˈprɛʃər ɑn ðə wund/",
+    "example": "Keep pressure on the wound until the paramedics get here."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Do you have an EpiPen?",
+    "pronunciation": "/du ju hæv ən ˈɛpɪˌpɛn/",
+    "example": "Do you have an EpiPen? She's having a severe allergic reaction."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Someone broke into my car.",
+    "pronunciation": "/ˈsʌmˌwʌn broʊk ˈɪntu maɪ kɑr/",
+    "example": "Someone broke into my car overnight — the window is shattered."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need to file a police report.",
+    "pronunciation": "/aɪ nid tə faɪl ə pəˈlis rɪˈpɔrt/",
+    "example": "I need to file a police report for my insurance claim."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "There's a suspicious person outside.",
+    "pronunciation": "/ðɛrz ə səˈspɪʃəs ˈpɜrsən ˈaʊtˌsaɪd/",
+    "example": "There's a suspicious person outside who's been walking back and forth for a while."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Lock the doors and stay inside.",
+    "pronunciation": "/lɑk ðə dɔrz ænd steɪ ɪnˈsaɪd/",
+    "example": "Lock the doors and stay inside — the police are asking everyone to shelter in place."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I've lost a child.",
+    "pronunciation": "/aɪv lɔst ə tʃaɪld/",
+    "example": "I've lost a child — she was with me in the store just a second ago."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Can you help me find my child?",
+    "pronunciation": "/kæn ju hɛlp mi faɪnd maɪ tʃaɪld/",
+    "example": "Can you help me find my child? She's six years old, wearing a red shirt."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "This is a medical alert bracelet.",
+    "pronunciation": "/ðɪs ɪz ə ˈmɛdɪkəl əˈlɜrt ˈbreɪslɪt/",
+    "example": "This is a medical alert bracelet — he has a severe nut allergy, please check labels."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need to get to a hospital.",
+    "pronunciation": "/aɪ nid tə ɡɛt tə ə ˈhɑspɪtəl/",
+    "example": "I need to get to a hospital — it's urgent, can someone drive me?"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Where is the nearest emergency room?",
+    "pronunciation": "/wɛr ɪz ðə ˈnɪrɪst ɪˈmɜrdʒənsi rum/",
+    "example": "Where is the nearest emergency room? I don't know this area at all."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I have a severe allergy.",
+    "pronunciation": "/aɪ hæv ə sɪˈvɪr ˈælərdʒi/",
+    "example": "I have a severe allergy to bee stings — please call for help right away."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Is there a tornado shelter nearby?",
+    "pronunciation": "/ɪz ðɛr ə tərˈneɪdoʊ ˈʃɛltər ˈnɪrˌbaɪ/",
+    "example": "Is there a tornado shelter nearby? The sirens just went off."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Get to the lowest floor.",
+    "pronunciation": "/ɡɛt tə ðə ˈloʊɪst flɔr/",
+    "example": "Get to the lowest floor and stay away from windows during the tornado warning."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "The power is out.",
+    "pronunciation": "/ðə ˈpaʊər ɪz aʊt/",
+    "example": "The power is out — do you have candles or a flashlight I can use?"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I smell gas in the building.",
+    "pronunciation": "/aɪ smɛl ɡæs ɪn ðə ˈbɪldɪŋ/",
+    "example": "I smell gas in the building — everyone needs to evacuate and call the gas company."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Evacuate the building immediately.",
+    "pronunciation": "/ɪˈvækjuˌeɪt ðə ˈbɪldɪŋ ɪˈmidiɪtli/",
+    "example": "Evacuate the building immediately — don't stop to grab your belongings."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "My wallet was stolen.",
+    "pronunciation": "/maɪ ˈwɑlɪt wəz ˈstoʊlən/",
+    "example": "My wallet was stolen at the market — I need to cancel my cards right away."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need to cancel my credit cards.",
+    "pronunciation": "/aɪ nid tə ˈkænsəl maɪ ˈkrɛdɪt kɑrdz/",
+    "example": "I need to cancel my credit cards before someone uses them."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Can you be a witness?",
+    "pronunciation": "/kæn ju bi ə ˈwɪtnɪs/",
+    "example": "Can you be a witness? I need someone to confirm what happened for the report."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Stay on the line with me.",
+    "pronunciation": "/steɪ ɑn ðə laɪn wɪð mi/",
+    "example": "Stay on the line with me until the officer arrives — don't hang up."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Help is on the way.",
+    "pronunciation": "/hɛlp ɪz ɑn ðə weɪ/",
+    "example": "Help is on the way — the dispatcher said about four minutes."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Are you okay? Are you hurt?",
+    "pronunciation": "/ər ju oʊˈkeɪ ər ju hɜrt/",
+    "example": "Are you okay? Are you hurt? — I'm shaken up but I think I'm fine."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I'm here, you're going to be okay.",
+    "pronunciation": "/aɪm hɪr jʊr ˈɡoʊɪŋ tə bi oʊˈkeɪ/",
+    "example": "I'm here, you're going to be okay — I'm not going anywhere until help arrives."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "We need to move to higher ground.",
+    "pronunciation": "/wi nid tə muv tə ˈhaɪər ɡraʊnd/",
+    "example": "We need to move to higher ground — the flood water is rising fast."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "This area is under evacuation order.",
+    "pronunciation": "/ðɪs ˈɛriə ɪz ˈʌndər ˌɛvækjuˈeɪʃən ˈɔrdər/",
+    "example": "This area is under evacuation order — you need to leave right now, not later."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need emergency roadside assistance.",
+    "pronunciation": "/aɪ nid ɪˈmɜrdʒənsi ˈroʊdˌsaɪd əˈsɪstəns/",
+    "example": "I need emergency roadside assistance — I'm stranded on I-35 with a flat tire."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Can you send someone right away?",
+    "pronunciation": "/kæn ju sɛnd ˈsʌmˌwʌn raɪt əˈweɪ/",
+    "example": "Can you send someone right away? The situation is getting worse by the minute."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "There's someone unconscious on the floor.",
+    "pronunciation": "/ðɛrz ˈsʌmˌwʌn ʌnˈkɑnʃəs ɑn ðə flɔr/",
+    "example": "There's someone unconscious on the floor — I don't know how long they've been down."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I've been robbed!",
+    "pronunciation": "/aɪv bɪn rɑbd/",
+    "example": "I've been robbed! Someone grabbed my bag and ran — please help!"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "There's a gas leak in my apartment.",
+    "pronunciation": "/ðɛrz ə ɡæs lik ɪn maɪ əˈpɑrtmənt/",
+    "example": "There's a gas leak in my apartment — I can smell it strongly near the stove."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "My child swallowed something.",
+    "pronunciation": "/maɪ tʃaɪld ˈswɑloʊd ˈsʌmθɪŋ/",
+    "example": "My child swallowed something — I don't know what it was, please hurry!"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I think I'm being followed.",
+    "pronunciation": "/aɪ θɪŋk aɪm ˈbiɪŋ ˈfɑloʊd/",
+    "example": "I think I'm being followed — can someone stay on the line with me while I get to my car?"
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "We need to call poison control.",
+    "pronunciation": "/wi nid tə kɔl ˈpɔɪzən kənˈtroʊl/",
+    "example": "We need to call poison control — the child may have gotten into cleaning supplies."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Do you have a first aid kit?",
+    "pronunciation": "/du ju hæv ə fɜrst eɪd kɪt/",
+    "example": "Do you have a first aid kit? I need to clean and bandage this cut right away."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "Bystander, please clear the area.",
+    "pronunciation": "/ˈbaɪˌstændər pliz klɪr ðə ˈɛriə/",
+    "example": "Bystander, please clear the area — the paramedics need room to work."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I need to speak to an officer.",
+    "pronunciation": "/aɪ nid tə spik tə ən ˈɔfɪsər/",
+    "example": "I need to speak to an officer — I'd like to file a report about what happened."
+  },
+  {
+    "topic": "Emergency & Safety",
+    "phrase": "I want to press charges.",
+    "pronunciation": "/aɪ wɑnt tə prɛs ˈtʃɑrdʒɪz/",
+    "example": "I want to press charges — what I experienced was absolutely not okay."
+  }
+]

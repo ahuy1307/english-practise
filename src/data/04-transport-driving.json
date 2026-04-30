@@ -1,0 +1,434 @@
+[
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How do I get to...?",
+    "pronunciation": "/haʊ du aɪ ɡɛt tə/",
+    "example": "How do I get to the HEB on Aquarena Springs from here?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Take the highway north.",
+    "pronunciation": "/teɪk ðə ˈhaɪˌweɪ nɔrθ/",
+    "example": "Take the highway north and get off at Exit 206 — you can't miss it."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Get on I-35 south.",
+    "pronunciation": "/ɡɛt ɑn aɪ θɜrti faɪv saʊθ/",
+    "example": "Get on I-35 south and stay on it for about ten miles."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Take the next exit.",
+    "pronunciation": "/teɪk ðə nɛkst ˈɛɡzɪt/",
+    "example": "Take the next exit — it comes up pretty fast, so stay in the right lane."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Make a U-turn up ahead.",
+    "pronunciation": "/meɪk ə ˈjuˌtɜrn ʌp əˈhɛd/",
+    "example": "Make a U-turn up ahead — you just passed the street."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Turn left at the light.",
+    "pronunciation": "/tɜrn lɛft æt ðə laɪt/",
+    "example": "Turn left at the light by the Whataburger — then it's straight ahead."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "It's on the right-hand side.",
+    "pronunciation": "/ɪts ɑn ðə raɪt hænd saɪd/",
+    "example": "It's on the right-hand side — look for the big red sign."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "You can't miss it.",
+    "pronunciation": "/ju kænt mɪs ɪt/",
+    "example": "Go straight for two miles and you can't miss it."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Traffic is backed up on I-35.",
+    "pronunciation": "/ˈtræfɪk ɪz bækt ʌp ɑn aɪ θɜrti faɪv/",
+    "example": "Traffic is backed up on I-35 again — let's take the back roads."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "There's a wreck up ahead.",
+    "pronunciation": "/ðɛrz ə rɛk ʌp əˈhɛd/",
+    "example": "There's a wreck up ahead — that's why everything is slowing down."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I'm stuck in traffic.",
+    "pronunciation": "/aɪm stʌk ɪn ˈtræfɪk/",
+    "example": "I'm stuck in traffic on the highway — I might be about twenty minutes late."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Is there a faster route?",
+    "pronunciation": "/ɪz ðɛr ə ˈfæstər rut/",
+    "example": "Is there a faster route? I need to be there in fifteen minutes."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Let me pull up the GPS.",
+    "pronunciation": "/lɛt mi pʊl ʌp ðə dʒi pi ɛs/",
+    "example": "Let me pull up the GPS — I'm not totally sure how to get there."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Rerouting now.",
+    "pronunciation": "/ˌriˈrutɪŋ naʊ/",
+    "example": "Rerouting now — looks like there's a faster way through downtown."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need to fill up the tank.",
+    "pronunciation": "/aɪ nid tə fɪl ʌp ðə tæŋk/",
+    "example": "I need to fill up the tank before we get on the highway."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Which pump do I use?",
+    "pronunciation": "/wɪtʃ pʌmp du aɪ juz/",
+    "example": "Which pump do I use? It says pre-pay only — do I go inside?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Fill it up with regular, please.",
+    "pronunciation": "/fɪl ɪt ʌp wɪð ˈrɛɡjələr pliz/",
+    "example": "Fill it up with regular, please — and can I get a receipt?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How much is gas right now?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ɡæs raɪt naʊ/",
+    "example": "How much is gas right now? I saw it went up ten cents overnight."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My car is making a weird noise.",
+    "pronunciation": "/maɪ kɑr ɪz ˈmeɪkɪŋ ə wɪrd nɔɪz/",
+    "example": "My car is making a weird noise — I think it might be the brakes."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need an oil change.",
+    "pronunciation": "/aɪ nid ən ɔɪl tʃeɪndʒ/",
+    "example": "I need an oil change — I'm already three thousand miles overdue."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My tire is running low.",
+    "pronunciation": "/maɪ ˈtaɪər ɪz ˈrʌnɪŋ loʊ/",
+    "example": "My tire is running low — is there an air pump somewhere nearby?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I got a flat tire.",
+    "pronunciation": "/aɪ ɡɑt ə flæt ˈtaɪər/",
+    "example": "I got a flat tire on the way home — had to pull over on the shoulder."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My car won't start.",
+    "pronunciation": "/maɪ kɑr woʊnt stɑrt/",
+    "example": "My car won't start — I think the battery might be dead."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Can you give me a jump?",
+    "pronunciation": "/kæn ju ɡɪv mi ə dʒʌmp/",
+    "example": "Can you give me a jump? I left my lights on all night."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need to call a tow truck.",
+    "pronunciation": "/aɪ nid tə kɔl ə toʊ trʌk/",
+    "example": "I need to call a tow truck — the engine completely died on me."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My car is in the shop.",
+    "pronunciation": "/maɪ kɑr ɪz ɪn ðə ʃɑp/",
+    "example": "My car is in the shop — can I catch a ride with you this morning?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How long is the wait?",
+    "pronunciation": "/haʊ lɔŋ ɪz ðə weɪt/",
+    "example": "How long is the wait to get the tires rotated? An hour? Two?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Is parking free here?",
+    "pronunciation": "/ɪz ˈpɑrkɪŋ fri hɪr/",
+    "example": "Is parking free here, or do I need to pay at the meter?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Where can I park around here?",
+    "pronunciation": "/wɛr kæn aɪ pɑrk əˈraʊnd hɪr/",
+    "example": "Where can I park around here? The lot looks completely full."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I got a parking ticket.",
+    "pronunciation": "/aɪ ɡɑt ə ˈpɑrkɪŋ ˈtɪkɪt/",
+    "example": "I got a parking ticket — I was only gone for five minutes!"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The speed limit is 70 out here.",
+    "pronunciation": "/ðə spid ˈlɪmɪt ɪz ˈsɛvənti aʊt hɪr/",
+    "example": "The speed limit is 70 out here, but everyone's going 80."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Watch out for deer at night.",
+    "pronunciation": "/wɑtʃ aʊt fər dɪr æt naɪt/",
+    "example": "Watch out for deer at night — they're bad on these country roads."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Stay in your lane.",
+    "pronunciation": "/steɪ ɪn jʊr leɪn/",
+    "example": "Stay in your lane — this road is real narrow through this stretch."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Merge left up ahead.",
+    "pronunciation": "/mɜrdʒ lɛft ʌp əˈhɛd/",
+    "example": "Merge left up ahead — the right lane ends in about a quarter mile."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The light's about to turn red.",
+    "pronunciation": "/ðə laɪts əˈbaʊt tə tɜrn rɛd/",
+    "example": "The light's about to turn red — just slow down and wait it out."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I got pulled over.",
+    "pronunciation": "/aɪ ɡɑt pʊld ˈoʊvər/",
+    "example": "I got pulled over on the way to work — the officer said I was speeding."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "License and registration, please.",
+    "pronunciation": "/ˈlaɪsəns ænd ˌrɛdʒɪˈstreɪʃən pliz/",
+    "example": "License and registration, please — do you know why I stopped you?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My registration is expired.",
+    "pronunciation": "/maɪ ˌrɛdʒɪˈstreɪʃən ɪz ɪkˈspaɪərd/",
+    "example": "My registration is expired — I completely forgot to renew it last month."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need to renew my license.",
+    "pronunciation": "/aɪ nid tə rɪˈnu maɪ ˈlaɪsəns/",
+    "example": "I need to renew my license — it expires at the end of the month."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The DMV line is so long.",
+    "pronunciation": "/ðə di ɛm vi laɪn ɪz soʊ lɔŋ/",
+    "example": "The DMV line is so long — I've been waiting here for over an hour."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Can I schedule an appointment online?",
+    "pronunciation": "/kæn aɪ ˈskɛdʒul ən əˈpɔɪntmənt ˈɑnˌlaɪn/",
+    "example": "Can I schedule an appointment online instead of waiting in line?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Put on your seatbelt.",
+    "pronunciation": "/pʊt ɑn jʊr ˈsitˌbɛlt/",
+    "example": "Put on your seatbelt — it's the law, and it keeps you safe."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Don't text and drive.",
+    "pronunciation": "/doʊnt tɛkst ænd draɪv/",
+    "example": "Don't text and drive — pull over if you need to check your phone."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need to find a parking spot.",
+    "pronunciation": "/aɪ nid tə faɪnd ə ˈpɑrkɪŋ spɑt/",
+    "example": "I need to find a parking spot before the game starts."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Let someone pass first.",
+    "pronunciation": "/lɛt ˈsʌmˌwʌn pæs fɜrst/",
+    "example": "Let someone pass first — they've been waiting to turn way longer than us."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The road is under construction.",
+    "pronunciation": "/ðə roʊd ɪz ˈʌndər kənˈstrʌkʃən/",
+    "example": "The road is under construction — expect delays and watch for workers."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Take the service road instead.",
+    "pronunciation": "/teɪk ðə ˈsɜrvɪs roʊd ɪnˈstɛd/",
+    "example": "Take the service road instead — the main highway is completely shut down."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How far is it from here?",
+    "pronunciation": "/haʊ fɑr ɪz ɪt frʌm hɪr/",
+    "example": "How far is it from here? I want to know if I need to stop for gas."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "It's about a twenty-minute drive.",
+    "pronunciation": "/ɪts əˈbaʊt ə ˈtwɛnti ˈmɪnɪt draɪv/",
+    "example": "It's about a twenty-minute drive without traffic — longer on a Friday."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Rideshare is faster today.",
+    "pronunciation": "/ˈraɪdʃɛr ɪz ˈfæstər təˈdeɪ/",
+    "example": "Rideshare is faster today — I'll just grab an Uber and skip the parking."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My driver is two minutes away.",
+    "pronunciation": "/maɪ ˈdraɪvər ɪz tu ˈmɪnɪts əˈweɪ/",
+    "example": "My driver is two minutes away — let's head outside now."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Can you drop me off here?",
+    "pronunciation": "/kæn ju drɑp mi ɔf hɪr/",
+    "example": "Can you drop me off here? I can walk the rest of the way."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I'll pick you up out front.",
+    "pronunciation": "/aɪl pɪk ju ʌp aʊt frʌnt/",
+    "example": "I'll pick you up out front — just text me when you're ready."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The check engine light is on.",
+    "pronunciation": "/ðə tʃɛk ˈɛndʒɪn laɪt ɪz ɑn/",
+    "example": "The check engine light is on — I should probably take it in this week."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Is it safe to drive on?",
+    "pronunciation": "/ɪz ɪt seɪf tə draɪv ɑn/",
+    "example": "Is it safe to drive on, or should I pull over right away?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I think the brakes need replacing.",
+    "pronunciation": "/aɪ θɪŋk ðə breɪks nid rɪˈpleɪsɪŋ/",
+    "example": "I think the brakes need replacing — they're making a grinding sound."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How much will that run me?",
+    "pronunciation": "/haʊ mʌtʃ wɪl ðæt rʌn mi/",
+    "example": "How much will that run me? I'm on a pretty tight budget right now."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Do you offer a loaner car?",
+    "pronunciation": "/du ju ˈɔfər ə ˈloʊnər kɑr/",
+    "example": "Do you offer a loaner car while mine is being repaired?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Can I get a shuttle back home?",
+    "pronunciation": "/kæn aɪ ɡɛt ə ˈʃʌtəl bæk hoʊm/",
+    "example": "Can I get a shuttle back home while y'all work on my car?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Watch out — school zone ahead.",
+    "pronunciation": "/wɑtʃ aʊt skul zoʊn əˈhɛd/",
+    "example": "Watch out — school zone ahead. Slow down to twenty miles an hour."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Always use your turn signal.",
+    "pronunciation": "/ˈɔlweɪz juz jʊr tɜrn ˈsɪɡnəl/",
+    "example": "Always use your turn signal — people around here don't, but you should."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The roads get slick when it rains.",
+    "pronunciation": "/ðə roʊdz ɡɛt slɪk wɛn ɪt reɪnz/",
+    "example": "The roads get slick when it rains — take it slow out there today."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I need to stop for gas.",
+    "pronunciation": "/aɪ nid tə stɑp fər ɡæs/",
+    "example": "I need to stop for gas — the tank is almost empty."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "There's road construction everywhere.",
+    "pronunciation": "/ðɛrz roʊd kənˈstrʌkʃən ˈɛvriˌwɛr/",
+    "example": "There's road construction everywhere — the whole commute is a mess right now."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Can I get a jump start?",
+    "pronunciation": "/kæn aɪ ɡɛt ə dʒʌmp stɑrt/",
+    "example": "Can I get a jump start? My battery died in the parking lot."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I think I took a wrong turn.",
+    "pronunciation": "/aɪ θɪŋk aɪ tʊk ə rɔŋ tɜrn/",
+    "example": "I think I took a wrong turn — nothing looks familiar and I'm totally lost."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "How do I get back to the highway?",
+    "pronunciation": "/haʊ du aɪ ɡɛt bæk tə ðə ˈhaɪˌweɪ/",
+    "example": "How do I get back to the highway from here? I turned the GPS off too early."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "The light is about to turn green.",
+    "pronunciation": "/ðə laɪt ɪz əˈbaʊt tə tɜrn ɡrin/",
+    "example": "The light is about to turn green — get ready to go."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "Slow down through the school zone.",
+    "pronunciation": "/sloʊ daʊn θru ðə skul zoʊn/",
+    "example": "Slow down through the school zone — there are kids crossing everywhere."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "I'm looking for a parking garage.",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fər ə ˈpɑrkɪŋ ɡəˈrɑʒ/",
+    "example": "I'm looking for a parking garage — do you know if there's one near the square?"
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "That exit came up fast.",
+    "pronunciation": "/ðæt ˈɛɡzɪt keɪm ʌp fæst/",
+    "example": "That exit came up fast — I almost missed it. The signs are poorly placed."
+  },
+  {
+    "topic": "Transport & Driving",
+    "phrase": "My GPS keeps rerouting.",
+    "pronunciation": "/maɪ dʒi pi ɛs kips riˈrutɪŋ/",
+    "example": "My GPS keeps rerouting — I think there's construction messing things up."
+  }
+]

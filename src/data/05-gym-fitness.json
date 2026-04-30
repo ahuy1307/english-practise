@@ -1,0 +1,422 @@
+[
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Are you done with that machine?",
+    "pronunciation": "/ər ju dʌn wɪð ðæt məˈʃin/",
+    "example": "Are you done with that machine? I only need it for one more set."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How many sets do you have left?",
+    "pronunciation": "/haʊ ˈmɛni sɛts du ju hæv lɛft/",
+    "example": "How many sets do you have left on the bench? I'll wait if it's just one."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Mind if I work in?",
+    "pronunciation": "/maɪnd ɪf aɪ wɜrk ɪn/",
+    "example": "Mind if I work in between your sets? We can share the weights."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Can you spot me?",
+    "pronunciation": "/kæn ju spɑt mi/",
+    "example": "Can you spot me on this last set? I'm going a little heavier today."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm going for a new personal record.",
+    "pronunciation": "/aɪm ˈɡoʊɪŋ fər ə nu ˈpɜrsənəl ˈrɛkərd/",
+    "example": "I'm going for a new personal record on deadlift today — fingers crossed."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How much weight are you using?",
+    "pronunciation": "/haʊ mʌtʃ weɪt ər ju ˈjuzɪŋ/",
+    "example": "How much weight are you using on that? It looks about right for me too."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I need to warm up first.",
+    "pronunciation": "/aɪ nid tə wɔrm ʌp fɜrst/",
+    "example": "I need to warm up first — give me about ten minutes on the treadmill."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm doing three sets of ten.",
+    "pronunciation": "/aɪm ˈduɪŋ θri sɛts əv tɛn/",
+    "example": "I'm doing three sets of ten — then I'll free up the squat rack."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Don't forget to stretch.",
+    "pronunciation": "/doʊnt fərˈɡɛt tə strɛtʃ/",
+    "example": "Don't forget to stretch after your workout — your muscles will thank you."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm really sore today.",
+    "pronunciation": "/aɪm ˈrɪli sɔr təˈdeɪ/",
+    "example": "I'm really sore today — leg day yesterday absolutely destroyed me."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "My legs are killing me.",
+    "pronunciation": "/maɪ lɛɡz ər ˈkɪlɪŋ mi/",
+    "example": "My legs are killing me from those lunges — I can barely walk the stairs."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm taking a rest day.",
+    "pronunciation": "/aɪm ˈteɪkɪŋ ə rɛst deɪ/",
+    "example": "I'm taking a rest day — my body needs time to recover."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "What's your workout routine?",
+    "pronunciation": "/wʌts jʊr ˈwɜrkˌaʊt ruˈtin/",
+    "example": "What's your workout routine? You've made some serious progress lately."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I've been lifting for two years.",
+    "pronunciation": "/aɪv bɪn ˈlɪftɪŋ fər tu jɪrz/",
+    "example": "I've been lifting for two years — still learning a lot, but I love it."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm trying to build muscle.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə bɪld ˈmʌsəl/",
+    "example": "I'm trying to build muscle — my trainer said I need to eat more protein."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm focusing on cardio right now.",
+    "pronunciation": "/aɪm ˈfoʊkəsɪŋ ɑn ˈkɑrdioʊ raɪt naʊ/",
+    "example": "I'm focusing on cardio right now — trying to drop a few pounds before summer."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How long do you run for?",
+    "pronunciation": "/haʊ lɔŋ du ju rʌn fər/",
+    "example": "How long do you run for? I'm trying to work up to a 5K."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I hit the gym five days a week.",
+    "pronunciation": "/aɪ hɪt ðə dʒɪm faɪv deɪz ə wik/",
+    "example": "I hit the gym five days a week — weekends are for active recovery."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I skipped the gym this week.",
+    "pronunciation": "/aɪ skɪpt ðə dʒɪm ðɪs wik/",
+    "example": "I skipped the gym this week — work was absolutely crazy."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Getting back into it.",
+    "pronunciation": "/ˈɡɛtɪŋ bæk ˈɪntu ɪt/",
+    "example": "Getting back into it after taking two months off — it's tough but worth it."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How much protein do you eat?",
+    "pronunciation": "/haʊ mʌtʃ ˈproʊtˌin du ju it/",
+    "example": "How much protein do you eat a day? I'm trying to figure out my macros."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I take protein shakes after my workout.",
+    "pronunciation": "/aɪ teɪk ˈproʊtˌin ʃeɪks ˈæftər maɪ ˈwɜrkˌaʊt/",
+    "example": "I take protein shakes right after my workout — chocolate flavor is the best."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "What supplements do you take?",
+    "pronunciation": "/wʌt ˈsʌpləmɛnts du ju teɪk/",
+    "example": "What supplements do you take? I'm thinking about adding creatine."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Don't forget to hydrate.",
+    "pronunciation": "/doʊnt fərˈɡɛt tə ˈhaɪˌdreɪt/",
+    "example": "Don't forget to hydrate — it's easy to lose track when you're focused."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm running on the treadmill.",
+    "pronunciation": "/aɪm ˈrʌnɪŋ ɑn ðə ˈtrɛdˌmɪl/",
+    "example": "I'm running on the treadmill for thirty minutes before I lift."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "The squat rack is taken.",
+    "pronunciation": "/ðə skwɑt ræk ɪz ˈteɪkən/",
+    "example": "The squat rack is taken — I'll start with bench press instead."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Please re-rack your weights.",
+    "pronunciation": "/pliz ri ræk jʊr weɪts/",
+    "example": "Please re-rack your weights when you're done — it's gym etiquette."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Wipe down the equipment.",
+    "pronunciation": "/waɪp daʊn ðə ɪˈkwɪpmənt/",
+    "example": "Wipe down the equipment after you use it — there are spray bottles everywhere."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Where are the dumbbells?",
+    "pronunciation": "/wɛr ər ðə ˈdʌmˌbɛlz/",
+    "example": "Where are the dumbbells? I can't find the twenties anywhere."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "The weights go in order on the rack.",
+    "pronunciation": "/ðə weɪts ɡoʊ ɪn ˈɔrdər ɑn ðə ræk/",
+    "example": "The weights go in order on the rack — heaviest on the bottom."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm working on my form.",
+    "pronunciation": "/aɪm ˈwɜrkɪŋ ɑn maɪ fɔrm/",
+    "example": "I'm working on my form before I add more weight — don't want to get hurt."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Keep your back straight.",
+    "pronunciation": "/kip jʊr bæk streɪt/",
+    "example": "Keep your back straight during the lift — rounding it leads to injury."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Squeeze at the top.",
+    "pronunciation": "/skwiz æt ðə tɑp/",
+    "example": "Squeeze at the top of the curl — hold it for a second for better results."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Slow and controlled reps.",
+    "pronunciation": "/sloʊ ænd kənˈtroʊld rɛps/",
+    "example": "Slow and controlled reps are way more effective than going too fast."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm doing a push-pull-legs split.",
+    "pronunciation": "/aɪm ˈduɪŋ ə pʊʃ pʊl lɛɡz splɪt/",
+    "example": "I'm doing a push-pull-legs split — it keeps things balanced and efficient."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Today is arm day.",
+    "pronunciation": "/təˈdeɪ ɪz ɑrm deɪ/",
+    "example": "Today is arm day — biceps and triceps, then I'm done."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Leg day is the hardest.",
+    "pronunciation": "/lɛɡ deɪ ɪz ðə ˈhɑrdɪst/",
+    "example": "Leg day is the hardest — but skipping it is not an option."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm training for a marathon.",
+    "pronunciation": "/aɪm ˈtreɪnɪŋ fər ə ˈmærəˌθɑn/",
+    "example": "I'm training for a marathon in the spring — running about forty miles a week."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I just signed up for a 5K.",
+    "pronunciation": "/aɪ dʒʌst saɪnd ʌp fər ə faɪv keɪ/",
+    "example": "I just signed up for a 5K next month — first one ever, a little nervous."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How's the group fitness class?",
+    "pronunciation": "/haʊz ðə ɡrup ˈfɪtnɪs klæs/",
+    "example": "How's the group fitness class on Tuesdays? I've been thinking about joining."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "The class starts at six AM.",
+    "pronunciation": "/ðə klæs stɑrts æt sɪks eɪ ɛm/",
+    "example": "The class starts at six AM — early, but it sets the tone for the whole day."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I need a gym buddy.",
+    "pronunciation": "/aɪ nid ə dʒɪm ˈbʌdi/",
+    "example": "I need a gym buddy — it's way easier to stay motivated with someone else."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "You've made so much progress!",
+    "pronunciation": "/juv meɪd soʊ mʌtʃ ˈprɑɡrɛs/",
+    "example": "You've made so much progress! Whatever you're doing, keep it up."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Don't give up — you've got this.",
+    "pronunciation": "/doʊnt ɡɪv ʌp juv ɡɑt ðɪs/",
+    "example": "Don't give up — you've got this. One more rep, push through."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I pulled a muscle.",
+    "pronunciation": "/aɪ pʊld ə ˈmʌsəl/",
+    "example": "I pulled a muscle in my lower back — I need to take a few days off."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I need to ice this.",
+    "pronunciation": "/aɪ nid tə aɪs ðɪs/",
+    "example": "I need to ice this shoulder — it's been bothering me all week."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Listen to your body.",
+    "pronunciation": "/ˈlɪsən tə jʊr ˈbɑdi/",
+    "example": "Listen to your body — if something hurts, stop and rest."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Progress takes time.",
+    "pronunciation": "/ˈprɑɡrɛs teɪks taɪm/",
+    "example": "Progress takes time — don't get discouraged in the first few weeks."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Consistency is everything.",
+    "pronunciation": "/kənˈsɪstənsi ɪz ˈɛvriθɪŋ/",
+    "example": "Consistency is everything — showing up on the hard days is what counts."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I track my workouts on an app.",
+    "pronunciation": "/aɪ træk maɪ ˈwɜrkˌaʊts ɑn ən æp/",
+    "example": "I track my workouts on an app so I can see how far I've come."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm trying to lose about ten pounds.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə luz əˈbaʊt tɛn paʊndz/",
+    "example": "I'm trying to lose about ten pounds by the end of the summer."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Diet is just as important as working out.",
+    "pronunciation": "/ˈdaɪɪt ɪz dʒʌst æz ɪmˈpɔrtənt æz ˈwɜrkɪŋ aʊt/",
+    "example": "Diet is just as important as working out — you can't out-train a bad diet."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I meal prep on Sundays.",
+    "pronunciation": "/aɪ mil prɛp ɑn ˈsʌndeɪz/",
+    "example": "I meal prep on Sundays so I stay on track all week without thinking about it."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm cutting right now.",
+    "pronunciation": "/aɪm ˈkʌtɪŋ raɪt naʊ/",
+    "example": "I'm cutting right now — watching my calories and trying to lean out."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm in a bulking phase.",
+    "pronunciation": "/aɪm ɪn ə ˈbʌlkɪŋ feɪz/",
+    "example": "I'm in a bulking phase right now — eating big to get bigger."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Do you have a personal trainer?",
+    "pronunciation": "/du ju hæv ə ˈpɜrsənəl ˈtreɪnər/",
+    "example": "Do you have a personal trainer? I'm thinking about getting one to fix my form."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "My trainer pushed me really hard today.",
+    "pronunciation": "/maɪ ˈtreɪnər pʊʃt mi ˈrɪli hɑrd təˈdeɪ/",
+    "example": "My trainer pushed me really hard today — I'm going to feel it tomorrow."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How do I use this machine?",
+    "pronunciation": "/haʊ du aɪ juz ðɪs məˈʃin/",
+    "example": "How do I use this machine? I've never tried the cable row before."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "This gym gets packed after five.",
+    "pronunciation": "/ðɪs dʒɪm ɡɛts pækt ˈæftər faɪv/",
+    "example": "This gym gets packed after five — I try to come in the morning to avoid the crowd."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Cool-down is just as important.",
+    "pronunciation": "/kulˈdaʊn ɪz dʒʌst æz ɪmˈpɔrtənt/",
+    "example": "Cool-down is just as important as the workout — don't skip it."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I need to stretch my hip flexors.",
+    "pronunciation": "/aɪ nid tə strɛtʃ maɪ hɪp ˈflɛksərz/",
+    "example": "I need to stretch my hip flexors — sitting at a desk all day really tightens them up."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I'm skipping the weights today.",
+    "pronunciation": "/aɪm ˈskɪpɪŋ ðə weɪts təˈdeɪ/",
+    "example": "I'm skipping the weights today — just going to do some light cardio and stretch."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "The gym is closed on holidays.",
+    "pronunciation": "/ðə dʒɪm ɪz kloʊzd ɑn ˈhɑlɪˌdeɪz/",
+    "example": "The gym is closed on holidays — I'll have to do a workout at home instead."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "How long is your membership?",
+    "pronunciation": "/haʊ lɔŋ ɪz jʊr ˈmɛmbərʃɪp/",
+    "example": "How long is your membership? I'm deciding between month-to-month and annual."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Can I pause my membership?",
+    "pronunciation": "/kæn aɪ pɔz maɪ ˈmɛmbərʃɪp/",
+    "example": "Can I pause my membership? I'm traveling for the whole month of July."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "Is there a guest pass available?",
+    "pronunciation": "/ɪz ðɛr ə ɡɛst pæs əˈveɪləbəl/",
+    "example": "Is there a guest pass available? My friend wants to try the gym before joining."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "The locker room is in the back.",
+    "pronunciation": "/ðə ˈlɑkər rum ɪz ɪn ðə bæk/",
+    "example": "The locker room is in the back — you'll need your member card to get in."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I love doing yoga in the morning.",
+    "pronunciation": "/aɪ lʌv ˈduɪŋ ˈjoʊɡə ɪn ðə ˈmɔrnɪŋ/",
+    "example": "I love doing yoga in the morning — it sets such a calm tone for the whole day."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "My goal is to run a half marathon.",
+    "pronunciation": "/maɪ ɡoʊl ɪz tə rʌn ə hæf ˈmærəˌθɑn/",
+    "example": "My goal is to run a half marathon by the end of the year."
+  },
+  {
+    "topic": "Gym & Fitness",
+    "phrase": "I need new workout shoes.",
+    "pronunciation": "/aɪ nid nu ˈwɜrkˌaʊt ʃuz/",
+    "example": "I need new workout shoes — mine are completely worn out from all the running."
+  }
+]

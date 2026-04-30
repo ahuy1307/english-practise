@@ -1,0 +1,374 @@
+[
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do you have this in my size?",
+    "pronunciation": "/du ju hæv ðɪs ɪn maɪ saɪz/",
+    "example": "Do you have this in my size? I'm a medium — this one looks a little small."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Can I try this on?",
+    "pronunciation": "/kæn aɪ traɪ ðɪs ɑn/",
+    "example": "Can I try this on? I want to make sure it fits before I buy it."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Where's the fitting room?",
+    "pronunciation": "/wɛrz ðə ˈfɪtɪŋ rum/",
+    "example": "Where's the fitting room? I have about five things I want to try on."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "How many items can I bring in?",
+    "pronunciation": "/haʊ ˈmɛni ˈaɪtəmz kæn aɪ brɪŋ ɪn/",
+    "example": "How many items can I bring into the fitting room at one time?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "It runs a little big.",
+    "pronunciation": "/ɪt rʌnz ə ˈlɪtəl bɪɡ/",
+    "example": "It runs a little big — I'd go down a size if you want a closer fit."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "It runs small.",
+    "pronunciation": "/ɪt rʌnz smɔl/",
+    "example": "It runs small — I normally wear a medium but had to get a large in this brand."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This fits perfectly.",
+    "pronunciation": "/ðɪs fɪts ˈpɜrfɪktli/",
+    "example": "This fits perfectly — I'll definitely take it."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "It's a little too tight.",
+    "pronunciation": "/ɪts ə ˈlɪtəl tu taɪt/",
+    "example": "It's a little too tight around the shoulders — do you have the next size up?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "It's a little loose.",
+    "pronunciation": "/ɪts ə ˈlɪtəl lus/",
+    "example": "It's a little loose in the waist — do you have a smaller size?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do these come in different colors?",
+    "pronunciation": "/du ðiz kʌm ɪn ˈdɪfrənt ˈkʌlərz/",
+    "example": "Do these come in different colors? I like the style but not the print."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "What material is this?",
+    "pronunciation": "/wʌt məˈtɪriəl ɪz ðɪs/",
+    "example": "What material is this? It feels really soft — is it cotton or a blend?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Is this machine washable?",
+    "pronunciation": "/ɪz ðɪs məˈʃin ˈwɑʃəbəl/",
+    "example": "Is this machine washable or does it have to be dry cleaned?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This is dry clean only.",
+    "pronunciation": "/ðɪs ɪz draɪ klin ˈoʊnli/",
+    "example": "This is dry clean only — that's a little inconvenient for everyday wear."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "What's your return policy?",
+    "pronunciation": "/wʌts jʊr rɪˈtɜrn ˈpɑləsi/",
+    "example": "What's your return policy? I want to know before I commit to buying this."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I'd like to return this.",
+    "pronunciation": "/aɪd laɪk tə rɪˈtɜrn ðɪs/",
+    "example": "I'd like to return this — it didn't fit the way I hoped after I got home."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do you have a gift receipt?",
+    "pronunciation": "/du ju hæv ə ɡɪft rɪˈsit/",
+    "example": "Do you have a gift receipt? I'm buying this as a present just in case it doesn't fit."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Can I exchange this for a different size?",
+    "pronunciation": "/kæn aɪ ɪksˈtʃeɪndʒ ðɪs fər ə ˈdɪfrənt saɪz/",
+    "example": "Can I exchange this for a different size? I grabbed the wrong one by mistake."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Is this on clearance?",
+    "pronunciation": "/ɪz ðɪs ɑn ˈklɪrəns/",
+    "example": "Is this on clearance? The sign out front said everything is up to fifty percent off."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do you have any coupons I can use?",
+    "pronunciation": "/du ju hæv ˈɛni ˈkupɑnz aɪ kæn juz/",
+    "example": "Do you have any coupons I can use? I'm on their email list."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to separate the darks and lights.",
+    "pronunciation": "/aɪ nid tə ˈsɛpərˌeɪt ðə dɑrks ænd laɪts/",
+    "example": "I need to separate the darks and lights before I do laundry — don't want anything to bleed."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Wash on cold to avoid shrinking.",
+    "pronunciation": "/wɑʃ ɑn koʊld tə əˈvɔɪd ˈʃrɪŋkɪŋ/",
+    "example": "Wash on cold to avoid shrinking — especially with cotton."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This shirt shrank in the dryer.",
+    "pronunciation": "/ðɪs ʃɜrt ʃræŋk ɪn ðə ˈdraɪər/",
+    "example": "This shirt shrank in the dryer — I should have air dried it."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Hang it up to dry.",
+    "pronunciation": "/hæŋ ɪt ʌp tə draɪ/",
+    "example": "Hang it up to dry — I don't trust the dryer with this one."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "The laundry is done — can you fold it?",
+    "pronunciation": "/ðə ˈlɔndri ɪz dʌn kæn ju foʊld ɪt/",
+    "example": "The laundry is done — can you fold it while I start dinner?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I left the laundry in the washer overnight.",
+    "pronunciation": "/aɪ lɛft ðə ˈlɔndri ɪn ðə ˈwɑʃər ˈoʊvərˌnaɪt/",
+    "example": "I left the laundry in the washer overnight — I'll have to wash it again."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This stain won't come out.",
+    "pronunciation": "/ðɪs steɪn woʊnt kʌm aʊt/",
+    "example": "This stain won't come out — I've tried everything and it's still there."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Try some stain remover on it.",
+    "pronunciation": "/traɪ sʌm steɪn rɪˈmuvər ɑn ɪt/",
+    "example": "Try some stain remover on it before you throw it in the wash."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I'm running low on detergent.",
+    "pronunciation": "/aɪm ˈrʌnɪŋ loʊ ɑn dɪˈtɜrdʒənt/",
+    "example": "I'm running low on detergent — can you grab some at HEB on your way home?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Don't forget the fabric softener.",
+    "pronunciation": "/doʊnt fərˈɡɛt ðə ˈfæbrɪk ˈsɔfənər/",
+    "example": "Don't forget the fabric softener — it makes such a difference."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to iron this before I wear it.",
+    "pronunciation": "/aɪ nid tə ˈaɪərn ðɪs bɪˈfɔr aɪ wɛr ɪt/",
+    "example": "I need to iron this before I wear it — it's got wrinkles from being in the suitcase."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to take this to the dry cleaner.",
+    "pronunciation": "/aɪ nid tə teɪk ðɪs tə ðə draɪ ˈklinər/",
+    "example": "I need to take this to the dry cleaner — it's my only nice suit."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "When will it be ready?",
+    "pronunciation": "/wɛn wɪl ɪt bi ˈrɛdi/",
+    "example": "When will it be ready? I have an event on Friday and need it by Thursday."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need an outfit for a job interview.",
+    "pronunciation": "/aɪ nid ən ˈaʊtˌfɪt fər ə dʒɑb ˈɪntərˌvju/",
+    "example": "I need an outfit for a job interview — professional but not too formal."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "What's the dress code?",
+    "pronunciation": "/wʌts ðə drɛs koʊd/",
+    "example": "What's the dress code for the event? I want to make sure I'm dressed appropriately."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Business casual is fine.",
+    "pronunciation": "/ˈbɪznɪs ˈkæʒuəl ɪz faɪn/",
+    "example": "Business casual is fine — no need for a full suit and tie."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Just wear something comfortable.",
+    "pronunciation": "/dʒʌst wɛr ˈsʌmθɪŋ ˈkʌmftərbəl/",
+    "example": "Just wear something comfortable — we're going to be outside most of the time."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Layer up — it gets cold at night.",
+    "pronunciation": "/ˈleɪər ʌp ɪt ɡɛts koʊld æt naɪt/",
+    "example": "Layer up — it gets cold at night around here, even in the fall."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I donated a bag of clothes to Goodwill.",
+    "pronunciation": "/aɪ doʊˈneɪtɪd ə bæɡ əv kloʊðz tə ˈɡʊdˌwɪl/",
+    "example": "I donated a bag of clothes to Goodwill — I was holding onto stuff I'll never wear."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I found a great deal at the thrift store.",
+    "pronunciation": "/aɪ faʊnd ə ɡreɪt dil æt ðə θrɪft stɔr/",
+    "example": "I found a great deal at the thrift store — brand new jeans for four dollars."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "These shoes are worn out.",
+    "pronunciation": "/ðiz ʃuz ər wɔrn aʊt/",
+    "example": "These shoes are worn out — I've had them for three years and they're done."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to break these in.",
+    "pronunciation": "/aɪ nid tə breɪk ðiz ɪn/",
+    "example": "I need to break these in — they're a little stiff right now."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "What size shoe do you wear?",
+    "pronunciation": "/wʌt saɪz ʃu du ju wɛr/",
+    "example": "What size shoe do you wear? I want to grab you a pair as a gift."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I'm between sizes.",
+    "pronunciation": "/aɪm bɪˈtwin ˈsaɪzɪz/",
+    "example": "I'm between sizes — the small is too tight and the medium is a little baggy."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Does this look okay on me?",
+    "pronunciation": "/dʌz ðɪs lʊk oʊˈkeɪ ɑn mi/",
+    "example": "Does this look okay on me? Be honest — I can handle it."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "That color looks great on you.",
+    "pronunciation": "/ðæt ˈkʌlər lʊks ɡreɪt ɑn ju/",
+    "example": "That color looks great on you — really brings out your eyes."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I'll just wear jeans and a T-shirt.",
+    "pronunciation": "/aɪl dʒʌst wɛr dʒinz ænd ə ti ʃɜrt/",
+    "example": "I'll just wear jeans and a T-shirt — it's a casual thing, nothing fancy."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I always spill something on my shirt.",
+    "pronunciation": "/aɪ ˈɔlweɪz spɪl ˈsʌmθɪŋ ɑn maɪ ʃɜrt/",
+    "example": "I always spill something on my shirt when I'm wearing white."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This is new — I just got it.",
+    "pronunciation": "/ðɪs ɪz nu aɪ dʒʌst ɡɑt ɪt/",
+    "example": "This is new — I just got it on sale last weekend."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "The zipper is broken.",
+    "pronunciation": "/ðə ˈzɪpər ɪz ˈbroʊkən/",
+    "example": "The zipper is broken — I've only worn this jacket twice and it's already falling apart."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "That outfit is really cute!",
+    "pronunciation": "/ðæt ˈaʊtˌfɪt ɪz ˈrɪli kjut/",
+    "example": "That outfit is really cute! Where did you get those boots?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need something for a casual Friday.",
+    "pronunciation": "/aɪ nid ˈsʌmθɪŋ fər ə ˈkæʒuəl ˈfraɪdeɪ/",
+    "example": "I need something for a casual Friday — not too dressed up, but still put together."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "This fabric pills after washing.",
+    "pronunciation": "/ðɪs ˈfæbrɪk pɪlz ˈæftər ˈwɑʃɪŋ/",
+    "example": "This fabric pills after washing — I need a fabric shaver to fix it."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I should've checked the care label.",
+    "pronunciation": "/aɪ ˈʃʊdəv tʃɛkt ðə kɛr ˈleɪbəl/",
+    "example": "I should've checked the care label — now my shirt is ruined from the dryer."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "The colors bled in the wash.",
+    "pronunciation": "/ðə ˈkʌlərz blɛd ɪn ðə wɑʃ/",
+    "example": "The colors bled in the wash — everything in that load is pink now."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "These jeans are a classic fit.",
+    "pronunciation": "/ðiz dʒinz ər ə ˈklæsɪk fɪt/",
+    "example": "These jeans are a classic fit — not too baggy, not too slim. Just right."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I prefer breathable fabric in Texas.",
+    "pronunciation": "/aɪ prɪˈfɜr ˈbriðəbəl ˈfæbrɪk ɪn ˈtɛksəs/",
+    "example": "I prefer breathable fabric in Texas — cotton or linen is the way to go in the summer."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "The clothes are still damp.",
+    "pronunciation": "/ðə kloʊðz ər stɪl dæmp/",
+    "example": "The clothes are still damp — throw them back in the dryer for another cycle."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to buy a belt to match these shoes.",
+    "pronunciation": "/aɪ nid tə baɪ ə bɛlt tə mætʃ ðiz ʃuz/",
+    "example": "I need to buy a belt to match these shoes — otherwise the whole outfit looks off."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do you have these in a petite size?",
+    "pronunciation": "/du ju hæv ðiz ɪn ə pɪˈtit saɪz/",
+    "example": "Do you have these in a petite size? The regular length is way too long on me."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "I need to get this hemmed.",
+    "pronunciation": "/aɪ nid tə ɡɛt ðɪs hɛmd/",
+    "example": "I need to get this hemmed — the pants are about two inches too long."
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "Do you do alterations here?",
+    "pronunciation": "/du ju du ˌɔltəˈreɪʃənz hɪr/",
+    "example": "Do you do alterations here, or do I need to go somewhere else?"
+  },
+  {
+    "topic": "Clothes & Laundry",
+    "phrase": "That's on sale — final sale only.",
+    "pronunciation": "/ðæts ɑn seɪl ˈfaɪnəl seɪl ˈoʊnli/",
+    "example": "That's on sale — final sale only, so make sure you really want it before you buy."
+  }
+]

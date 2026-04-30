@@ -1,0 +1,374 @@
+[
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's scorching hot today.",
+    "pronunciation": "/ɪts ˈskɔrtʃɪŋ hɑt təˈdeɪ/",
+    "example": "It's scorching hot today — I wouldn't go outside unless you have to."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The heat index is over a hundred.",
+    "pronunciation": "/ðə hit ˈɪndɛks ɪz ˈoʊvər ə ˈhʌndrɪd/",
+    "example": "The heat index is over a hundred — feels like a hundred and ten out there."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Stay hydrated in this heat.",
+    "pronunciation": "/steɪ ˈhaɪˌdreɪtɪd ɪn ðɪs hit/",
+    "example": "Stay hydrated in this heat — Texas summers are no joke."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Wear sunscreen out there.",
+    "pronunciation": "/wɛr ˈsʌnˌskrin aʊt ðɛr/",
+    "example": "Wear sunscreen out there — you'll burn in twenty minutes this time of year."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's supposed to cool down tonight.",
+    "pronunciation": "/ɪts səˈpozd tə kul daʊn təˈnaɪt/",
+    "example": "It's supposed to cool down tonight — maybe we can sit outside later."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "There's a cold front coming in.",
+    "pronunciation": "/ðɛrz ə koʊld frʌnt ˈkʌmɪŋ ɪn/",
+    "example": "There's a cold front coming in this weekend — temps dropping into the fifties."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Storm is rolling in fast.",
+    "pronunciation": "/stɔrm ɪz ˈroʊlɪŋ ɪn fæst/",
+    "example": "Storm is rolling in fast — better bring the lawn chairs inside."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "There's a tornado watch in effect.",
+    "pronunciation": "/ðɛrz ə tərˈneɪdoʊ wɑtʃ ɪn ɪˈfɛkt/",
+    "example": "There's a tornado watch in effect until nine tonight — stay alert."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Take shelter immediately.",
+    "pronunciation": "/teɪk ˈʃɛltər ɪˈmidiɪtli/",
+    "example": "Take shelter immediately — the sirens just went off outside."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The sky is getting dark fast.",
+    "pronunciation": "/ðə skaɪ ɪz ˈɡɛtɪŋ dɑrk fæst/",
+    "example": "The sky is getting dark fast — we should head inside before it hits."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's been raining all day.",
+    "pronunciation": "/ɪts bɪn ˈreɪnɪŋ ɔl deɪ/",
+    "example": "It's been raining all day — everything is flooded on the east side."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Flash flood warning is out.",
+    "pronunciation": "/flæʃ flʌd ˈwɔrnɪŋ ɪz aʊt/",
+    "example": "Flash flood warning is out — avoid the low water crossings, they're dangerous."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Don't cross flooded roads.",
+    "pronunciation": "/doʊnt krɔs ˈflʌdɪd roʊdz/",
+    "example": "Don't cross flooded roads — turn around, don't drown."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The river is rising.",
+    "pronunciation": "/ðə ˈrɪvər ɪz ˈraɪzɪŋ/",
+    "example": "The river is rising fast — they might close the park access soon."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It cleared up nicely.",
+    "pronunciation": "/ɪt klɪrd ʌp ˈnaɪsli/",
+    "example": "It cleared up nicely after the storm — perfect evening to sit outside."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The humidity is brutal.",
+    "pronunciation": "/ðə hjuˈmɪdɪti ɪz ˈbrutəl/",
+    "example": "The humidity is brutal — I walked outside and immediately started sweating."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's a beautiful day out.",
+    "pronunciation": "/ɪts ə ˈbjutɪfəl deɪ aʊt/",
+    "example": "It's a beautiful day out — perfect for a hike at Purgatory Creek."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Low of sixty-five tonight.",
+    "pronunciation": "/loʊ əv ˈsɪksti faɪv təˈnaɪt/",
+    "example": "Low of sixty-five tonight — finally feels like fall is coming."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "High of ninety-eight tomorrow.",
+    "pronunciation": "/haɪ əv ˈnaɪnti eɪt təˈmɑroʊ/",
+    "example": "High of ninety-eight tomorrow — another brutal summer day in Texas."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "What's the forecast for this weekend?",
+    "pronunciation": "/wʌts ðə ˈfɔrˌkæst fər ðɪs ˈwikˌɛnd/",
+    "example": "What's the forecast for this weekend? We're planning an outdoor party."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Chance of thunderstorms in the afternoon.",
+    "pronunciation": "/tʃæns əv ˈθʌndərˌstɔrmz ɪn ðə ˌæftərˈnun/",
+    "example": "Chance of thunderstorms in the afternoon — plan activities for the morning."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Cedar season is killing my sinuses.",
+    "pronunciation": "/ˈsidər ˈsizən ɪz ˈkɪlɪŋ maɪ ˈsaɪnəsɪz/",
+    "example": "Cedar season is killing my sinuses — Texas winters are rough for allergy sufferers."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Pollen count is really high today.",
+    "pronunciation": "/ˈpɑlən kaʊnt ɪz ˈrɪli haɪ təˈdeɪ/",
+    "example": "Pollen count is really high today — my eyes won't stop watering."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's finally starting to cool off.",
+    "pronunciation": "/ɪts ˈfaɪnəli ˈstɑrtɪŋ tə kul ɔf/",
+    "example": "It's finally starting to cool off around here — only took until November."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "We got a good soaking rain.",
+    "pronunciation": "/wi ɡɑt ə ɡʊd ˈsoʊkɪŋ reɪn/",
+    "example": "We got a good soaking rain last night — the yard really needed it."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The river is perfect for tubing.",
+    "pronunciation": "/ðə ˈrɪvər ɪz ˈpɜrfɪkt fər ˈtubɪŋ/",
+    "example": "The river is perfect for tubing this weekend — not too high, not too low."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Let's go float the river.",
+    "pronunciation": "/lɛts ɡoʊ floʊt ðə ˈrɪvər/",
+    "example": "Let's go float the river on Saturday — grab some coolers and make a day of it."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Watch out for fire ants.",
+    "pronunciation": "/wɑtʃ aʊt fər ˈfaɪər ænts/",
+    "example": "Watch out for fire ants — they're everywhere in the grass around here."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The mosquitoes are bad tonight.",
+    "pronunciation": "/ðə məˈskitoʊz ər bæd təˈnaɪt/",
+    "example": "The mosquitoes are bad tonight — put some bug spray on before you go out."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Wear bug spray to the park.",
+    "pronunciation": "/wɛr bʌɡ spreɪ tə ðə pɑrk/",
+    "example": "Wear bug spray to the park — especially near the creek area."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It looks like rain.",
+    "pronunciation": "/ɪt lʊks laɪk reɪn/",
+    "example": "It looks like rain — I'd bring an umbrella just in case."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Bring an umbrella just in case.",
+    "pronunciation": "/brɪŋ ən ʌmˈbrɛlə dʒʌst ɪn keɪs/",
+    "example": "Bring an umbrella just in case — those afternoon storms pop up out of nowhere."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The sun sets beautifully here.",
+    "pronunciation": "/ðə sʌn sɛts ˈbjutɪfəli hɪr/",
+    "example": "The sun sets beautifully here — especially from the top of the greenbelt trail."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's good stargazing weather tonight.",
+    "pronunciation": "/ɪts ɡʊd ˈstɑrˌɡeɪzɪŋ ˈwɛðər təˈnaɪt/",
+    "example": "It's good stargazing weather tonight — the sky is totally clear."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The trail might be muddy after the rain.",
+    "pronunciation": "/ðə treɪl maɪt bi ˈmʌdi ˈæftər ðə reɪn/",
+    "example": "The trail might be muddy after the rain — wear shoes you don't mind getting dirty."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Let's go for a hike this morning.",
+    "pronunciation": "/lɛts ɡoʊ fər ə haɪk ðɪs ˈmɔrnɪŋ/",
+    "example": "Let's go for a hike this morning before it gets too hot to be outside."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's great weather for a cookout.",
+    "pronunciation": "/ɪts ɡreɪt ˈwɛðər fər ə ˈkʊkˌaʊt/",
+    "example": "It's great weather for a cookout — not too hot, there's a nice breeze."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The wind picked up suddenly.",
+    "pronunciation": "/ðə wɪnd pɪkt ʌp ˈsʌdənli/",
+    "example": "The wind picked up suddenly — I think a storm is coming sooner than expected."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The power went out during the storm.",
+    "pronunciation": "/ðə ˈpaʊər wɛnt aʊt ˈdʊrɪŋ ðə stɔrm/",
+    "example": "The power went out during the storm — it was out for about three hours."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Stock up on water just in case.",
+    "pronunciation": "/stɑk ʌp ɑn ˈwɔtər dʒʌst ɪn keɪs/",
+    "example": "Stock up on water just in case — they're forecasting a major storm this week."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's deer hunting season.",
+    "pronunciation": "/ɪts dɪr ˈhʌntɪŋ ˈsizən/",
+    "example": "It's deer hunting season — a lot of folks head out to the Hill Country this time of year."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Be careful driving at dusk.",
+    "pronunciation": "/bi ˈkɛrfəl ˈdraɪvɪŋ æt dʌsk/",
+    "example": "Be careful driving at dusk — deer are most active at dawn and dusk around here."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The bluebonnets are blooming.",
+    "pronunciation": "/ðə ˈbluˌbɑnɪts ər ˈblumɪŋ/",
+    "example": "The bluebonnets are blooming along the highway — it's gorgeous this time of year."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Spring is gorgeous in the Hill Country.",
+    "pronunciation": "/sprɪŋ ɪz ˈɡɔrdʒəs ɪn ðə hɪl ˈkʌntri/",
+    "example": "Spring is gorgeous in the Hill Country — wildflowers everywhere you look."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The creek flooded the road again.",
+    "pronunciation": "/ðə krik ˈflʌdɪd ðə roʊd əˈɡɛn/",
+    "example": "The creek flooded the road again — we'll have to take the long way around."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "We're under a heat advisory.",
+    "pronunciation": "/wɪr ˈʌndər ə hit ədˈvaɪzəri/",
+    "example": "We're under a heat advisory — limit outdoor activity between noon and six."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It feels like a sauna out there.",
+    "pronunciation": "/ɪt filz laɪk ə ˈsɔnə aʊt ðɛr/",
+    "example": "It feels like a sauna out there — the humidity makes it so much worse."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Stay inside during the hottest part of the day.",
+    "pronunciation": "/steɪ ɪnˈsaɪd ˈdʊrɪŋ ðə ˈhɑtɪst pɑrt əv ðə deɪ/",
+    "example": "Stay inside during the hottest part of the day — usually two to five PM."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The weather changes fast around here.",
+    "pronunciation": "/ðə ˈwɛðər ˈtʃeɪndʒɪz fæst əˈraʊnd hɪr/",
+    "example": "The weather changes fast around here — sunshine one minute, storms the next."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "If you don't like the weather, wait five minutes.",
+    "pronunciation": "/ɪf ju doʊnt laɪk ðə ˈwɛðər weɪt faɪv ˈmɪnɪts/",
+    "example": "If you don't like the weather, wait five minutes — that's Texas for you."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The forecast shows rain all week.",
+    "pronunciation": "/ðə ˈfɔrˌkæst ʃoʊz reɪn ɔl wik/",
+    "example": "The forecast shows rain all week — better keep your umbrella in the car."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's muggy outside today.",
+    "pronunciation": "/ɪts ˈmʌɡi ˈaʊtˌsaɪd təˈdeɪ/",
+    "example": "It's muggy outside today — the kind of heat that just drains you."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The sun is brutal right now.",
+    "pronunciation": "/ðə sʌn ɪz ˈbrutəl raɪt naʊ/",
+    "example": "The sun is brutal right now — I can barely walk to my car without sweating through my shirt."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "There's a nice breeze today.",
+    "pronunciation": "/ðɛrz ə naɪs briz təˈdeɪ/",
+    "example": "There's a nice breeze today — makes it actually bearable to be outside."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The river is running high right now.",
+    "pronunciation": "/ðə ˈrɪvər ɪz ˈrʌnɪŋ haɪ raɪt naʊ/",
+    "example": "The river is running high right now — not the best conditions for tubing."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Lightning is in the area — stay inside.",
+    "pronunciation": "/ˈlaɪtnɪŋ ɪz ɪn ðə ˈɛriə steɪ ɪnˈsaɪd/",
+    "example": "Lightning is in the area — stay inside and stay away from windows."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It rained a lot last night.",
+    "pronunciation": "/ɪt reɪnd ə lɑt læst naɪt/",
+    "example": "It rained a lot last night — the yard is totally waterlogged this morning."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The temperature dropped overnight.",
+    "pronunciation": "/ðə ˈtɛmprɪtʃər drɑpt ˈoʊvərˌnaɪt/",
+    "example": "The temperature dropped overnight — I had to find my jacket this morning."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "It's going to be a scorcher.",
+    "pronunciation": "/ɪts ˈɡoʊɪŋ tə bi ə ˈskɔrtʃər/",
+    "example": "It's going to be a scorcher — the forecast says a hundred and four by afternoon."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Best to water the lawn in the morning.",
+    "pronunciation": "/bɛst tə ˈwɔtər ðə lɔn ɪn ðə ˈmɔrnɪŋ/",
+    "example": "Best to water the lawn in the morning — midday it just evaporates in this heat."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "The ground is still wet from last night.",
+    "pronunciation": "/ðə ɡraʊnd ɪz stɪl wɛt frʌm læst naɪt/",
+    "example": "The ground is still wet from last night — careful, it might be slippery out there."
+  },
+  {
+    "topic": "Weather & Nature",
+    "phrase": "Watch out for standing water on the road.",
+    "pronunciation": "/wɑtʃ aʊt fər ˈstændɪŋ ˈwɔtər ɑn ðə roʊd/",
+    "example": "Watch out for standing water on the road — it's deeper than it looks."
+  }
+]

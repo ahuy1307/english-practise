@@ -1,0 +1,131 @@
+.topic-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.topic-card:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 0 0 1px var(--border-hover), 0 8px 24px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+.topic-card__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.topic-card__emoji {
+  font-size: 26px;
+  line-height: 1;
+}
+
+.topic-card__due {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  background: var(--surface-2);
+  border-radius: 6px;
+  padding: 3px 8px;
+  border: 1px solid transparent;
+}
+
+.topic-card__due--active {
+  color: var(--accent);
+  border-color: var(--border);
+}
+
+.topic-card__name {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+/* Stacked stage bar */
+.topic-card__stagebar {
+  height: 5px;
+  background: var(--surface-3);
+  border-radius: 3px;
+  overflow: hidden;
+  display: flex;
+  cursor: default;
+}
+
+.topic-card__stagebar-mastered {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.4s ease;
+}
+
+.topic-card__stagebar-learning {
+  height: 100%;
+  background: var(--accent-dim);
+  opacity: 0.55;
+  transition: width 0.4s ease;
+}
+
+.topic-card__stagebar-new {
+  height: 100%;
+  background: var(--surface-3);
+  transition: width 0.4s ease;
+}
+
+/* Legend */
+.topic-card__legend {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.topic-card__legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.topic-card__legend-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.topic-card__legend-item--mastered .topic-card__legend-dot { background: var(--accent); }
+.topic-card__legend-item--learning .topic-card__legend-dot { background: var(--accent-dim); opacity: 0.7; }
+.topic-card__legend-item--new .topic-card__legend-dot { background: var(--text-faint); }
+
+.topic-card__btn {
+  margin-top: 4px;
+  padding: 10px 16px;
+  background: var(--accent-glow);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 500;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.topic-card__btn:hover:not(:disabled) {
+  background: rgba(201, 169, 110, 0.2);
+  border-color: var(--accent-dim);
+  color: var(--text);
+}
+
+.topic-card__btn:disabled {
+  color: var(--text-faint);
+  cursor: default;
+  background: transparent;
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Rent is due on the first.",
+    "pronunciation": "/rɛnt ɪz du ɑn ðə fɜrst/",
+    "example": "Rent is due on the first — don't forget or you'll get hit with a late fee."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "When is trash day?",
+    "pronunciation": "/wɛn ɪz træʃ deɪ/",
+    "example": "When is trash day? I want to make sure I put the bin out in time."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Put the trash out tonight.",
+    "pronunciation": "/pʊt ðə træʃ aʊt təˈnaɪt/",
+    "example": "Put the trash out tonight — they come around six in the morning."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The AC is not working.",
+    "pronunciation": "/ðə eɪ si ɪz nɑt ˈwɜrkɪŋ/",
+    "example": "The AC is not working and it's a hundred degrees outside — I need to call the landlord."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to submit a maintenance request.",
+    "pronunciation": "/aɪ nid tə səbˈmɪt ə ˈmeɪntənəns rɪˈkwɛst/",
+    "example": "I need to submit a maintenance request — the kitchen faucet has been leaking for days."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The landlord needs to fix this.",
+    "pronunciation": "/ðə ˈlændˌlɔrd nidz tə fɪks ðɪs/",
+    "example": "The landlord needs to fix this — it's been broken since I moved in."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "My lease is up next month.",
+    "pronunciation": "/maɪ lis ɪz ʌp nɛkst mʌnθ/",
+    "example": "My lease is up next month — I need to decide whether to renew or move."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I'm thinking about renewing my lease.",
+    "pronunciation": "/aɪm ˈθɪŋkɪŋ əˈbaʊt rɪˈnuɪŋ maɪ lis/",
+    "example": "I'm thinking about renewing my lease — the location is really convenient."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I'm looking for a new apartment.",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fər ə nu əˈpɑrtmənt/",
+    "example": "I'm looking for a new apartment closer to work — nothing fancy, just affordable."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Is utilities included?",
+    "pronunciation": "/ɪz juˈtɪlɪtiz ɪnˈkludɪd/",
+    "example": "Is utilities included in the rent, or do I pay that separately?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The water bill is higher than usual.",
+    "pronunciation": "/ðə ˈwɔtər bɪl ɪz ˈhaɪər ðæn ˈjuʒuəl/",
+    "example": "The water bill is higher than usual — I think there might be a leak somewhere."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "My electricity bill is through the roof.",
+    "pronunciation": "/maɪ ɪˌlɛkˈtrɪsɪti bɪl ɪz θru ðə ruf/",
+    "example": "My electricity bill is through the roof — running the AC all summer is brutal."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to do laundry today.",
+    "pronunciation": "/aɪ nid tə du ˈlɔndri təˈdeɪ/",
+    "example": "I need to do laundry today — I'm completely out of clean clothes."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The washer is acting up.",
+    "pronunciation": "/ðə ˈwɑʃər ɪz ˈæktɪŋ ʌp/",
+    "example": "The washer is acting up again — it keeps stopping mid-cycle."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Can you take out the recycling?",
+    "pronunciation": "/kæn ju teɪk aʊt ðə rɪˈsaɪklɪŋ/",
+    "example": "Can you take out the recycling? The bin is overflowing."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to vacuum the living room.",
+    "pronunciation": "/aɪ nid tə ˈvækjuəm ðə ˈlɪvɪŋ rum/",
+    "example": "I need to vacuum the living room — there's dog hair everywhere."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The sink is clogged.",
+    "pronunciation": "/ðə sɪŋk ɪz klɑɡd/",
+    "example": "The sink is clogged again — do we have any drain cleaner?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The toilet keeps running.",
+    "pronunciation": "/ðə ˈtɔɪlɪt kips ˈrʌnɪŋ/",
+    "example": "The toilet keeps running — I think the flapper needs to be replaced."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "There's a leak under the sink.",
+    "pronunciation": "/ðɛrz ə lik ˈʌndər ðə sɪŋk/",
+    "example": "There's a leak under the sink — everything under there is soaking wet."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Can you help me move this furniture?",
+    "pronunciation": "/kæn ju hɛlp mi muv ðɪs ˈfɜrnɪtʃər/",
+    "example": "Can you help me move this furniture? I want to rearrange the living room."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to deep clean the bathroom.",
+    "pronunciation": "/aɪ nid tə dip klin ðə ˈbæθˌrum/",
+    "example": "I need to deep clean the bathroom this weekend — it's overdue."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Let's split the chores.",
+    "pronunciation": "/lɛts splɪt ðə tʃɔrz/",
+    "example": "Let's split the chores — you do the dishes and I'll sweep the floors."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Who's turn is it to do the dishes?",
+    "pronunciation": "/huz tɜrn ɪz ɪt tə du ðə ˈdɪʃɪz/",
+    "example": "Whose turn is it to do the dishes? I did them last night."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The dishwasher is full — can you run it?",
+    "pronunciation": "/ðə ˈdɪʃˌwɑʃər ɪz fʊl kæn ju rʌn ɪt/",
+    "example": "The dishwasher is full — can you run it before you go to bed?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Don't forget to lock the door.",
+    "pronunciation": "/doʊnt fərˈɡɛt tə lɑk ðə dɔr/",
+    "example": "Don't forget to lock the door — there's been some activity in the neighborhood."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The porch light burned out.",
+    "pronunciation": "/ðə pɔrtʃ laɪt bɜrnd aʊt/",
+    "example": "The porch light burned out — can you grab a bulb from the closet?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to mow the lawn.",
+    "pronunciation": "/aɪ nid tə moʊ ðə lɔn/",
+    "example": "I need to mow the lawn — it's getting embarrassingly tall."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The yard needs some work.",
+    "pronunciation": "/ðə jɑrd nidz sʌm wɜrk/",
+    "example": "The yard needs some work — especially after all that rain last week."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to water the plants.",
+    "pronunciation": "/aɪ nid tə ˈwɔtər ðə plænts/",
+    "example": "I need to water the plants — this Texas heat dries them out fast."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The filter needs to be changed.",
+    "pronunciation": "/ðə ˈfɪltər nidz tə bi tʃeɪndʒd/",
+    "example": "The filter needs to be changed — the air quality has been terrible lately."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need pest control.",
+    "pronunciation": "/aɪ nid pɛst kənˈtroʊl/",
+    "example": "I need pest control — I found ants in the kitchen again this morning."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "There are cockroaches in the apartment.",
+    "pronunciation": "/ðɛr ər ˈkɑkˌroʊtʃɪz ɪn ðə əˈpɑrtmənt/",
+    "example": "There are cockroaches in the apartment — that's a landlord issue, not mine."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The roof is leaking.",
+    "pronunciation": "/ðə ruf ɪz ˈlikɪŋ/",
+    "example": "The roof is leaking every time it rains — I've reported it twice already."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The smoke detector went off.",
+    "pronunciation": "/ðə smoʊk dɪˈtɛktər wɛnt ɔf/",
+    "example": "The smoke detector went off — I was just cooking, nothing to worry about."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The battery in the detector is dead.",
+    "pronunciation": "/ðə ˈbætəri ɪn ðə dɪˈtɛktər ɪz dɛd/",
+    "example": "The battery in the detector is dead — that's what that chirping sound is."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I'm going to repaint the walls.",
+    "pronunciation": "/aɪm ˈɡoʊɪŋ tə riˈpeɪnt ðə wɔlz/",
+    "example": "I'm going to repaint the walls before I move out — I want my deposit back."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I'm trying to get my deposit back.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə ɡɛt maɪ dɪˈpɑzɪt bæk/",
+    "example": "I'm trying to get my deposit back — I cleaned everything top to bottom."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The neighbors are too loud.",
+    "pronunciation": "/ðə ˈneɪbərz ər tu laʊd/",
+    "example": "The neighbors are too loud — it's midnight and they're still playing music."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Can you keep it down?",
+    "pronunciation": "/kæn ju kip ɪt daʊn/",
+    "example": "Can you keep it down? The baby just fell asleep."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "There's mold in the bathroom.",
+    "pronunciation": "/ðɛrz moʊld ɪn ðə ˈbæθˌrum/",
+    "example": "There's mold in the bathroom — it's a health hazard and needs to be addressed."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The heater isn't working.",
+    "pronunciation": "/ðə ˈhitər ˈɪzənt ˈwɜrkɪŋ/",
+    "example": "The heater isn't working — the one cold week in Texas and this happens."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to call a plumber.",
+    "pronunciation": "/aɪ nid tə kɔl ə ˈplʌmər/",
+    "example": "I need to call a plumber — the pipe under the sink burst this morning."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Can I borrow your tools?",
+    "pronunciation": "/kæn aɪ ˈbɑroʊ jʊr tulz/",
+    "example": "Can I borrow your tools? I need a drill to hang some shelves."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I'm handy around the house.",
+    "pronunciation": "/aɪm ˈhændi əˈraʊnd ðə haʊs/",
+    "example": "I'm pretty handy around the house — I'd rather fix things myself than call someone."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The garbage disposal is broken.",
+    "pronunciation": "/ðə ˈɡɑrbɪdʒ dɪˈspoʊzəl ɪz ˈbroʊkən/",
+    "example": "The garbage disposal is broken — it's just humming and not spinning anymore."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to organize the garage.",
+    "pronunciation": "/aɪ nid tə ˈɔrɡəˌnaɪz ðə ɡəˈrɑʒ/",
+    "example": "I need to organize the garage — there's no room to even park in there anymore."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Time to declutter.",
+    "pronunciation": "/taɪm tə diˈklʌtər/",
+    "example": "Time to declutter — if I haven't used it in a year, it's going to Goodwill."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Scrub the grout in the shower.",
+    "pronunciation": "/skrʌb ðə ɡraʊt ɪn ðə ˈʃaʊər/",
+    "example": "Scrub the grout in the shower — it's been discolored for way too long."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Sweep the floors before you mop.",
+    "pronunciation": "/swip ðə flɔrz bɪˈfɔr ju mɑp/",
+    "example": "Sweep the floors before you mop — otherwise you're just spreading the dirt around."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Empty the dryer lint trap.",
+    "pronunciation": "/ˈɛmpti ðə ˈdraɪər lɪnt træp/",
+    "example": "Empty the dryer lint trap every time — it's a fire hazard if you don't."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The window won't close all the way.",
+    "pronunciation": "/ðə ˈwɪndoʊ woʊnt kloʊz ɔl ðə weɪ/",
+    "example": "The window won't close all the way — the bugs are getting in at night."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The landlord is coming to inspect.",
+    "pronunciation": "/ðə ˈlændˌlɔrd ɪz ˈkʌmɪŋ tə ɪnˈspɛkt/",
+    "example": "The landlord is coming to inspect next week — I need to clean everything."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "How much is the security deposit?",
+    "pronunciation": "/haʊ mʌtʃ ɪz ðə sɪˈkjʊrɪti dɪˈpɑzɪt/",
+    "example": "How much is the security deposit? And is it refundable when I move out?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The apartment is pet-friendly.",
+    "pronunciation": "/ðə əˈpɑrtmənt ɪz pɛt ˈfrɛndli/",
+    "example": "The apartment is pet-friendly — there's a small fee for dogs though."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to call the super.",
+    "pronunciation": "/aɪ nid tə kɔl ðə ˈsupər/",
+    "example": "I need to call the super — the hallway light has been out for a week."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The dishwasher is making a weird noise.",
+    "pronunciation": "/ðə ˈdɪʃˌwɑʃər ɪz ˈmeɪkɪŋ ə wɪrd nɔɪz/",
+    "example": "The dishwasher is making a weird noise — I think something is caught in the drain."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to scrub the grout.",
+    "pronunciation": "/aɪ nid tə skrʌb ðə ɡraʊt/",
+    "example": "I need to scrub the grout — the bathroom tile is looking pretty dingy."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Is recycling picked up on the same day?",
+    "pronunciation": "/ɪz rɪˈsaɪklɪŋ pɪkt ʌp ɑn ðə seɪm deɪ/",
+    "example": "Is recycling picked up on the same day as trash, or a different day?"
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Let's do a deep clean this weekend.",
+    "pronunciation": "/lɛts du ə dip klin ðɪs ˈwikˌɛnd/",
+    "example": "Let's do a deep clean this weekend — the whole place needs a proper scrub down."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The garbage bags are under the sink.",
+    "pronunciation": "/ðə ˈɡɑrbɪdʒ bæɡz ər ˈʌndər ðə sɪŋk/",
+    "example": "The garbage bags are under the sink — grab one and take the trash out please."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "Can you fix the loose cabinet door?",
+    "pronunciation": "/kæn ju fɪks ðə lus ˈkæbɪnɪt dɔr/",
+    "example": "Can you fix the loose cabinet door? It keeps swinging open on its own."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to patch a hole in the wall.",
+    "pronunciation": "/aɪ nid tə pætʃ ə hoʊl ɪn ðə wɔl/",
+    "example": "I need to patch a hole in the wall before I move out — I want my deposit back."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "The hot water isn't working.",
+    "pronunciation": "/ðə hɑt ˈwɔtər ˈɪzənt ˈwɜrkɪŋ/",
+    "example": "The hot water isn't working again — I had to take a cold shower this morning."
+  },
+  {
+    "topic": "Housing & Chores",
+    "phrase": "I need to caulk the shower.",
+    "pronunciation": "/aɪ nid tə kɔk ðə ˈʃaʊər/",
+    "example": "I need to caulk the shower — the old stuff is peeling and water is getting behind the tile."
+  }
+]

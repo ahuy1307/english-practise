@@ -1,0 +1,446 @@
+[
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you know which aisle that's in?",
+    "pronunciation": "/du ju noʊ wɪtʃ aɪl ðæts ɪn/",
+    "example": "Excuse me, do you know which aisle the hot sauce is in?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'm looking for the...",
+    "pronunciation": "/aɪm ˈlʊkɪŋ fər ðə/",
+    "example": "I'm looking for the canned beans — are they near the pasta?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where can I find the...",
+    "pronunciation": "/wɛr kæn aɪ faɪnd ðə/",
+    "example": "Where can I find the organic section? Is it in the back?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Is this on sale?",
+    "pronunciation": "/ɪz ðɪs ɑn seɪl/",
+    "example": "Is this on sale? The sign on the shelf looked like it was discounted."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have a store brand?",
+    "pronunciation": "/du ju hæv ə stɔr brænd/",
+    "example": "Do you have a store brand for this? I'm trying to save a little money."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have a loyalty card?",
+    "pronunciation": "/du ju hæv ə ˈlɔɪəlti kɑrd/",
+    "example": "Do you have a loyalty card with us? You can save up to twenty percent."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I left my card at home.",
+    "pronunciation": "/aɪ lɛft maɪ kɑrd æt hoʊm/",
+    "example": "I left my card at home — can I still get the discount with my phone number?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I use a coupon for this?",
+    "pronunciation": "/kæn aɪ juz ə ˈkupɑn fər ðɪs/",
+    "example": "Can I use a coupon for this even though it's already on sale?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you price match?",
+    "pronunciation": "/du ju praɪs mætʃ/",
+    "example": "Do you price match? I saw this same item cheaper at Walmart."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Is this item in stock?",
+    "pronunciation": "/ɪz ðɪs ˈaɪtəm ɪn stɑk/",
+    "example": "Is this item in stock? The shelf looks empty back there."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "When do you get a new shipment?",
+    "pronunciation": "/wɛn du ju ɡɛt ə nu ˈʃɪpmənt/",
+    "example": "When do you get a new shipment? I've been looking for this for two weeks."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can you check the back for me?",
+    "pronunciation": "/kæn ju tʃɛk ðə bæk fər mi/",
+    "example": "Can you check the back for me? I only need one more."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "How much does this cost per pound?",
+    "pronunciation": "/haʊ mʌtʃ dʌz ðɪs kɔst pər paʊnd/",
+    "example": "How much does this cost per pound? I want to compare it to the pre-cut."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Could I get a bag, please?",
+    "pronunciation": "/kʊd aɪ ɡɛt ə bæɡ pliz/",
+    "example": "Could I get a bag, please? I forgot my reusable ones in the car."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I brought my own bags.",
+    "pronunciation": "/aɪ brɔt maɪ oʊn bæɡz/",
+    "example": "I brought my own bags — can I get the discount for that?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Paper or plastic?",
+    "pronunciation": "/ˈpeɪpər ɔr ˈplæstɪk/",
+    "example": "Paper or plastic? — Paper's fine, thanks."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'm using the self-checkout.",
+    "pronunciation": "/aɪm ˈjuzɪŋ ðə sɛlf ˈtʃɛkaʊt/",
+    "example": "I'm using the self-checkout — I only have about five items."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This didn't scan right.",
+    "pronunciation": "/ðɪs ˈdɪdnt skæn raɪt/",
+    "example": "This didn't scan right — it rang up at full price but it should be on sale."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I get a price check?",
+    "pronunciation": "/kæn aɪ ɡɛt ə praɪs tʃɛk/",
+    "example": "Can I get a price check on this? The sticker is hard to read."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I need to grab a cart.",
+    "pronunciation": "/aɪ nid tə ɡræb ə kɑrt/",
+    "example": "I need to grab a cart — I've got a long list today."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'm just grabbing a few things.",
+    "pronunciation": "/aɪm dʒʌst ˈɡræbɪŋ ə fju θɪŋz/",
+    "example": "I'm just grabbing a few things — shouldn't take more than ten minutes."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is past its expiration date.",
+    "pronunciation": "/ðɪs ɪz pæst ɪts ˌɛkspɪˈreɪʃən deɪt/",
+    "example": "This is past its expiration date — do you have a fresher one in the back?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Which one is fresher?",
+    "pronunciation": "/wɪtʃ wʌn ɪz ˈfrɛʃər/",
+    "example": "Which one is fresher? They look about the same but I want the best one."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I need to check my list.",
+    "pronunciation": "/aɪ nid tə tʃɛk maɪ lɪst/",
+    "example": "Hold on — I need to check my list before we leave this aisle."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I think I'm forgetting something.",
+    "pronunciation": "/aɪ θɪŋk aɪm fərˈɡɛtɪŋ ˈsʌmθɪŋ/",
+    "example": "I think I'm forgetting something — let me look through the cart again."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "That's way too much.",
+    "pronunciation": "/ðæts weɪ tu mʌtʃ/",
+    "example": "That's way too much for a gallon of milk — let me find the store brand."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you carry that brand?",
+    "pronunciation": "/du ju ˈkɛri ðæt brænd/",
+    "example": "Do you carry that brand? I used to get it at the other location."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where's the produce section?",
+    "pronunciation": "/wɛrz ðə ˈproʊdus ˈsɛkʃən/",
+    "example": "Where's the produce section? I always get turned around in this store."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Are these locally grown?",
+    "pronunciation": "/ər ðiz ˈloʊkəli ɡroʊn/",
+    "example": "Are these locally grown? I try to buy Texas produce when I can."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "The avocados look ripe.",
+    "pronunciation": "/ðə ˌævəˈkɑdoʊz lʊk raɪp/",
+    "example": "The avocados look ripe — perfect for making guacamole tonight."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'll take the whole chicken.",
+    "pronunciation": "/aɪl teɪk ðə hoʊl ˈtʃɪkɪn/",
+    "example": "I'll take the whole chicken — it's a better deal than the breasts."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can you slice this for me?",
+    "pronunciation": "/kæn ju slaɪs ðɪs fər mi/",
+    "example": "Can you slice this for me at the deli counter? About a pound, please."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "A little thicker, please.",
+    "pronunciation": "/ə ˈlɪtəl ˈθɪkər pliz/",
+    "example": "A little thicker, please — maybe half an inch or so."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have this in a larger size?",
+    "pronunciation": "/du ju hæv ðɪs ɪn ə ˈlɑrdʒər saɪz/",
+    "example": "Do you have this in a larger size? I need it for a big family dinner."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "What aisle is the bread on?",
+    "pronunciation": "/wʌt aɪl ɪz ðə brɛd ɑn/",
+    "example": "What aisle is the bread on? I can never remember in this store."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you take Apple Pay?",
+    "pronunciation": "/du ju teɪk ˈæpəl peɪ/",
+    "example": "Do you take Apple Pay or only card and cash?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Swipe or insert?",
+    "pronunciation": "/swaɪp ɔr ɪnˈsɜrt/",
+    "example": "Swipe or insert? — Go ahead and insert your chip."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Debit or credit?",
+    "pronunciation": "/ˈdɛbɪt ɔr ˈkrɛdɪt/",
+    "example": "Debit or credit? — Debit, please."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you want cash back?",
+    "pronunciation": "/du ju wɑnt kæʃ bæk/",
+    "example": "Do you want cash back with that? We can do up to a hundred dollars."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Your total comes to...",
+    "pronunciation": "/jʊr ˈtoʊtəl kʌmz tə/",
+    "example": "Your total comes to forty-two fifty — how would you like to pay?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you need a receipt?",
+    "pronunciation": "/du ju nid ə rɪˈsit/",
+    "example": "Do you need a receipt, or should I skip it?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I get a rain check?",
+    "pronunciation": "/kæn aɪ ɡɛt ə reɪn tʃɛk/",
+    "example": "Can I get a rain check? The sale item is out of stock."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is buy one get one free.",
+    "pronunciation": "/ðɪs ɪz baɪ wʌn ɡɛt wʌn fri/",
+    "example": "This is buy one get one free — grab two and save a few bucks."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I need to return this.",
+    "pronunciation": "/aɪ nid tə rɪˈtɜrn ðɪs/",
+    "example": "I need to return this — it was spoiled when I opened it."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have a refund policy?",
+    "pronunciation": "/du ju hæv ə ˈrifʌnd ˈpɑləsi/",
+    "example": "Do you have a refund policy for groceries that go bad?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where do I pick up my online order?",
+    "pronunciation": "/wɛr du aɪ pɪk ʌp maɪ ˈɑnˌlaɪn ˈɔrdər/",
+    "example": "Where do I pick up my online order? This is my first time using curbside."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I ordered online for curbside pickup.",
+    "pronunciation": "/aɪ ˈɔrdərd ˈɑnˌlaɪn fər ˈkɜrbˌsaɪd ˈpɪkˌʌp/",
+    "example": "I ordered online for curbside pickup — should I park in a specific spot?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I add items to my order?",
+    "pronunciation": "/kæn aɪ æd ˈaɪtəmz tə maɪ ˈɔrdər/",
+    "example": "Can I add items to my order before y'all start filling it?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Excuse me, is this line open?",
+    "pronunciation": "/ɪkˈskjuz mi ɪz ðɪs laɪn ˈoʊpən/",
+    "example": "Excuse me, is this line open? The light doesn't look like it's on."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Go ahead of me — I have a full cart.",
+    "pronunciation": "/ɡoʊ əˈhɛd əv mi aɪ hæv ə fʊl kɑrt/",
+    "example": "Go ahead of me — I have a full cart and you only have three things."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you validate parking?",
+    "pronunciation": "/du ju ˈvælɪˌdeɪt ˈpɑrkɪŋ/",
+    "example": "Do you validate parking for customers? I parked in the garage."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where's the frozen food section?",
+    "pronunciation": "/wɛrz ðə ˈfroʊzən fud ˈsɛkʃən/",
+    "example": "Where's the frozen food section? I need to grab some dinner for tonight."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have any samples today?",
+    "pronunciation": "/du ju hæv ˈɛni ˈsæmpəlz təˈdeɪ/",
+    "example": "Do you have any samples today? I love trying new things on the weekends."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is a great deal.",
+    "pronunciation": "/ðɪs ɪz ə ɡreɪt dil/",
+    "example": "This is a great deal — three pounds for five dollars is hard to beat."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'll stock up while it's on sale.",
+    "pronunciation": "/aɪl stɑk ʌp waɪl ɪts ɑn seɪl/",
+    "example": "I'll stock up while it's on sale — this stuff goes fast in our house."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'm shopping for the week.",
+    "pronunciation": "/aɪm ˈʃɑpɪŋ fər ðə wik/",
+    "example": "I'm shopping for the week — we've got a big family dinner on Sunday."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I forgot to grab the milk.",
+    "pronunciation": "/aɪ fərˈɡɑt tə ɡræb ðə mɪlk/",
+    "example": "I forgot to grab the milk — I'll swing back through the dairy section."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I grab a basket?",
+    "pronunciation": "/kæn aɪ ɡræb ə ˈbæskɪt/",
+    "example": "Can I grab a basket? I don't need a full cart — just a few things."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is for a cookout.",
+    "pronunciation": "/ðɪs ɪz fər ə ˈkʊkˌaʊt/",
+    "example": "This is for a cookout — I'm feeding about fifteen people this Saturday."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do y'all sell firewood here?",
+    "pronunciation": "/du jɔl sɛl ˈfaɪərˌwʊd hɪr/",
+    "example": "Do y'all sell firewood here? We're camping out at the river this weekend."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where's the checkout line?",
+    "pronunciation": "/wɛrz ðə ˈtʃɛkˌaʊt laɪn/",
+    "example": "Where's the checkout line? It's so busy I can't even find the end of it."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is going to be a big bill.",
+    "pronunciation": "/ðɪs ɪz ˈɡoʊɪŋ tə bi ə bɪɡ bɪl/",
+    "example": "This is going to be a big bill — I've been avoiding the store for two weeks."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Where's the deli counter?",
+    "pronunciation": "/wɛrz ðə ˈdɛli ˈkaʊntər/",
+    "example": "Where's the deli counter? I need to grab some sliced turkey for the week."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I'll use the self-checkout lane.",
+    "pronunciation": "/aɪl juz ðə sɛlf ˈtʃɛkaʊt leɪn/",
+    "example": "I'll use the self-checkout lane — I only have six items."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you offer curbside delivery?",
+    "pronunciation": "/du ju ˈɔfər ˈkɜrbˌsaɪd dɪˈlɪvəri/",
+    "example": "Do you offer curbside delivery? I don't want to bring the kids inside today."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "This is buy two get one free.",
+    "pronunciation": "/ðɪs ɪz baɪ tu ɡɛt wʌn fri/",
+    "example": "This is buy two get one free — grab three and save a few dollars."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you have any weekly specials?",
+    "pronunciation": "/du ju hæv ˈɛni ˈwikli ˈspɛʃəlz/",
+    "example": "Do you have any weekly specials? I want to plan my meals around what's on sale."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Is this organic?",
+    "pronunciation": "/ɪz ðɪs ɔrˈɡænɪk/",
+    "example": "Is this organic? I can't tell from the label — the sign wasn't clear."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "The bananas are a little overripe.",
+    "pronunciation": "/ðə bəˈnænəz ər ə ˈlɪtəl ˌoʊvərˈraɪp/",
+    "example": "The bananas are a little overripe — do you have any green ones in the back?"
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I get a price adjustment?",
+    "pronunciation": "/kæn aɪ ɡɛt ə praɪs əˈdʒʌstmənt/",
+    "example": "Can I get a price adjustment? It rang up at the wrong price at the register."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Do you carry gluten-free options?",
+    "pronunciation": "/du ju ˈkɛri ˈɡlutən fri ˈɑpʃənz/",
+    "example": "Do you carry gluten-free options? My daughter was just diagnosed with celiac."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "I need to grab just a few things.",
+    "pronunciation": "/aɪ nid tə ɡræb dʒʌst ə fju θɪŋz/",
+    "example": "I need to grab just a few things — I'll be in and out in ten minutes."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "The store is packed today.",
+    "pronunciation": "/ðə stɔr ɪz pækt təˈdeɪ/",
+    "example": "The store is packed today — must be a big game night or something."
+  },
+  {
+    "topic": "Grocery Shopping",
+    "phrase": "Can I get a bag for five cents?",
+    "pronunciation": "/kæn aɪ ɡɛt ə bæɡ fər faɪv sɛnts/",
+    "example": "Can I get a bag for five cents? I forgot my reusable one again."
+  }
+]

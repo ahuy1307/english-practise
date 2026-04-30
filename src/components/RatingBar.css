@@ -1,0 +1,84 @@
+.rating-bar {
+  width: 100%;
+  max-width: 540px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.rating-bar--visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.rating-bar__hint {
+  font-size: 11px;
+  color: var(--text-faint);
+  letter-spacing: 0.04em;
+}
+
+.rating-bar__buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+}
+
+.rating-bar__btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 16px 12px;
+  border-radius: 12px;
+  border: 1px solid;
+  font-family: var(--font-ui);
+  transition: background 0.15s, transform 0.1s, border-color 0.15s;
+}
+
+.rating-bar__btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.rating-bar__btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.rating-bar__icon {
+  font-size: 22px;
+  line-height: 1;
+}
+
+.rating-bar__label {
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Don't know */
+.rating-bar__btn--dontknow {
+  color: #c47a6a;
+  background: rgba(196, 122, 106, 0.07);
+  border-color: rgba(196, 122, 106, 0.2);
+}
+.rating-bar__btn--dontknow:hover:not(:disabled) {
+  background: rgba(196, 122, 106, 0.14);
+  border-color: rgba(196, 122, 106, 0.4);
+}
+
+/* Got it */
+.rating-bar__btn--know {
+  color: var(--accent);
+  background: var(--accent-glow);
+  border-color: var(--border);
+}
+.rating-bar__btn--know:hover:not(:disabled) {
+  background: rgba(201, 169, 110, 0.2);
+  border-color: var(--accent-dim);
+}

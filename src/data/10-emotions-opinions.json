@@ -1,0 +1,362 @@
+[
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm really excited about this.",
+    "pronunciation": "/aɪm ˈrɪli ɪkˈsaɪtɪd əˈbaʊt ðɪs/",
+    "example": "I'm really excited about this — it's been a long time coming."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I can't wait!",
+    "pronunciation": "/aɪ kænt weɪt/",
+    "example": "I can't wait! The weekend trip is going to be so much fun."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm a little nervous.",
+    "pronunciation": "/aɪm ə ˈlɪtəl ˈnɜrvəs/",
+    "example": "I'm a little nervous about the interview tomorrow — I really want this job."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm stressed out right now.",
+    "pronunciation": "/aɪm strɛst aʊt raɪt naʊ/",
+    "example": "I'm stressed out right now — too many things happening at once."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm overwhelmed.",
+    "pronunciation": "/aɪm ˌoʊvərˈwɛlmd/",
+    "example": "I'm overwhelmed — I don't even know where to start today."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm just exhausted.",
+    "pronunciation": "/aɪm dʒʌst ɪɡˈzɔstɪd/",
+    "example": "I'm just exhausted — I haven't slept well all week."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That really bothers me.",
+    "pronunciation": "/ðæt ˈrɪli ˈbɑðərz mi/",
+    "example": "That really bothers me — it's been on my mind all day."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm frustrated with this situation.",
+    "pronunciation": "/aɪm ˈfrʌstreɪtɪd wɪð ðɪs ˌsɪtʃuˈeɪʃən/",
+    "example": "I'm frustrated with this situation — nothing seems to be going right."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That drives me crazy.",
+    "pronunciation": "/ðæt draɪvz mi ˈkreɪzi/",
+    "example": "That drives me crazy — leaving dishes in the sink is my biggest pet peeve."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm really upset about this.",
+    "pronunciation": "/aɪm ˈrɪli ʌpˈsɛt əˈbaʊt ðɪs/",
+    "example": "I'm really upset about this — I thought we had an agreement."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I feel left out.",
+    "pronunciation": "/aɪ fil lɛft aʊt/",
+    "example": "I feel left out — nobody told me about the plans until the last minute."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That hurt my feelings.",
+    "pronunciation": "/ðæt hɜrt maɪ ˈfilɪŋz/",
+    "example": "That hurt my feelings — even if they didn't mean it that way."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm disappointed.",
+    "pronunciation": "/aɪm ˌdɪsəˈpɔɪntɪd/",
+    "example": "I'm disappointed — I really thought it was going to work out."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm over the moon!",
+    "pronunciation": "/aɪm ˈoʊvər ðə mun/",
+    "example": "I'm over the moon — I got the job offer this morning!"
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That made my day!",
+    "pronunciation": "/ðæt meɪd maɪ deɪ/",
+    "example": "That made my day — such a sweet thing to do out of nowhere."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm so proud of you.",
+    "pronunciation": "/aɪm soʊ praʊd əv ju/",
+    "example": "I'm so proud of you — you worked so hard and it really paid off."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I feel really good about this.",
+    "pronunciation": "/aɪ fil ˈrɪli ɡʊd əˈbaʊt ðɪs/",
+    "example": "I feel really good about this decision — it just feels right."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Honestly, I'm not sure.",
+    "pronunciation": "/ˈɑnɪstli aɪm nɑt ʃʊr/",
+    "example": "Honestly, I'm not sure — I need more time to think it through."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "In my opinion...",
+    "pronunciation": "/ɪn maɪ əˈpɪnjən/",
+    "example": "In my opinion, we should wait until the timing is better."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "If you ask me...",
+    "pronunciation": "/ɪf ju æsk mi/",
+    "example": "If you ask me, they should have handled it completely differently."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I think it's a great idea.",
+    "pronunciation": "/aɪ θɪŋk ɪts ə ɡreɪt aɪˈdiə/",
+    "example": "I think it's a great idea — why not give it a shot?"
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm not a big fan of that.",
+    "pronunciation": "/aɪm nɑt ə bɪɡ fæn əv ðæt/",
+    "example": "I'm not a big fan of that idea — let's see if there's another way."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That's not really my thing.",
+    "pronunciation": "/ðæts nɑt ˈrɪli maɪ θɪŋ/",
+    "example": "That's not really my thing, but you should go if you want to."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I strongly disagree.",
+    "pronunciation": "/aɪ ˈstrɔŋli ˌdɪsəˈɡri/",
+    "example": "I strongly disagree — I think that approach is going to backfire."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "We'll have to agree to disagree.",
+    "pronunciation": "/wɪl hæv tə əˈɡri tə ˌdɪsəˈɡri/",
+    "example": "We'll have to agree to disagree on this one — we've been going back and forth."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I see your point.",
+    "pronunciation": "/aɪ si jʊr pɔɪnt/",
+    "example": "I see your point — I hadn't looked at it from that angle before."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That's a valid concern.",
+    "pronunciation": "/ðæts ə ˈvælɪd kənˈsɜrn/",
+    "example": "That's a valid concern — we should address it before moving forward."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I can see both sides.",
+    "pronunciation": "/aɪ kæn si boʊθ saɪdz/",
+    "example": "I can see both sides — it's a complicated situation either way."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That's a tough call.",
+    "pronunciation": "/ðæts ə tʌf kɔl/",
+    "example": "That's a tough call — I honestly don't know what I'd do in your position."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm on the fence about it.",
+    "pronunciation": "/aɪm ɑn ðə fɛns əˈbaʊt ɪt/",
+    "example": "I'm on the fence about it — there are good reasons on both sides."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "My gut says no.",
+    "pronunciation": "/maɪ ɡʌt sɛz noʊ/",
+    "example": "My gut says no — I usually trust that feeling and it's right more often than not."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Something feels off.",
+    "pronunciation": "/ˈsʌmθɪŋ filz ɔf/",
+    "example": "Something feels off about this deal — I want to read the contract more carefully."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "It is what it is.",
+    "pronunciation": "/ɪt ɪz wʌt ɪt ɪz/",
+    "example": "It is what it is — can't change the past, so let's just move forward."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "What can you do?",
+    "pronunciation": "/wʌt kæn ju du/",
+    "example": "The flight got canceled — what can you do? We'll reschedule."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Every cloud has a silver lining.",
+    "pronunciation": "/ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ/",
+    "example": "Every cloud has a silver lining — losing that job led me to a way better one."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm trying to stay positive.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə steɪ ˈpɑzɪtɪv/",
+    "example": "I'm trying to stay positive — some days are harder than others."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I needed to vent.",
+    "pronunciation": "/aɪ ˈnidɪd tə vɛnt/",
+    "example": "Sorry — I just needed to vent. Thanks for listening."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I just need a minute.",
+    "pronunciation": "/aɪ dʒʌst nid ə ˈmɪnɪt/",
+    "example": "I just need a minute — give me some space to process all this."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That's easier said than done.",
+    "pronunciation": "/ðæts ˈiziər sɛd ðæn dʌn/",
+    "example": "That's easier said than done — it sounds simple but it's actually really hard."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Don't take it personally.",
+    "pronunciation": "/doʊnt teɪk ɪt ˈpɜrsənəli/",
+    "example": "Don't take it personally — they're like that with everyone."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That's not okay.",
+    "pronunciation": "/ðæts nɑt oʊˈkeɪ/",
+    "example": "That's not okay — you should speak up and let them know."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I should have said something sooner.",
+    "pronunciation": "/aɪ ʃʊd hæv sɛd ˈsʌmθɪŋ ˈsunər/",
+    "example": "I should have said something sooner — now it's an even bigger issue."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I regret saying that.",
+    "pronunciation": "/aɪ rɪˈɡrɛt ˈseɪɪŋ ðæt/",
+    "example": "I regret saying that — I was frustrated and I spoke without thinking."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm really grateful for you.",
+    "pronunciation": "/aɪm ˈrɪli ˈɡreɪtfəl fər ju/",
+    "example": "I'm really grateful for you — I don't know what I'd do without your support."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That means a lot to me.",
+    "pronunciation": "/ðæt minz ə lɑt tə mi/",
+    "example": "That means a lot to me — seriously, thank you for saying that."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I could use some encouragement.",
+    "pronunciation": "/aɪ kʊd juz sʌm ɪnˈkɜrɪdʒmənt/",
+    "example": "I could use some encouragement — this has been a really tough week."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "You've got this!",
+    "pronunciation": "/juv ɡɑt ðɪs/",
+    "example": "You've got this! I believe in you — just take it one step at a time."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Hang in there.",
+    "pronunciation": "/hæŋ ɪn ðɛr/",
+    "example": "Hang in there — things will start to look up, I promise."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "Everything happens for a reason.",
+    "pronunciation": "/ˈɛvriθɪŋ ˈhæpənz fər ə ˈrizən/",
+    "example": "Everything happens for a reason — you'll look back on this and understand."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm not in the mood.",
+    "pronunciation": "/aɪm nɑt ɪn ðə mud/",
+    "example": "I'm not in the mood to go out tonight — can we just stay in and relax?"
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm in a really good mood today.",
+    "pronunciation": "/aɪm ɪn ə ˈrɪli ɡʊd mud təˈdeɪ/",
+    "example": "I'm in a really good mood today — nothing can bring me down right now."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That really lifted my spirits.",
+    "pronunciation": "/ðæt ˈrɪli ˈlɪftɪd maɪ ˈspɪrɪts/",
+    "example": "That really lifted my spirits — I needed to hear something positive today."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I feel a lot better after talking.",
+    "pronunciation": "/aɪ fil ə lɑt ˈbɛtər ˈæftər ˈtɔkɪŋ/",
+    "example": "I feel a lot better after talking it through — thank you for listening."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I was wrong and I admit it.",
+    "pronunciation": "/aɪ wəz rɔŋ ænd aɪ ədˈmɪt ɪt/",
+    "example": "I was wrong and I admit it — I should have handled that differently."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm just not feeling it today.",
+    "pronunciation": "/aɪm dʒʌst nɑt ˈfilɪŋ ɪt təˈdeɪ/",
+    "example": "I'm just not feeling it today — I think I'll take it easy and rest."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "That hit me harder than I expected.",
+    "pronunciation": "/ðæt hɪt mi ˈhɑrdər ðæn aɪ ɪkˈspɛktɪd/",
+    "example": "That hit me harder than I expected — I thought I was over it, but I guess not."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I'm ready for a fresh start.",
+    "pronunciation": "/aɪm ˈrɛdi fər ə frɛʃ stɑrt/",
+    "example": "I'm ready for a fresh start — new month, new mindset, new goals."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I just needed to sleep on it.",
+    "pronunciation": "/aɪ dʒʌst ˈnidɪd tə slip ɑn ɪt/",
+    "example": "I just needed to sleep on it — and now I'm seeing things way more clearly."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "I've been feeling really anxious.",
+    "pronunciation": "/aɪv bɪn ˈfilɪŋ ˈrɪli ˈæŋkʃəs/",
+    "example": "I've been feeling really anxious lately — I think I need to slow down."
+  },
+  {
+    "topic": "Emotions & Opinions",
+    "phrase": "You really made a difference.",
+    "pronunciation": "/ju ˈrɪli meɪd ə ˈdɪfrəns/",
+    "example": "You really made a difference — I don't know how I would have gotten through it without you."
+  }
+]

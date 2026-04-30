@@ -1,0 +1,416 @@
+[
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm not feeling well.",
+    "pronunciation": "/aɪm nɑt ˈfilɪŋ wɛl/",
+    "example": "I'm not feeling well — I think I might be coming down with something."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to see a doctor.",
+    "pronunciation": "/aɪ nid tə si ə ˈdɑktər/",
+    "example": "I need to see a doctor — this cough has been going on for over a week."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can I make an appointment?",
+    "pronunciation": "/kæn aɪ meɪk ən əˈpɔɪntmənt/",
+    "example": "Can I make an appointment for sometime this week? It's not an emergency."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I have a sore throat.",
+    "pronunciation": "/aɪ hæv ə sɔr θroʊt/",
+    "example": "I have a sore throat and it's been getting worse since yesterday."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I've had a headache all day.",
+    "pronunciation": "/aɪv hæd ə ˈhɛdˌeɪk ɔl deɪ/",
+    "example": "I've had a headache all day — no amount of water seems to help."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I have a fever.",
+    "pronunciation": "/aɪ hæv ə ˈfivər/",
+    "example": "I have a fever — my temperature is almost 102."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My stomach is upset.",
+    "pronunciation": "/maɪ ˈstʌmək ɪz ʌpˈsɛt/",
+    "example": "My stomach is upset — I think something I ate last night didn't agree with me."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I feel nauseous.",
+    "pronunciation": "/aɪ fil ˈnɔziəs/",
+    "example": "I feel nauseous — I haven't been able to keep anything down since this morning."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I've been sneezing all morning.",
+    "pronunciation": "/aɪv bɪn ˈsnizɪŋ ɔl ˈmɔrnɪŋ/",
+    "example": "I've been sneezing all morning — my allergies are terrible this time of year."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My allergies are acting up.",
+    "pronunciation": "/maɪ ˈælərdʒiz ər ˈæktɪŋ ʌp/",
+    "example": "My allergies are acting up — cedar season in Texas is no joke."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm running a temperature.",
+    "pronunciation": "/aɪm ˈrʌnɪŋ ə ˈtɛmprɪtʃər/",
+    "example": "I'm running a temperature — I checked and it's a hundred and one."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I feel dizzy.",
+    "pronunciation": "/aɪ fil ˈdɪzi/",
+    "example": "I feel dizzy when I stand up too fast — been happening a lot this week."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm really fatigued.",
+    "pronunciation": "/aɪm ˈrɪli fəˈtiɡd/",
+    "example": "I'm really fatigued — I slept eight hours but I'm still exhausted."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I hurt my knee.",
+    "pronunciation": "/aɪ hɜrt maɪ ni/",
+    "example": "I hurt my knee at the gym — it swelled up pretty bad."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "It's been swollen for two days.",
+    "pronunciation": "/ɪts bɪn ˈswoʊlən fər tu deɪz/",
+    "example": "It's been swollen for two days — I think I need to get it checked out."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I think I sprained my ankle.",
+    "pronunciation": "/aɪ θɪŋk aɪ spreɪnd maɪ ˈæŋkəl/",
+    "example": "I think I sprained my ankle — I stepped in a pothole on my morning run."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Where does it hurt?",
+    "pronunciation": "/wɛr dʌz ɪt hɜrt/",
+    "example": "Where does it hurt exactly? Can you point to the spot?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "On a scale of one to ten...",
+    "pronunciation": "/ɑn ə skeɪl əv wʌn tə tɛn/",
+    "example": "On a scale of one to ten, I'd say the pain is about a seven right now."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "The pain is sharp.",
+    "pronunciation": "/ðə peɪn ɪz ʃɑrp/",
+    "example": "The pain is sharp when I breathe in deeply — it started this morning."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "It's a dull ache.",
+    "pronunciation": "/ɪts ə dʌl eɪk/",
+    "example": "It's a dull ache, not sharp — but it's been constant for three days."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Do I need a prescription for this?",
+    "pronunciation": "/du aɪ nid ə prɪˈskrɪpʃən fər ðɪs/",
+    "example": "Do I need a prescription for this, or can I get it over the counter?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Where's the pain reliever?",
+    "pronunciation": "/wɛrz ðə peɪn rɪˈlivər/",
+    "example": "Where's the pain reliever? I need some ibuprofen for my headache."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "What's the difference between these two?",
+    "pronunciation": "/wʌts ðə ˈdɪfrəns bɪˈtwin ðiz tu/",
+    "example": "What's the difference between these two cold medicines? Which one works better?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "How many can I take at once?",
+    "pronunciation": "/haʊ ˈmɛni kæn aɪ teɪk æt wʌns/",
+    "example": "How many can I take at once? The label is a little hard to read."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can I take this on an empty stomach?",
+    "pronunciation": "/kæn aɪ teɪk ðɪs ɑn ən ˈɛmpti ˈstʌmək/",
+    "example": "Can I take this on an empty stomach or should I eat something first?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "What are the side effects?",
+    "pronunciation": "/wʌt ər ðə saɪd ɪˈfɛkts/",
+    "example": "What are the side effects of this medication? I don't want to feel drowsy."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "This makes me drowsy.",
+    "pronunciation": "/ðɪs meɪks mi ˈdraʊzi/",
+    "example": "This makes me drowsy — I should only take it at night then."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm picking up a prescription.",
+    "pronunciation": "/aɪm ˈpɪkɪŋ ʌp ə prɪˈskrɪpʃən/",
+    "example": "I'm picking up a prescription under the name Garcia — last name G-A-R-C-I-A."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My prescription is ready.",
+    "pronunciation": "/maɪ prɪˈskrɪpʃən ɪz ˈrɛdi/",
+    "example": "My prescription is ready — I got a text saying it was filled an hour ago."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can you refill this for me?",
+    "pronunciation": "/kæn ju riˈfɪl ðɪs fər mi/",
+    "example": "Can you refill this for me? I have one refill left on my insurance."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to talk to the pharmacist.",
+    "pronunciation": "/aɪ nid tə tɔk tə ðə ˈfɑrməsɪst/",
+    "example": "I need to talk to the pharmacist about a drug interaction."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Is this covered by my insurance?",
+    "pronunciation": "/ɪz ðɪs ˈkʌvərd baɪ maɪ ɪnˈʃʊrəns/",
+    "example": "Is this covered by my insurance, or will I need to pay out of pocket?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I don't have insurance right now.",
+    "pronunciation": "/aɪ doʊnt hæv ɪnˈʃʊrəns raɪt naʊ/",
+    "example": "I don't have insurance right now — is there a discount program I can use?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to update my insurance info.",
+    "pronunciation": "/aɪ nid tə ʌpˈdeɪt maɪ ɪnˈʃʊrəns ˈɪnfoʊ/",
+    "example": "I need to update my insurance info — I got a new plan through work."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "The urgent care clinic is nearby.",
+    "pronunciation": "/ðə ˈɜrdʒənt kɛr ˈklɪnɪk ɪz ˈnɪrˌbaɪ/",
+    "example": "The urgent care clinic is nearby — no appointment needed on weekends."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Do I need to go to the ER?",
+    "pronunciation": "/du aɪ nid tə ɡoʊ tə ðə i ɑr/",
+    "example": "Do I need to go to the ER, or can this wait until tomorrow morning?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "How long is the wait at urgent care?",
+    "pronunciation": "/haʊ lɔŋ ɪz ðə weɪt æt ˈɜrdʒənt kɛr/",
+    "example": "How long is the wait at urgent care right now? I checked in online."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to update my medical history.",
+    "pronunciation": "/aɪ nid tə ʌpˈdeɪt maɪ ˈmɛdɪkəl ˈhɪstəri/",
+    "example": "I need to update my medical history — I had surgery since my last visit."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm allergic to penicillin.",
+    "pronunciation": "/aɪm əˈlɜrdʒɪk tə ˌpɛnɪˈsɪlɪn/",
+    "example": "I'm allergic to penicillin — please make sure any antibiotic you prescribe is different."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I take blood pressure medication.",
+    "pronunciation": "/aɪ teɪk blʌd ˈprɛʃər ˌmɛdɪˈkeɪʃən/",
+    "example": "I take blood pressure medication every morning — will this interact with it?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My blood pressure is high.",
+    "pronunciation": "/maɪ blʌd ˈprɛʃər ɪz haɪ/",
+    "example": "My blood pressure is high today — I've been stressed out all week."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to check my blood sugar.",
+    "pronunciation": "/aɪ nid tə tʃɛk maɪ blʌd ˈʃʊɡər/",
+    "example": "I need to check my blood sugar — I haven't eaten since this morning."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "The doctor said to rest and drink fluids.",
+    "pronunciation": "/ðə ˈdɑktər sɛd tə rɛst ænd drɪŋk ˈfludz/",
+    "example": "The doctor said to rest and drink fluids — probably just a viral infection."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to schedule a follow-up.",
+    "pronunciation": "/aɪ nid tə ˈskɛdʒul ə ˈfɑloʊ ʌp/",
+    "example": "I need to schedule a follow-up for next week to check on my progress."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can I get a sick note?",
+    "pronunciation": "/kæn aɪ ɡɛt ə sɪk noʊt/",
+    "example": "Can I get a sick note for my employer? I've missed two days this week."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need a referral to a specialist.",
+    "pronunciation": "/aɪ nid ə rɪˈfɜrəl tə ə ˈspɛʃəlɪst/",
+    "example": "I need a referral to a specialist — my regular doctor thinks it could be serious."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Is this contagious?",
+    "pronunciation": "/ɪz ðɪs kənˈteɪdʒəs/",
+    "example": "Is this contagious? I have kids at home and I don't want to spread it."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Should I stay home from work?",
+    "pronunciation": "/ʃʊd aɪ steɪ hoʊm frʌm wɜrk/",
+    "example": "Should I stay home from work until the fever breaks?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to rest and recover.",
+    "pronunciation": "/aɪ nid tə rɛst ænd rɪˈkʌvər/",
+    "example": "I need to rest and recover — pushing through when sick just makes it worse."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I've been feeling run-down lately.",
+    "pronunciation": "/aɪv bɪn ˈfilɪŋ rʌn daʊn ˈleɪtli/",
+    "example": "I've been feeling run-down lately — probably stress and not enough sleep."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I think I need a vitamin D supplement.",
+    "pronunciation": "/aɪ θɪŋk aɪ nid ə ˈvaɪtəmɪn di ˈsʌpləmənt/",
+    "example": "I think I need a vitamin D supplement — my levels came back low at my last checkup."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm trying to eat healthier.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə it ˈhɛlθiər/",
+    "example": "I'm trying to eat healthier — cutting out processed food and drinking more water."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "How soon will I start feeling better?",
+    "pronunciation": "/haʊ sun wɪl aɪ stɑrt ˈfilɪŋ ˈbɛtər/",
+    "example": "How soon will I start feeling better after taking this antibiotic?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Finish the full course of antibiotics.",
+    "pronunciation": "/ˈfɪnɪʃ ðə fʊl kɔrs əv æntibaɪˈɑtɪks/",
+    "example": "Finish the full course of antibiotics even if you feel better in two days."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'd like a second opinion.",
+    "pronunciation": "/aɪd laɪk ə ˈsɛkənd əˈpɪnjən/",
+    "example": "I'd like a second opinion before committing to surgery."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "What are my options?",
+    "pronunciation": "/wʌt ər maɪ ˈɑpʃənz/",
+    "example": "What are my options here? I'd prefer not to take medication if possible."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "The copay is thirty dollars.",
+    "pronunciation": "/ðə ˈkoʊpeɪ ɪz ˈθɜrti ˈdɑlərz/",
+    "example": "The copay is thirty dollars for a specialist visit with my insurance plan."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My deductible hasn't been met yet.",
+    "pronunciation": "/maɪ dɪˈdʌktɪbəl ˈhæzənt bɪn mɛt jɛt/",
+    "example": "My deductible hasn't been met yet, so I'll be paying more out of pocket this visit."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can I use a GoodRx coupon?",
+    "pronunciation": "/kæn aɪ juz ə ɡʊd ɑrˈɛks ˈkupɑn/",
+    "example": "Can I use a GoodRx coupon for this prescription? It's a lot cheaper that way."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Do you have this in generic?",
+    "pronunciation": "/du ju hæv ðɪs ɪn dʒɪˈnɛrɪk/",
+    "example": "Do you have this in generic? The brand name is too expensive."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I need to schedule my annual checkup.",
+    "pronunciation": "/aɪ nid tə ˈskɛdʒul maɪ ˈænjuəl ˈtʃɛkˌʌp/",
+    "example": "I need to schedule my annual checkup — I haven't been in over a year."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My doctor ordered some blood work.",
+    "pronunciation": "/maɪ ˈdɑktər ˈɔrdərd sʌm blʌd wɜrk/",
+    "example": "My doctor ordered some blood work — I need to fast for twelve hours beforehand."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Where do I get my lab results?",
+    "pronunciation": "/wɛr du aɪ ɡɛt maɪ læb rɪˈzʌlts/",
+    "example": "Where do I get my lab results? Can I see them through the patient portal?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "The wait time is about an hour.",
+    "pronunciation": "/ðə weɪt taɪm ɪz əˈbaʊt ən ˈaʊər/",
+    "example": "The wait time is about an hour — do you want to check in online instead?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'd like to update my emergency contact.",
+    "pronunciation": "/aɪd laɪk tə ʌpˈdeɪt maɪ ɪˈmɜrdʒənsi ˈkɑntækt/",
+    "example": "I'd like to update my emergency contact — my phone number changed recently."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Is there a telehealth option?",
+    "pronunciation": "/ɪz ðɛr ə ˈtɛlɪˌhɛlθ ˈɑpʃən/",
+    "example": "Is there a telehealth option? I'd rather not come in if I don't have to."
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "Can I fill this at any pharmacy?",
+    "pronunciation": "/kæn aɪ fɪl ðɪs æt ˈɛni ˈfɑrməsi/",
+    "example": "Can I fill this at any pharmacy, or does it have to be this specific one?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "My insurance changed — update it please.",
+    "pronunciation": "/maɪ ɪnˈʃʊrəns tʃeɪndʒd ʌpˈdeɪt ɪt pliz/",
+    "example": "My insurance changed at the start of the year — can you update it in the system?"
+  },
+  {
+    "topic": "Health & Pharmacy",
+    "phrase": "I'm feeling a lot better today.",
+    "pronunciation": "/aɪm ˈfilɪŋ ə lɑt ˈbɛtər təˈdeɪ/",
+    "example": "I'm feeling a lot better today — the antibiotics started working pretty fast."
+  }
+]

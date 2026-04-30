@@ -1,0 +1,386 @@
+[
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to check my balance.",
+    "pronunciation": "/aɪ nid tə tʃɛk maɪ ˈbæləns/",
+    "example": "I need to check my balance before I make any big purchases today."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'd like to make a deposit.",
+    "pronunciation": "/aɪd laɪk tə meɪk ə dɪˈpɑzɪt/",
+    "example": "I'd like to make a deposit — I have a check and some cash."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to withdraw some cash.",
+    "pronunciation": "/aɪ nid tə wɪðˈdrɔ sʌm kæʃ/",
+    "example": "I need to withdraw some cash — the place I'm going is cash only."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Is there a fee for that?",
+    "pronunciation": "/ɪz ðɛr ə fi fər ðæt/",
+    "example": "Is there a fee for that? I want to use an ATM on a different network."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I got charged an overdraft fee.",
+    "pronunciation": "/aɪ ɡɑt tʃɑrdʒd ən ˈoʊvərˌdræft fi/",
+    "example": "I got charged an overdraft fee — can you waive it just this once?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I set up direct deposit?",
+    "pronunciation": "/kæn aɪ sɛt ʌp dɪˈrɛkt dɪˈpɑzɪt/",
+    "example": "Can I set up direct deposit for my paycheck? What information do you need?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "My card got declined.",
+    "pronunciation": "/maɪ kɑrd ɡɑt dɪˈklaɪnd/",
+    "example": "My card got declined — that's strange, I know there's money in there."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to report a lost card.",
+    "pronunciation": "/aɪ nid tə rɪˈpɔrt ə lɔst kɑrd/",
+    "example": "I need to report a lost card — I think I left it at the restaurant last night."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can you freeze my account?",
+    "pronunciation": "/kæn ju friz maɪ əˈkaʊnt/",
+    "example": "Can you freeze my account? I think someone may have stolen my card number."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "There's a suspicious charge on my account.",
+    "pronunciation": "/ðɛrz ə səˈspɪʃəs tʃɑrdʒ ɑn maɪ əˈkaʊnt/",
+    "example": "There's a suspicious charge on my account — I didn't buy anything from that store."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'd like to dispute this charge.",
+    "pronunciation": "/aɪd laɪk tə dɪˈspjut ðɪs tʃɑrdʒ/",
+    "example": "I'd like to dispute this charge — I never received the item I paid for."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "How long does a transfer take?",
+    "pronunciation": "/haʊ lɔŋ dʌz ə ˈtrænsfɜr teɪk/",
+    "example": "How long does a transfer take between two different banks?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to send money to someone.",
+    "pronunciation": "/aɪ nid tə sɛnd ˈmʌni tə ˈsʌmˌwʌn/",
+    "example": "I need to send money to someone — can I do that through Zelle?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'll send it through Venmo.",
+    "pronunciation": "/aɪl sɛnd ɪt θru ˈvɛnmoʊ/",
+    "example": "I'll send it through Venmo — what's your username?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Split it evenly between us.",
+    "pronunciation": "/splɪt ɪt ˈivənli bɪˈtwin ʌs/",
+    "example": "Split it evenly between us — thirty bucks each should cover it."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'll get you back later.",
+    "pronunciation": "/aɪl ɡɛt ju bæk ˈleɪtər/",
+    "example": "I'll get you back later — I don't have cash on me right now."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "You owe me twenty dollars.",
+    "pronunciation": "/ju oʊ mi ˈtwɛnti ˈdɑlərz/",
+    "example": "You owe me twenty dollars from dinner last Tuesday — don't forget!"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Is the tip included?",
+    "pronunciation": "/ɪz ðə tɪp ɪnˈkludɪd/",
+    "example": "Is the tip included for large parties, or do we add it ourselves?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "How much should I tip?",
+    "pronunciation": "/haʊ mʌtʃ ʃʊd aɪ tɪp/",
+    "example": "How much should I tip for a to-go order? I never know the etiquette."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Twenty percent is standard.",
+    "pronunciation": "/ˈtwɛnti pərˈsɛnt ɪz ˈstændərd/",
+    "example": "Twenty percent is standard for sit-down restaurants with good service."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm on a tight budget.",
+    "pronunciation": "/aɪm ɑn ə taɪt ˈbʌdʒɪt/",
+    "example": "I'm on a tight budget this month — no unnecessary spending."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to cut back on spending.",
+    "pronunciation": "/aɪ nid tə kʌt bæk ɑn ˈspɛndɪŋ/",
+    "example": "I need to cut back on spending — I went way over my budget last month."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm saving up for a car.",
+    "pronunciation": "/aɪm ˈseɪvɪŋ ʌp fər ə kɑr/",
+    "example": "I'm saving up for a car — trying to put aside five hundred a month."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I have automatic bill pay set up.",
+    "pronunciation": "/aɪ hæv ˌɔtəˈmætɪk bɪl peɪ sɛt ʌp/",
+    "example": "I have automatic bill pay set up so I never miss a due date."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "My payment is due this Friday.",
+    "pronunciation": "/maɪ ˈpeɪmənt ɪz du ðɪs ˈfraɪdeɪ/",
+    "example": "My payment is due this Friday — I need to make sure there's enough in the account."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm behind on my bills.",
+    "pronunciation": "/aɪm bɪˈhaɪnd ɑn maɪ bɪlz/",
+    "example": "I'm behind on my bills — it's been a tough couple of months financially."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I set up a payment plan?",
+    "pronunciation": "/kæn aɪ sɛt ʌp ə ˈpeɪmənt plæn/",
+    "example": "Can I set up a payment plan? I can't pay the full amount all at once."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "What's the interest rate?",
+    "pronunciation": "/wʌts ðə ˈɪntrɪst reɪt/",
+    "example": "What's the interest rate on this credit card? I want to avoid high APR."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm trying to build my credit score.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə bɪld maɪ ˈkrɛdɪt skɔr/",
+    "example": "I'm trying to build my credit score — paying everything on time helps the most."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "My credit score took a hit.",
+    "pronunciation": "/maɪ ˈkrɛdɪt skɔr tʊk ə hɪt/",
+    "example": "My credit score took a hit after I missed a payment last year."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to open a savings account.",
+    "pronunciation": "/aɪ nid tə ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt/",
+    "example": "I need to open a savings account — my checking is fine but I need to save more."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "What documents do I need to open an account?",
+    "pronunciation": "/wʌt ˈdɑkjəmənts du aɪ nid tə ˈoʊpən ən əˈkaʊnt/",
+    "example": "What documents do I need to open an account? Just my ID and a deposit?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Is there a minimum balance?",
+    "pronunciation": "/ɪz ðɛr ə ˈmɪnɪməm ˈbæləns/",
+    "example": "Is there a minimum balance to avoid the monthly maintenance fee?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to cash a check.",
+    "pronunciation": "/aɪ nid tə kæʃ ə tʃɛk/",
+    "example": "I need to cash a check — do I need an account here to do that?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I mobile deposit this check?",
+    "pronunciation": "/kæn aɪ ˈmoʊbəl dɪˈpɑzɪt ðɪs tʃɛk/",
+    "example": "Can I mobile deposit this check through the app, or do I have to come in?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "How long until the funds clear?",
+    "pronunciation": "/haʊ lɔŋ ənˈtɪl ðə fʌndz klɪr/",
+    "example": "How long until the funds clear? I need to use that money tomorrow."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I want to apply for a loan.",
+    "pronunciation": "/aɪ wɑnt tə əˈplaɪ fər ə loʊn/",
+    "example": "I want to apply for a loan — I'm trying to buy a used car."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "What are the loan terms?",
+    "pronunciation": "/wʌt ər ðə loʊn tɜrmz/",
+    "example": "What are the loan terms? How many months to pay it off?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "My monthly payment would be...",
+    "pronunciation": "/maɪ ˈmʌnθli ˈpeɪmənt wʊd bi/",
+    "example": "My monthly payment would be around two hundred — I think I can manage that."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to change my PIN.",
+    "pronunciation": "/aɪ nid tə tʃeɪndʒ maɪ pɪn/",
+    "example": "I need to change my PIN — I think someone might have seen me enter it."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "This ATM is out of service.",
+    "pronunciation": "/ðɪs eɪ ti ɛm ɪz aʊt əv ˈsɜrvɪs/",
+    "example": "This ATM is out of service — I'll try the one at the gas station down the road."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Where's the nearest ATM?",
+    "pronunciation": "/wɛrz ðə ˈnɪrɪst eɪ ti ɛm/",
+    "example": "Where's the nearest ATM? I need to grab some cash before the market."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I prefer to pay cash.",
+    "pronunciation": "/aɪ prɪˈfɜr tə peɪ kæʃ/",
+    "example": "I prefer to pay cash — it helps me stick to my budget better."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Do you have change for a twenty?",
+    "pronunciation": "/du ju hæv tʃeɪndʒ fər ə ˈtwɛnti/",
+    "example": "Do you have change for a twenty? I only have big bills on me right now."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "The tax comes out to about eight percent.",
+    "pronunciation": "/ðə tæks kʌmz aʊt tə əˈbaʊt eɪt pərˈsɛnt/",
+    "example": "The tax comes out to about eight percent in Texas — no state income tax though."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to file my taxes.",
+    "pronunciation": "/aɪ nid tə faɪl maɪ ˈtæksɪz/",
+    "example": "I need to file my taxes before April fifteenth — I always wait until the last minute."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm getting a refund this year.",
+    "pronunciation": "/aɪm ˈɡɛtɪŋ ə rɪˈfʌnd ðɪs jɪr/",
+    "example": "I'm getting a refund this year — I'm going to put it straight into savings."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I owe taxes this year.",
+    "pronunciation": "/aɪ oʊ ˈtæksɪz ðɪs jɪr/",
+    "example": "I owe taxes this year — I didn't have enough withheld from my paychecks."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I speak to a banker?",
+    "pronunciation": "/kæn aɪ spik tə ə ˈbæŋkər/",
+    "example": "Can I speak to a banker? I have some questions about my account options."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to update my address on file.",
+    "pronunciation": "/aɪ nid tə ʌpˈdeɪt maɪ ˈædrɛs ɑn faɪl/",
+    "example": "I need to update my address on file — I moved to San Marcos two months ago."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Money's been tight lately.",
+    "pronunciation": "/ˈmʌniz bɪn taɪt ˈleɪtli/",
+    "example": "Money's been tight lately — I'm just trying to get through the month."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I get a cashier's check?",
+    "pronunciation": "/kæn aɪ ɡɛt ə kəˈʃɪrz tʃɛk/",
+    "example": "Can I get a cashier's check for the security deposit? The landlord requires it."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "What's the wire transfer fee?",
+    "pronunciation": "/wʌts ðə ˈwaɪər ˈtrænsfɜr fi/",
+    "example": "What's the wire transfer fee for sending money internationally?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'd like to open a joint account.",
+    "pronunciation": "/aɪd laɪk tə ˈoʊpən ə dʒɔɪnt əˈkaʊnt/",
+    "example": "I'd like to open a joint account with my spouse — what do we both need to bring?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm trying to avoid overdraft fees.",
+    "pronunciation": "/aɪm ˈtraɪɪŋ tə əˈvɔɪd ˈoʊvərˌdræft fiz/",
+    "example": "I'm trying to avoid overdraft fees — can I link my savings as a backup?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "How do I set up online bill pay?",
+    "pronunciation": "/haʊ du aɪ sɛt ʌp ˈɑnˌlaɪn bɪl peɪ/",
+    "example": "How do I set up online bill pay through the banking app?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I need to dispute an unauthorized charge.",
+    "pronunciation": "/aɪ nid tə dɪˈspjut ən ʌnˈɔθəˌraɪzd tʃɑrdʒ/",
+    "example": "I need to dispute an unauthorized charge — I've never heard of this merchant."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I see my transaction history?",
+    "pronunciation": "/kæn aɪ si maɪ trænˈzækʃən ˈhɪstəri/",
+    "example": "Can I see my transaction history for the past thirty days?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'd like to increase my credit limit.",
+    "pronunciation": "/aɪd laɪk tə ɪnˈkris maɪ ˈkrɛdɪt ˈlɪmɪt/",
+    "example": "I'd like to increase my credit limit — I've had the card for two years with no late payments."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "My check bounced.",
+    "pronunciation": "/maɪ tʃɛk baʊnst/",
+    "example": "My check bounced — I didn't realize the funds hadn't cleared yet. I'm so embarrassed."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'm saving for a down payment.",
+    "pronunciation": "/aɪm ˈseɪvɪŋ fər ə daʊn ˈpeɪmənt/",
+    "example": "I'm saving for a down payment on a house — it takes a lot of discipline."
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "Can I link my accounts?",
+    "pronunciation": "/kæn aɪ lɪŋk maɪ əˈkaʊnts/",
+    "example": "Can I link my accounts so I can transfer money between them easily?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "What's my available credit?",
+    "pronunciation": "/wʌts maɪ əˈveɪləbəl ˈkrɛdɪt/",
+    "example": "What's my available credit on this card right now?"
+  },
+  {
+    "topic": "Banking & Money",
+    "phrase": "I'd like to close this account.",
+    "pronunciation": "/aɪd laɪk tə kloʊz ðɪs əˈkaʊnt/",
+    "example": "I'd like to close this account — I haven't used it in over a year."
+  }
+]
