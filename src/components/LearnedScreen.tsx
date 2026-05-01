@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react';
 import { ALL_TOPICS } from '../data/index.ts';
 import { getAllCardStates } from '../lib/storage.ts';
-import { cancelSpeech, speak } from '../lib/tts.ts';
+import { cancelSpeech } from '../lib/tts.ts';
 import type { Card, CardState } from '../types/index.ts';
+import { FlashCard } from './FlashCard.tsx';
 import './LearnedScreen.css';
 
 interface Props {
@@ -25,21 +26,25 @@ interface ChartDay {
 
 const STAGE_LABELS = ['New', '1 day', '3 days', '7 days', '14 days', 'Mastered'];
 
+const TZ = 'America/Chicago';
+const TZ_FMT = new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' });
+const TZ_LABEL = new Intl.DateTimeFormat('en-US', { timeZone: TZ, month: 'short', day: 'numeric' });
+const tzDate = (d: Date) => TZ_FMT.format(d);
+
 function buildChartDays(cards: LearnedCard[]): ChartDay[] {
   const countMap: Record<string, number> = {};
   for (const { state } of cards) {
     if (state.learnedAt) {
-      const date = state.learnedAt.split('T')[0];
+      const date = tzDate(new Date(state.learnedAt)); // TX date
       countMap[date] = (countMap[date] ?? 0) + 1;
     }
   }
-
   const days: ChartDay[] = [];
   for (let i = 29; i >= 0; i--) {
     const d = new Date();
     d.setDate(d.getDate() - i);
-    const date = d.toISOString().split('T')[0];
-    const label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    const date = tzDate(d);
+    const label = TZ_LABEL.format(d);
     days.push({ date, label, count: countMap[date] ?? 0 });
   }
   return days;
@@ -48,7 +53,6 @@ function buildChartDays(cards: LearnedCard[]): ChartDay[] {
 function DailyChart({ days }: { days: ChartDay[] }) {
   const max = Math.max(...days.map((d) => d.count), 1);
   const total = days.reduce((s, d) => s + d.count, 0);
-
   return (
     <div className="lc-chart">
       <div className="lc-chart__header">
@@ -57,11 +61,7 @@ function DailyChart({ days }: { days: ChartDay[] }) {
       </div>
       <div className="lc-chart__bars">
         {days.map(({ date, label, count }) => (
-          <div
-            key={date}
-            className="lc-chart__col"
-            title={`${label}: ${count} word${count !== 1 ? 's' : ''}`}
-          >
+          <div key={date} className="lc-chart__col" title={`${label}: ${count} word${count !== 1 ? 's' : ''}`}>
             <div
               className={`lc-chart__bar ${count > 0 ? 'lc-chart__bar--filled' : ''}`}
               style={{ height: `${count > 0 ? Math.max((count / max) * 100, 10) : 4}%` }}
@@ -78,16 +78,6 @@ function DailyChart({ days }: { days: ChartDay[] }) {
   );
 }
 
-function SpeakerIcon() {
-  return (
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
-      <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
-      <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />
-    </svg>
-  );
-}
-
 type StageFilter = 'all' | 'learning' | 'mastered';
 
 export function LearnedScreen({ onBack }: Props) {
@@ -96,7 +86,8 @@ export function LearnedScreen({ onBack }: Props) {
   const [topicFilter, setTopicFilter] = useState('all');
   const [stageFilter, setStageFilter] = useState<StageFilter>('all');
   const [search, setSearch] = useState('');
-  const [playingId, setPlayingId] = useState<string | null>(null);
+  const [selected, setSelected] = useState<LearnedCard | null>(null);
+  const [modalFlipped, setModalFlipped] = useState(false);
 
   useEffect(() => {
     getAllCardStates().then((states) => {
@@ -105,13 +96,7 @@ export function LearnedScreen({ onBack }: Props) {
         for (const card of topic.cards) {
           const state = states[card.id];
           if (state && state.stage >= 1) {
-            cards.push({
-              card,
-              state,
-              topicSlug: topic.slug,
-              topicName: topic.name,
-              topicEmoji: topic.emoji,
-            });
+            cards.push({ card, state, topicSlug: topic.slug, topicName: topic.name, topicEmoji: topic.emoji });
           }
         }
       }
@@ -122,16 +107,25 @@ export function LearnedScreen({ onBack }: Props) {
 
   useEffect(() => () => { cancelSpeech(); }, []);
 
-  function handleSpeak(card: Card, e: React.MouseEvent) {
-    e.stopPropagation();
-    if (playingId === card.id) {
-      cancelSpeech();
-      setPlayingId(null);
-      return;
+  // Close modal on Escape
+  useEffect(() => {
+    if (!selected) return;
+    function onKey(e: KeyboardEvent) {
+      if (e.key === 'Escape') closeModal();
     }
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [selected]);
+
+  function openModal(lc: LearnedCard) {
     cancelSpeech();
-    setPlayingId(card.id);
-    speak(card.phrase).finally(() => setPlayingId(null));
+    setSelected(lc);
+    setModalFlipped(false);
+  }
+
+  function closeModal() {
+    cancelSpeech();
+    setSelected(null);
   }
 
   const filtered = learnedCards.filter((lc) => {
@@ -140,10 +134,7 @@ export function LearnedScreen({ onBack }: Props) {
     if (stageFilter === 'mastered' && lc.state.stage < 5) return false;
     if (search) {
       const q = search.toLowerCase();
-      return (
-        lc.card.phrase.toLowerCase().includes(q) ||
-        lc.card.example.toLowerCase().includes(q)
-      );
+      return lc.card.phrase.toLowerCase().includes(q) || lc.card.example.toLowerCase().includes(q);
     }
     return true;
   });
@@ -170,7 +161,6 @@ export function LearnedScreen({ onBack }: Props) {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
-
         <div className="learned__tabs">
           {(['all', 'learning', 'mastered'] as StageFilter[]).map((tab) => {
             const count = tab === 'all' ? learnedCards.length : tab === 'learning' ? learningCount : masteredCount;
@@ -186,7 +176,6 @@ export function LearnedScreen({ onBack }: Props) {
             );
           })}
         </div>
-
         <select
           className="learned__topic-select"
           value={topicFilter}
@@ -212,30 +201,56 @@ export function LearnedScreen({ onBack }: Props) {
               : 'No phrases match your filters.'}
           </div>
         ) : (
-          filtered.map(({ card, state, topicEmoji, topicName }) => (
-            <div key={card.id} className="learned__item">
-              <div className="learned__item-body">
-                <p className="learned__phrase">{card.phrase}</p>
-                <p className="learned__pronunciation">{card.pronunciation}</p>
-                <p className="learned__example">{card.example}</p>
-                <span className="learned__topic-tag">{topicEmoji} {topicName}</span>
-              </div>
-              <div className="learned__item-aside">
+          filtered.map((lc) => {
+            const { card, state, topicEmoji, topicName } = lc;
+            return (
+              <div
+                key={card.id}
+                className="learned__item"
+                onClick={() => openModal(lc)}
+                role="button"
+                tabIndex={0}
+                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') openModal(lc); }}
+              >
+                <div className="learned__item-body">
+                  <p className="learned__phrase">{card.phrase}</p>
+                  <p className="learned__pronunciation">{card.pronunciation}</p>
+                  <p className="learned__example">{card.example}</p>
+                  <span className="learned__topic-tag">{topicEmoji} {topicName}</span>
+                </div>
                 <span className={`learned__badge ${state.stage >= 5 ? 'learned__badge--mastered' : ''}`}>
                   {state.stage >= 5 ? '★ Mastered' : STAGE_LABELS[state.stage]}
                 </span>
-                <button
-                  className={`learned__speak ${playingId === card.id ? 'learned__speak--playing' : ''}`}
-                  onClick={(e) => handleSpeak(card, e)}
-                  aria-label="Speak phrase"
-                >
-                  <SpeakerIcon />
-                </button>
               </div>
-            </div>
-          ))
+            );
+          })
         )}
       </main>
+
+      {/* Flashcard modal */}
+      {selected && (
+        <div className="lc-modal" onClick={closeModal} role="dialog" aria-modal="true">
+          <div className="lc-modal__content" onClick={(e) => e.stopPropagation()}>
+            <div className="lc-modal__top">
+              <span className="lc-modal__topic">
+                {selected.topicEmoji} {selected.topicName}
+              </span>
+              <button className="lc-modal__close" onClick={closeModal} aria-label="Close">✕</button>
+            </div>
+            <FlashCard
+              key={selected.card.id}
+              card={selected.card}
+              flipped={modalFlipped}
+              onFlip={() => setModalFlipped(true)}
+            />
+            {modalFlipped && (
+              <button className="lc-modal__reset" onClick={() => setModalFlipped(false)}>
+                ↩ Flip back
+              </button>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

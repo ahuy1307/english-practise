@@ -27,3 +27,4 @@ supabase/.temp/
 *.sw?
 
 supabase/.temp/
+.env

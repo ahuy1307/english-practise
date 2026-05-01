@@ -19,12 +19,15 @@ function calcStreak(log: ReviewDay[]): number {
   for (let i = 0; i < 365; i++) {
     const d = new Date(today);
     d.setDate(d.getDate() - i);
-    const key = d.toISOString().split('T')[0];
-    if (dateSet.has(key)) streak++;
+    if (dateSet.has(tzDate(d))) streak++;
     else break;
   }
   return streak;
 }
+
+const TZ = 'America/Chicago';
+const TZ_FMT = new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' });
+const tzDate = (d: Date) => TZ_FMT.format(d); // YYYY-MM-DD in San Marcos TX time
 
 function buildHeatmapDays(log: ReviewDay[]): { date: string; count: number }[] {
   const countMap: Record<string, number> = {};
@@ -34,7 +37,7 @@ function buildHeatmapDays(log: ReviewDay[]): { date: string; count: number }[] {
   for (let i = 29; i >= 0; i--) {
     const d = new Date();
     d.setDate(d.getDate() - i);
-    const key = d.toISOString().split('T')[0];
+    const key = tzDate(d); // TX date matches storage.ts grouping
     days.push({ date: key, count: countMap[key] ?? 0 });
   }
   return days;
@@ -48,11 +51,58 @@ function heatIntensity(count: number): string {
   return 'heat-4';
 }
 
+function GoalRing({ count, goal }: { count: number; goal: number }) {
+  const r = 34;
+  const circ = 2 * Math.PI * r;
+  const pct = Math.min(count / Math.max(goal, 1), 1);
+  const offset = circ * (1 - pct);
+  const done = count >= goal;
+  return (
+    <svg viewBox="0 0 88 88" width="80" height="80" style={{ flexShrink: 0 }}>
+      <circle cx="44" cy="44" r={r} fill="none" stroke="var(--surface-3)" strokeWidth="6" />
+      <circle
+        cx="44" cy="44" r={r}
+        fill="none"
+        stroke={done ? 'var(--accent)' : 'var(--accent-dim)'}
+        strokeWidth="6"
+        strokeLinecap="round"
+        strokeDasharray={circ}
+        strokeDashoffset={offset}
+        transform="rotate(-90 44 44)"
+        style={{ transition: 'stroke-dashoffset 0.5s ease' }}
+      />
+      <text x="44" y="40" textAnchor="middle" dominantBaseline="middle"
+        fill={done ? 'var(--accent)' : 'var(--text)'}
+        fontSize="20" fontWeight="600"
+        fontFamily="Cormorant Garamond, Georgia, serif">
+        {count}
+      </text>
+      <text x="44" y="56" textAnchor="middle" dominantBaseline="middle"
+        fill="var(--text-faint)" fontSize="10"
+        fontFamily="DM Sans, system-ui, sans-serif">
+        {done ? '✓ done' : `/ ${goal}`}
+      </text>
+    </svg>
+  );
+}
+
 export function HomeScreen({ onSelectTopic, onStartPractice, onViewLearned }: Props) {
   const [progress, setProgress] = useState<Record<string, TopicProgress>>({});
   const [reviewLog, setReviewLog] = useState<ReviewDay[]>([]);
   const [dueReview, setDueReview] = useState(0);
+  const [todayCount, setTodayCount] = useState(0);
   const [loading, setLoading] = useState(true);
+  const [dailyGoal, setDailyGoal] = useState(() =>
+    Math.max(5, parseInt(localStorage.getItem('daily-goal') ?? '10', 10))
+  );
+
+  function changeGoal(delta: number) {
+    setDailyGoal((g) => {
+      const next = Math.max(5, Math.min(200, g + delta));
+      localStorage.setItem('daily-goal', String(next));
+      return next;
+    });
+  }
 
   useEffect(() => {
     Promise.all([getAllCardStates(), getReviewLog()]).then(([states, log]) => {
@@ -83,6 +133,15 @@ export function HomeScreen({ onSelectTopic, onStartPractice, onViewLearned }: Pr
         }
       }
       setDueReview(dueReviewGlobal);
+
+      // Count unique cards reviewed today (TX date) — one card counts once
+      // regardless of how many times it was rated in a session
+      const todayTX = tzDate(new Date());
+      const reviewed = Object.values(states).filter(
+        (s) => s.updatedAt && tzDate(new Date(s.updatedAt)) === todayTX
+      ).length;
+      setTodayCount(reviewed);
+
       setProgress(map);
       setReviewLog(log);
       setLoading(false);
@@ -90,7 +149,6 @@ export function HomeScreen({ onSelectTopic, onStartPractice, onViewLearned }: Pr
   }, []);
 
   const totalMastered = Object.values(progress).reduce((s, p) => s + p.masteredCount, 0);
-  const totalDue = Object.values(progress).reduce((s, p) => s + p.due, 0);
   const totalLearning = Object.values(progress).reduce((s, p) => s + p.learningCount, 0);
   const streak = calcStreak(reviewLog);
   const heatDays = buildHeatmapDays(reviewLog);
@@ -128,8 +186,28 @@ export function HomeScreen({ onSelectTopic, onStartPractice, onViewLearned }: Pr
                   <span className="dashboard__stat-label">learning</span>
                 </div>
                 <div className="dashboard__stat">
-                  <span className="dashboard__stat-value">{totalDue}</span>
+                  <span className="dashboard__stat-value">{dueReview}</span>
                   <span className="dashboard__stat-label">due today</span>
+                </div>
+              </div>
+
+              {/* Daily goal ring */}
+              <div className="dashboard__goal">
+                <GoalRing count={todayCount} goal={dailyGoal} />
+                <div className="dashboard__goal-body">
+                  <p className="dashboard__goal-title">
+                    {todayCount >= dailyGoal ? 'Daily goal reached!' : 'Daily goal'}
+                  </p>
+                  <p className="dashboard__goal-desc">
+                    {todayCount >= dailyGoal
+                      ? `${todayCount} cards reviewed today`
+                      : `${dailyGoal - todayCount} more to go`}
+                  </p>
+                  <div className="dashboard__goal-controls">
+                    <button className="dashboard__goal-btn" onClick={() => changeGoal(-5)} aria-label="Decrease goal">−</button>
+                    <span className="dashboard__goal-target">Goal: {dailyGoal}</span>
+                    <button className="dashboard__goal-btn" onClick={() => changeGoal(+5)} aria-label="Increase goal">+</button>
+                  </div>
                 </div>
               </div>
 

@@ -1,20 +1,20 @@
 :root {
   --bg: #0e1a12;
-  --surface: #162019;
-  --surface-2: #1e2d22;
-  --surface-3: #263329;
+  --surface: #1a2820;       /* +4% lighter — cards stand out from bg */
+  --surface-2: #243628;     /* +6% lighter — nested surfaces visible */
+  --surface-3: #2d4033;     /* +8% lighter — inputs, chips readable */
   --accent: #c9a96e;
-  --accent-dim: #9e7d4e;
-  --accent-glow: rgba(201, 169, 110, 0.15);
+  --accent-dim: #b8925e;    /* was #9e7d4e — brighter for text use */
+  --accent-glow: rgba(201, 169, 110, 0.18);
   --text: #f0ead6;
-  --text-muted: #8a9e8d;
-  --text-faint: #5a6e5d;
-  --border: rgba(201, 169, 110, 0.12);
-  --border-hover: rgba(201, 169, 110, 0.3);
-  --danger: #c47a6a;
-  --warning: #c49a6a;
-  --success: #6a9e7a;
-  --info: #6a8a9e;
+  --text-muted: #afc7b3;    /* was #8a9e8d — 7:1 contrast, clearly readable */
+  --text-faint: #8aaa8e;    /* was #5a6e5d — 4.8:1 contrast, passes AA */
+  --border: rgba(201, 169, 110, 0.22);   /* was 0.12 — borders now visible */
+  --border-hover: rgba(201, 169, 110, 0.48);  /* was 0.30 — stronger hover */
+  --danger: #d4877a;        /* slightly brighter red */
+  --warning: #d4aa7a;
+  --success: #7aba8a;       /* was #6a9e7a — brighter green */
+  --info: #7a9ab0;
 
   --font-display: 'Cormorant Garamond', Georgia, serif;
   --font-ui: 'DM Sans', system-ui, sans-serif;

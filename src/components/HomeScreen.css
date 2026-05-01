@@ -84,6 +84,68 @@
   letter-spacing: 0.04em;
 }
 
+/* ── Daily goal ring ── */
+.dashboard__goal {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 4px 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.dashboard__goal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+
+.dashboard__goal-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.dashboard__goal-desc {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.dashboard__goal-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.dashboard__goal-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text-muted);
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, border-color 0.15s;
+  line-height: 1;
+}
+
+.dashboard__goal-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent-dim);
+}
+
+.dashboard__goal-target {
+  font-size: 12px;
+  color: var(--text-faint);
+  min-width: 52px;
+  text-align: center;
+}
+
 /* Heatmap */
 .dashboard__heatmap-wrap {
   display: flex;

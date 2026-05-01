@@ -1,34 +1,29 @@
-import { useState } from 'react';
 import { HomeScreen } from './components/HomeScreen.tsx';
 import { LearnedScreen } from './components/LearnedScreen.tsx';
 import { StudyScreen } from './components/StudyScreen.tsx';
-
-type Screen =
-  | { name: 'home' }
-  | { name: 'study'; topicSlug: string | null }
-  | { name: 'learned' };
+import { navigate, useRoute } from './lib/router.ts';
 
 export default function App() {
-  const [screen, setScreen] = useState<Screen>({ name: 'home' });
+  const route = useRoute();
 
-  if (screen.name === 'study') {
+  if (route.name === 'study') {
     return (
       <StudyScreen
-        topicSlug={screen.topicSlug}
-        onExit={() => setScreen({ name: 'home' })}
+        topicSlug={route.topicSlug}
+        onExit={() => navigate('')}
       />
     );
   }
 
-  if (screen.name === 'learned') {
-    return <LearnedScreen onBack={() => setScreen({ name: 'home' })} />;
+  if (route.name === 'learned') {
+    return <LearnedScreen onBack={() => navigate('')} />;
   }
 
   return (
     <HomeScreen
-      onSelectTopic={(slug) => setScreen({ name: 'study', topicSlug: slug })}
-      onStartPractice={() => setScreen({ name: 'study', topicSlug: null })}
-      onViewLearned={() => setScreen({ name: 'learned' })}
+      onSelectTopic={(slug) => navigate(`topic/${slug}`)}
+      onStartPractice={() => navigate('practice')}
+      onViewLearned={() => navigate('learned')}
     />
   );
 }
